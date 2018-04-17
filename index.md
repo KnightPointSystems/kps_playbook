@@ -21,7 +21,7 @@ Each section within this project (see above for sections), includes their own pa
 to freely express their ideals and practices. All work should be done via GithHub Pull Requests, with a reviewer
 (or pair) on each to make sure the content being published is both technically and gramatically accurate.
 
-One should not feel pressure to contribute, but it would be awesonme if you decide. It does not matter how
+One should not feel pressure to contribute, but it would be awesome if you decide. It does not matter how
 experienced, technical, or creative you are. Good ideas can come from anywhere, and what better way to collect
 and share these than a forum like this.
 
