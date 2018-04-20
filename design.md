@@ -20,16 +20,15 @@ _**User Centered Design-Lean UX-Design Thinking**_
 * Brainstorming techniques for convergent and divergent thinking
 * Mitigating UX decisions ie. style, look, feel, etc
 * Testing methodologies, data collection and managing user feedback
-* Assessabilit> y and Dis
-ability standards
+* Accessibility and Disability standards
 
 ## `HOW` 
 **_Build, Measure, Learn_**
 
 ### Discovery
-* Meet with ITPM and necessary stakeholders to kickoff engagment (get baseline/MVP requirements) ITPM demo/review of current systems (issues and priorities)
+* Meet with ITPM and necessary stakeholders to kickoff engagement (get baseline/MVP requirements) ITPM demo/review of current systems (issues and priorities)
     **Research and Investigate**
-* Get usernames, passwords, URLs and permissions to the current system (stagging not production)
+* Get usernames, passwords, URLs and permissions to the current system (staging not production)
 * Gather past user feedback on current system from ITPM
 * Conduct a heuristics review of the workflows and UIs of the current system
 * Work with ITPM to source the "KEY" end users/SMEs of the system their needs, requirements and preferences.
