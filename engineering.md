@@ -9,8 +9,9 @@ permalink: /engineering/
 - Insert bullets here on what it is the engineering team does
 
 ## `Practices`
-
-- Insert bullets here on the practices we use (TDD, Pairing...)
+* DevOps Culture
+* [Test-Driven Development]("{site.baseurl}/submissions/engineering/TDD.md")
+* Pairing
 
 ## `How`
 

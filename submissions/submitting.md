@@ -3,4 +3,4 @@ A playbook is a set of prescriptions for how to do work. Since DID(IT) is a cult
 
 While we encourage substantive debate, we would like to avoid line-editing for grammar and/or style. We can review those aspects of content on the playbook pages themselves.
 
-A sample submission is provided in Engineering.
+A sample submission is provided in Engineering, [Test-Driven Development]("{site.baseurl}/submissions/engineering/TDD.md").
