@@ -10,7 +10,7 @@ permalink: /engineering/
 
 ## `Practices`
 * DevOps Culture
-* [Test-Driven Development]("{site.baseurl}/submissions/engineering/TDD.md")
+* [Test-Driven Development](../submissions/engineering/TDD)
 * Pairing
 
 ## `How`
