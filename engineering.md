@@ -1,31 +1,39 @@
 ---
 layout: page
 title: Engineering
-permalink: /engineering/
+permalink: /engineering
 ---
 
-## `Role Description`
+The engineers at DID(it) are a creative group that finds ways to develop solutions
+using modern development technologies. This group involves everything from junior
+developers, senior developers, devops engineers, to ops engineers; but all have
+the same goals. To build great and stable products for our customers in a
+conscious and innovative way. 
 
-- Insert bullets here on what it is the engineering team does
+## Practices
 
-## `Practices`
-* DevOps Culture
-* [Test-Driven Development](../submissions/engineering/TDD)
-* Pairing
+* [Test-Driven Development]({{ site.baseurl }}/submissions/engineering/TDD)
+* [DevOps Culture]() (TODO)
+* [Pairing]() (TODO)
 
-## `How`
+## Doc Submissions
 
-- Insert bullets here on HOW we get perform this role
+A core practice of the engineering part of this playbook is submissions.
+Submissions are a way where people can contribute and critique the content
+that enters this playbook. This really gives our engineers the ability to
+craft this the way we desire.
+
+More information about these submissions and currently open submissions can
+be found here: [Submissions]({{ site.baseurl }}/submissions)
 
 ## `Sample Code`
 
 ```ruby
-class User < ApplicationRecord
-  has_many :posts
-  belongs_to :group
-  
-  def full_name
-    "#{first_name} #{last_name}"
+class Greeting
+  def self.hello
+    'Hello Everyone!'
   end
 end
+
+Greeting.hello() # => 'Hello Everyone!'
 ```
