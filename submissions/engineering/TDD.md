@@ -1,4 +1,10 @@
+---
+layout: submission
+permalink: /submissions/engineering/TDD
+---
+
 # Test-Driven Development
+
 There's broad agreement among developers about the value of automated testing. At DID(IT), we value consistency and reliability, and we recognize the essential value of a comprehensive automated test suite for each project in our portfolio.
 We never forget that what we really deliver for our end users is a change in the way they do their work. Our work becomes a part of their work flow. We take responsibility for helping our clients to improve their work cadence and effectiveness. In order to do that, we must consistently deliver reliable solutions.
 
