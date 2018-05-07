@@ -6,14 +6,14 @@ permalink: /engineering
 
 The engineers at DID(it) are a creative group that finds ways to develop solutions
 using modern development technologies. This group involves everything from junior
-developers, senior developers, devops engineers, to ops engineers; but all have
+developers, senior developers, DevOps engineers, to ops engineers; but all have
 the same goals. To build great and stable products for our customers in a
 conscious and innovative way. 
 
 ## Practices
 
-* [Test-Driven Development]({{ site.baseurl }}/submissions/engineering/TDD)
-* [DevOps Culture]() (Coming soon)
+* [Test-Driven Development]({{ site.baseurl }}/submissions/engineering/tdd)
+* [DevOps Culture]({{ site.baseurl }}/submissions/engineering/devops) (Coming soon)
 * [Pairing]() (Coming soon)
 
 ## Some of the Tools We Use
@@ -36,7 +36,7 @@ that enters this playbook. This really gives our engineers the ability to
 craft this the way we desire.
 
 More information about these submissions and currently open submissions can
-be found [here]({{ site.baseurl }}/submissions).
+be found [here]({{ site.baseurl }}/submissions/).
 
 ## Welcome
 

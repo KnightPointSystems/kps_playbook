@@ -1,14 +1,13 @@
 ---
 layout: submission
-permalink: /submissions/engineering/TDD
+title: Test-Driven Development
+permalink: /submissions/engineering/tdd
 ---
-
-# Test-Driven Development
 
 There's broad agreement among developers about the value of automated testing. At DID(IT), we value consistency and reliability, and we recognize the essential value of a comprehensive automated test suite for each project in our portfolio.
 We never forget that what we really deliver for our end users is a change in the way they do their work. Our work becomes a part of their work flow. We take responsibility for helping our clients to improve their work cadence and effectiveness. In order to do that, we must consistently deliver reliable solutions.
 
-We deploy code via automated tooling, guarranteeing that each release must pass its suite of automated tests. We automatically scan code for coverage statistics, but the true measure of the completeness of a test suite is in the exceptions to which a client is never exposed. We believe the best way to attain that completeness is to have a test for each new feature _before_ the code for it gets written. Much has been written about the benefits of this approach, which we don't need to replicate here (eg; <https://apiumhub.com/tech-blog-barcelona/advantages-of-test-driven-development/>).
+We deploy code via automated tooling, guaranteeing that each release must pass its suite of automated tests. We automatically scan code for coverage statistics, but the true measure of the completeness of a test suite is in the exceptions to which a client is never exposed. We believe the best way to attain that completeness is to have a test for each new feature _before_ the code for it gets written. Much has been written about the benefits of this approach, which we don't need to replicate here (eg; <https://apiumhub.com/tech-blog-barcelona/advantages-of-test-driven-development/>).
 
 Test-driven development (TDD) takes longer up front, and for that reason conscientious developers might feel resistance to taking this approach. We acknowledge the importance of giving developers the opportunity to discover their own best discipline, but we stress the utility of writing tests as a way to frame the problem of writing a feature so that it is expressed clearly and completely. Then, when code is written to satisfy the test, it can more reasonably be expected to satisfy the conditions of use in the wild.
 
