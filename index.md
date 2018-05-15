@@ -5,6 +5,7 @@ title: Welcome to the DID(it) Playbook
 
 Our core competencies, role descriptions, practices and methodologies for DID(it) enterprise software development success
 
+
 ### Purpose
 
 The purpose of this project is to have a centralized, easily-sharable location for the practices that we love
