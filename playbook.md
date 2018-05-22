@@ -12,7 +12,7 @@ header: Our Playbook
 
 <h1>Build | Measure | Learn </h1>
 
-<img src="images/weeklycadence.png"/>
+<img src="../images/weeklycadence.png"/>
 
 <h2>Build - High Value and Low Effort (Pivot or Perservere)</h2>
 <div class="row">
