@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Product Management
+header: Our Team
 permalink: /product-management/
 ---
 
-## `ROLE DESCRIPTION`
+## Role Description
 * Leading product vision
 * Enabling the team
 * Removing impediments
@@ -14,7 +15,7 @@ permalink: /product-management/
 * Driving backlog creation and prioritization
 * Facilitating meetings - ie retros, iteration planning
 
-## `PRACTICES` 
+## Practices
 * Lean methodologies to deliver product, fast
 * Understanding customers through user interviews
 * Testing assumptions to build better products
@@ -23,7 +24,7 @@ permalink: /product-management/
 * Test developed software to ensure quality
 * Tracking system metrics to understand user experience and anticipated problems
 
-## `HOW` 
+## How 
 * Perform user interviews to gather information
 * Test mockups for new features to define what is valuable
 * Conduct an "interview synthesis" to build consensus on insights
