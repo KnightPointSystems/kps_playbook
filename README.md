@@ -37,6 +37,17 @@ Contributing to this guide follows the common DID(it) pull request model. To con
 would like on a separate branch, create a pull request with those changes, another member of DID(it) will then
 review and approve or add comments to those changes, then the changes will get merged into the project!
 
+## Contributing Online via GHE
+
+1.  Navigate to the branch you want to make changes to. You can choose an existing branch or create a new one. If you create a new branch, name it based on the changes you will be making. (e.g., update-readme)
+> NOTE: NEVER make changes directly to the Master branch.
+2.  Choose the file you want to edit or create a new one using the 'Create New File' button.
+3.  On the top right of the window click the pencil icon to edit file
+4.  Use markdown syntax to structure the document.  An example of markdown is found [here](https://guides.github.com/features/mastering-markdown/)
+5.  When you have completed your changes Commit them using the input field below the file.  Add a brief message and then commit directly to the same branch you made the changes on.
+6.  Submit a pull request and have another team member review it.
+
+
 #### Understanding Front matter
 
 Front matter is something that should be added to every page on this site. It is something that allows you
