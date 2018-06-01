@@ -4,12 +4,32 @@ title: Design
 header: Our Team
 permalink: /design/
 ---
-
-
 <div class="row">
 <div class="col-md-8">
+<div class="toc">
+    <h3>Table of Contents</h3>
+    <ul>
+    <li><a href="#roledescription">Role Description</a></li>
+    <li><a href="#practices">Practices</a></li>
+    <li><a href="#how">How</a></li>
+        <ul>
+        <li><a href="#discovery">Discovery</a></li>
+        <li><a href="#problemstatement">Problem Statement Workshop</a></li>
+        <li><a href="#framing">Framing</a></li>
+        <li><a href="#inception">Inception</a></li>
+        <li><a href="#research">Research and Investigate</a></li>
+        </ul>
+    <li><a href="#buildmeasurelearn">Build, Measure, Learn</a></li>
+        <ul>
+        <li><a href="#interviews">Interviews</a></li>
+        <li><a href="#userstory">User Story Review/Grooming</a></li>
+        <li><a href="#prototype">Prototype</a></li>
+        <li><a href="#usertesting">User Testing</a></li>
+        </ul>
+    </ul>
+</div>
 
-<h2>Role Description</h2>
+<h2 class="roledescription" id="roledescription">Role Description</h2>
 <ul>
 <li> Creates a positive experience for the user</li>
 <li> Develops the overall look and feel of the product</li>
@@ -19,7 +39,7 @@ permalink: /design/
 <li>Creates Journey maps, Storyboards or Service Blueprints</li>
 <li>Creates moodboards</li>
 </ul>
-<h2> Practices </h2>
+<h2 class="practices" id="practices"> Practices </h2>
 <h4><i>User Centered Design-Lean UX-Design Thinking</i></h4>
 <ul>
 <li>Facilitates the rapid learning, ideation, prototyping and testing (Build, Measure, Learn)</li>
@@ -58,12 +78,12 @@ permalink: /design/
 </div>
 
 
-<h2> How </h2>
+<h2 class="how" id="how"> How </h2>
 
-<img src="images/pivotal.png"/>
+<img src="../images/pivotal.png"/>
 <div class="dropdown-divider"></div>
 
-<h3>Discovery</h3>
+<h3 class="discovery" id="discovery">Discovery</h3>
 <ul>
 <li> Meet with ITPM and necessary stakeholders to kickoff engagement (get baseline/MVP requirements) ITPM demo/review of current systems (issues and priorities) <b>Research and Investigate</b></li>
 <li>Get usernames, passwords, URLs and permissions to the current system (staging not production)</li>
@@ -100,7 +120,7 @@ The PM’s and PD’s Synthesize notes by clustering & labeling them.</p>
 <div class="dropdown-divider"></div>
 
 
-<h3>Problem Statement Workshop</h3>
+<h3 class="problemstatement" id="problemstatement">Problem Statement Workshop</h3>
 <div class="row">
 <div class="col-md-3">
 <h4>Goal: </h4>
@@ -129,7 +149,7 @@ All Stakeholders</p>
 </div>
 <div class="dropdown-divider"></div>
 
-<h3>Framing</h3>
+<h3 class="framing" id="framing">Framing</h3>
 <div class="row">
 <div class="col-md-3">
 <h4>Goal: </h4>
@@ -160,7 +180,7 @@ All Stakeholders</p>
 </div>
 <div class="dropdown-divider"></div>
 
-<h3>Inception</h3>
+<h3 class="inception" id="inception">Inception</h3>
 <div class="row">
 <div class="col-md-3">
 <h4>Goal:</h4> 
@@ -183,7 +203,7 @@ All Stakeholders</p>
 </div></div>
 <div class="dropdown-divider"></div>
 
-<h3>Research and Investigate</h3>
+<h3 class="research" id="research">Research and Investigate</h3>
 <ul>
 <li> Get usernames, passwords, URLs and permissions to the current system (staging not production)</li>
 <li>Gather past user feedback on current system from ITPM</li>
@@ -192,8 +212,8 @@ All Stakeholders</p>
 </ul>
 <div class="dropdown-divider"></div>
 
-<h2>Build, Measure, Learn</h2>
-<h5> Interviews </h5>
+<h2 class="buildmeasurelearn" id="buildmeasurelearn">Build, Measure, Learn</h2>
+<h5 class="interviews" id="interviews"> Interviews </h5>
 <ul>
 <li> Set up user interviews with a few people who fall under the persona you’re working with, for 1 hour each.</li>
 <li> Use Skype or Adobe Connect if remote.</li>
@@ -206,7 +226,7 @@ All Stakeholders</p>
 <li> Work as a team to determine if there are stories you feel confident are needed, and prioritize them based on the business value.</li>
 </ul>
 
-<h5> User Story Review/Grooming </h5>
+<h5 class="userstory" id="userstory"> User Story Review/Grooming </h5>
 <ul>
 <li> Work with ITPM as they write user stories and prioritize in the backlog.</li>
 <li> Upload your mockups to the card or add links to InVision project page
@@ -217,13 +237,13 @@ All Stakeholders</p>
 <li> Point the stories as a team.</li>
 </ul>
 
-<h5> Prototype </h5>
+<h5 class="prototype" id="prototype"> Prototype </h5>
 <ul>
 <li> Prototype your ideas and changes. If you have a mockup or new functionality in staging, get feedback on those.
     <b>Solicit Ideas Internally</b></li>
 <li> Socialize the design concepts with your team, get their buy in and feedback on the design approach</li>
 </ul>
-<h5> User Testing </h5>
+<h5 class="usertesting" id="usertesting"> User Testing </h5>
 <p>Determine test focus</p>
 <ul>
 <li>Know the assumptions you are trying to validate. Put together a list of questions you would like to ask in the interviews. Pull together the necessary components or pages you will need to use in your test.</li>
