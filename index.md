@@ -3,13 +3,18 @@ layout: splash
 title: Welcome to the DID(it) Playbook
 ---
 <div class="Body-Container">
-<section class="hero">
-<div class="hero-inner">
+<div class="hero-image">
+<img src="images/hero3x.png" class="img-fluid" alt="Responsive image">
+<!-- <div class="splash-caret bounce">
+  <a class="maincontent-anchor" id="top" href="#MainContent"><i class="fas fa-caret-down"></i></a>
+  </div> -->
+</div>
+<!-- <section class="hero">
 <div class="splash-caret bounce">
   <a class="maincontent-anchor" id="top" href="#MainContent"><i class="fas fa-caret-down"></i></a>
-  </div></div>
+  </div>
 </section>
-
+-->
 
 <!--
 <div class="splash-screen">

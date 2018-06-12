@@ -21,7 +21,7 @@ body {
 	background: $white;
   font: 16px/1.4 $helvetica;
   color: $darkGray;
-  padding-top: 73px;
+  padding-top: 38px;
 
 }
 
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 32px;
   margin-top: 18px;
   text-align: left;
   a {
@@ -81,6 +81,10 @@ p {
   margin: 15px 0;
 }
 
+p:first-child {
+  margin-top: 0!important;
+}
+
 a {
   color: $blue;
   text-decoration: none;
@@ -91,12 +95,14 @@ a {
 }
 
 h1.header {
-  font-size: 50px;
-  font-weight: bold;
-  background: rgb(236, 236, 236);
+  font-size: 32px;
+  font-weight: normal;
+  background: rgb(71, 76, 91);
   margin-top: 0;
-  padding: 10px 25px;
+  margin-bottom: 50px;
+  padding: 35px 25px;
   text-align: left;
+  color: #fff;
 }
 
 ul, ol {
@@ -267,6 +273,9 @@ nav {
 //background-color: rgba(255, 255, 255, 0.85)!important;
 background-color: white!important;
 box-shadow: 1px 1px 1px rgb(194, 194, 194);
+  a:hover {
+    border-bottom: rgb(47, 116, 182) solid 5px!important ;
+  }
 }
 
 
@@ -280,23 +289,49 @@ box-shadow: 1px 1px 1px rgb(194, 194, 194);
 //
 // .main
 //
-.hero {
-  /* Sizing */
+
+/* .hero {
+  // Sizing 
   width: 100vw;
   height: 100vh;
-   /* Flexbox stuff */
+   // Flexbox stuff 
    display: flex;
    justify-content: center;
    align-items: center;
-   /* Text styles */
+   // Text styles 
    text-align: center;
-     /* Background styles */
+     // Background styles 
      background-image: url(../../images/didit_background.svg);
      background-size: cover;
      background-position: center center;
      background-repeat: no-repeat;
-     background-attachment: fixed;
 }
+*/
+
+/*
+.hero-image {
+  background-color: rgb(71, 76, 91);
+  height: 95vh;
+  background-image: url(../../images/full-hero3x.png);
+  display: flex;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+    @include mobile {
+      background-size: contain;
+      background-position: center center;
+      height: 20vh;
+
+    }
+}
+*/
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+}
+
 
 //Temporary fix for fixed header cutting off splash image
 .splash-screen {
@@ -310,8 +345,8 @@ box-shadow: 1px 1px 1px rgb(194, 194, 194);
   position: absolute;
   bottom: 50%;
   left: 50%;
-  transform: translate(-50%, 250%);
-  -ms-transform: translate(-50%, 250%);
+  transform: translate(-50%, 330%);
+  -ms-transform: translate(-50%, 330%);
   color: white;
   font-size: 100px;
   border: none;
@@ -319,8 +354,25 @@ box-shadow: 1px 1px 1px rgb(194, 194, 194);
   
   @include mobile {
     font-size: 70px;
-    transform: translate(-50%, 400%);
-    -ms-transform: translate(-50%, 400%);
+    transform: translate(-50%, 420%);
+    -ms-transform: translate(-50%, 420%);
+  }
+}
+
+.hero-image i {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(600%, 730%);
+  -ms-transform: translate(600%, 730%);
+  color: white;
+  font-size: 100px;
+  border: none;
+  cursor: pointer;
+  @include mobile {
+    font-size: 70px;
+    transform: translate(-50%, 420%);
+    -ms-transform: translate(-50%, 420%);
   }
 }
 
@@ -392,32 +444,28 @@ a.maincontent-anchor {
 .mainBodyContent:before {
   content:"";
   display:block;
-  height:113px; /* fixed header height*/
-  margin:-113px 0 0; /* negative fixed header height */
+  height:79px; /* fixed header height*/
+  margin:-79px 0 0; /* negative fixed header height */
   }
 
   // Prevents fixed header from covering content after clicking anchor point
   .headings:before, .paragraph:before, .list:before, .columns:before, .linksandimages:before, .equalcolumns:before, .varyingcolumns:before {
     content:"";
     display:block;
-    height:113px; /* fixed header height*/
-    margin:-113px 0 0; /* negative fixed header height */
+    height:79px; /* fixed header height*/
+    margin:-79px 0 0; /* negative fixed header height */
     }
 
     .roledescription:before, .practices:before, .how:before, .discovery:before, .problemstatement:before, .framing:before, .inception:before, .research:before, .buildmeasurelearn:before, .interviews:before, .userstory:before, .prototype:before, .usertesting:before {
       content:"";
       display:block;
-      height:113px; /* fixed header height*/
-      margin:-113px 0 0; /* negative fixed header height */
+      height:79px; /* fixed header height*/
+      margin:-79px 0 0; /* negative fixed header height */
       }
       
-
-  .headerFix:before {
-      content:"";
-      display:block;
-      height:113px; /* fixed header height*/
-      margin:-113px 0 0; /* negative fixed header height */
-      }
+.roledescription {
+  margin-top: 0!important;
+}
 
 img.splash {
   width: 100%; 
@@ -428,21 +476,45 @@ img.splash {
   
 }
 
+.hljs-keyword {
+  color: rgb(137, 151, 46);
+}
+
+.hljs-title {
+  color: rgb(81, 139, 205);
+}
+
+.hljs-string {
+  color: rgb(80, 158, 152);
+}
+
+.hljs-comment {
+  color: rgb(92, 109, 122);
+}
+
+.hljs-grey{
+  color: rgb(149, 160, 161);
+}
+
+.lang-ruby{
+  color: rgb(189, 83, 42);
+}
+
+
 .sideLinks {
-  color: #000;
-  padding: 0 15px;
-  border-radius: 2px;
 
     @include mobile {
       margin: 15px 0;
     }
 
+
     h2 {
       margin: 0!important;
+      font-size: 20px;
     }
     a {
       display: block;
-      padding: 10px;
+      padding: 5px;
     }
 
     a:hover {
@@ -459,23 +531,38 @@ img.splash {
 
     li {
       padding-bottom: 5px;
-      font-size: 15px;
+      font-size: 14px;
     }
 }
 
+.max-270 {
+  max-width: 270px;
+  
+  @include mobile {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+
+.center-column {
+  flex: 1 1 auto;
+}
 .toc {
   background: rgb(236, 236, 236);
   color: #000;
   border: 1px solid rgb(212, 212, 212);
   padding: 0 15px;
   border-radius: 2px;
-  width: 300px;
-  margin-bottom: 60px;
 
     @include mobile {
-      margin: 15px 0;
-      width: 100%;
+      display: none;
     }
+
+    @media (max-width: 764px) { 
+      display: none;
+      width: 100%;;
+     }
 
     a {
       margin-bottom: 100px!important;
@@ -495,7 +582,7 @@ img.splash {
     li {
       padding-bottom: 5px;
       text-decoration: none;
-      font-size: 15px;
+      font-size: 14px;
     }
 
 }
