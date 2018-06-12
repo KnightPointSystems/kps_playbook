@@ -1,6 +1,6 @@
 ---
 layout: page
-header: Our Playbook
+header: Build | Measure | Learn
 ---
 
 <!--<h1>Purpose</h1>
@@ -9,8 +9,6 @@ header: Our Playbook
 
 <div class="dropdown-divider"></div>
 -->
-
-<h1>Build | Measure | Learn </h1>
 
 <img src="../images/weeklycadence.png"/>
 

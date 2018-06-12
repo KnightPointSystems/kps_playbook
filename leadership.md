@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leadership
-header: Our Playbook
+header: Leadership
 ---
 
 Coming soon....

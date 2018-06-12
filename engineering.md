@@ -1,9 +1,24 @@
 ---
 layout: page
 title: Engineering
-header: Our Team
+header: Engineering
 permalink: /engineering
 ---
+
+<div class="row">
+<div class="col-md-3">
+<div class="toc">
+    <h3>Table of Contents</h3>
+    <ul>
+    <li><a href="#practices">Practices</a></li>
+    <li><a href="#tools">Some of the Tools We Use</a></li>
+    <li><a href="#submissions">Doc Submissions</a></li>
+    <li><a href="#welcome">Welcome</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="col-md-9">
 
 The engineers at DID(it) are a creative group that finds ways to develop solutions
 using modern development technologies. This group involves everything from junior
@@ -11,13 +26,15 @@ developers, senior developers, DevOps engineers, to ops engineers; but all have
 the same goals. To build great and stable products for our customers in a
 conscious and innovative way. 
 
-## Practices
+<h2 class="practices" id="practices"> Practices </h2>
 
-* [Test-Driven Development]({{ site.baseurl }}/submissions/engineering/tdd)
-* [DevOps Culture]({{ site.baseurl }}/submissions/engineering/devops) (Coming soon)
-* [Pairing]() (Coming soon)
+<ul>
+<li> <a href="{{ site.baseurl }}/submissions/engineering/tdd">Test-Driven Development</a></li>
+<li> <a href="{{ site.baseurl }}/submissions/engineering/devops">DevOps Culture </a>(Coming soon)</li>
+<li> <a href="#">Pairing</a> (Coming soon)</li>
+</ul>
 
-## Some of the Tools We Use
+<h2 class="tools" id="tools"> Some of the Tools We Use </h2>
 
 <img title="Ruby on Rails" alt="Ruby on Rails" src="https://avatars.githubusercontent.com/u/4223" height="75px" width="75px" />
 <img title="JenkinsCI" alt="JenkinsCI" src="https://avatars2.githubusercontent.com/u/107424?s=400&v=4" height="75px" width="75px" />
@@ -29,7 +46,7 @@ conscious and innovative way.
 <img title="Docker" alt="Docker" src="https://pbs.twimg.com/profile_images/862037907862765568/pYgBswUk_400x400.jpg" height="75px" width="75px" />
 <img title="ReactJS" alt="ReactJS" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/89/formation-react-native.png" height="75px" width="75px" />
 
-## Doc Submissions
+<h2 class="submissions" id="submissions"> Doc Submissions </h2>
 
 A core practice of the engineering part of this playbook is submissions.
 Submissions are a way where people can contribute and critique the content
@@ -37,16 +54,18 @@ that enters this playbook. This really gives our engineers the ability to
 craft this the way we desire.
 
 More information about these submissions and currently open submissions can
-be found [here]({{ site.baseurl }}/submissions/).
+be found <a href="{{ site.baseurl }}/submissions/">here</a>.
 
-## Welcome
 
-```ruby
-class Greeting
-  def self.hello
-    'Hello Everyone!'
-  end
-end
+<h2 class="welcome" id="welcome"> Welcome </h2>
 
-Greeting.hello() # => 'Hello Everyone!'
-```
+<pre><code class="lang-ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Greeting</span></span>
+  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">self</span><span class="hljs-grey">.</span><span class="hljs-title">hello</span></span>
+    <span class="hljs-string">'Hello Everyone!'</span>
+  <span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span>
+
+Greeting<span class="hljs-grey">.</span><span class="hljs-title">hello</span><span class="hljs-grey">()</span> <span class="hljs-comment"># =&gt; 'Hello Everyone!'</span>
+</code></pre>
+
+</div>

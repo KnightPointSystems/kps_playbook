@@ -1,36 +1,77 @@
 ---
 layout: page
 title: Product Management
-header: Our Team
+header: Product Management
 permalink: /product-management/
 ---
 
-## Role Description
-* Leading product vision
-* Enabling the team
-* Removing impediments
-* Delivering value
-* Focusing on user-centered products with product designers
-* Promoting test-driven development and continual integration
-* Driving backlog creation and prioritization
-* Facilitating meetings - ie retros, iteration planning
+<div class="row">
+<div class="col-md-3">
+<div class="toc">
+    <h3>Table of Contents</h3>
+    <ul>
+    <li><a href="#roledescription">Role Description</a></li>
+    <li><a href="#practices">Practices</a></li>
+    <li><a href="#how">How</a></li>
+    </ul>
+</div>
+</div>
 
-## Practices
-* Lean methodologies to deliver product, fast
-* Understanding customers through user interviews
-* Testing assumptions to build better products
-* Discovery and Framing to define problems to solve
-* Measuring velocity and adjusting scope
-* Test developed software to ensure quality
-* Tracking system metrics to understand user experience and anticipated problems
+<div class="col-md-6">
+<h2 class="roledescription" id="roledescription">Role Description</h2>
+<ul>
+<li> Leading product vision </li>
+<li> Enabling the team </li>
+<li> Removing impediments </li>
+<li> Delivering value </li>
+<li> Focusing on user-centered products with product designers </li>
+<li> Promoting test-driven development and continual integration </li>
+<li> Driving backlog creation and prioritization </li>
+<li> Facilitating meetings - ie retros, iteration planning </li>
+</ul>
 
-## How 
-* Perform user interviews to gather information
-* Test mockups for new features to define what is valuable
-* Conduct an "interview synthesis" to build consensus on insights
-* Write stories that define the problem to be solved and a way of testing that solution
-* Hold Iteration Planning Meeting to de-risk stories before development
-* Be available to development team throughout implementation process
-* Test stories to ensure quality prior to delivery
-* Test features with users to ensure value
-* Repeat
+<h2 class="practices" id="practices"> Practices </h2>
+<ul>
+<li> Lean methodologies to deliver product, fast </li>
+<li> Understanding customers through user interviews </li>
+<li> Testing assumptions to build better products </li>
+<li> Discovery and Framing to define problems to solve </li>
+<li> Measuring velocity and adjusting scope</li> 
+<li> Test developed software to ensure quality</li>
+<li> Tracking system metrics to understand user experience and anticipated problems</li>
+</ul>
+
+<h2 class="how" id="how"> How </h2>
+<ul>
+<li> Perform user interviews to gather information</li>
+<li> Test mockups for new features to define what is valuable</li>
+<li> Conduct an "interview synthesis" to build consensus on insights</li>
+<li> Write stories that define the problem to be solved and a way of testing that solution</li>
+<li> Hold Iteration Planning Meeting to de-risk stories before development</li>
+<li> Be available to development team throughout implementation process</li>
+<li> Test stories to ensure quality prior to delivery</li>
+<li> Test features with users to ensure value</li>
+<li> Repeat</li>
+</ul>
+</div>
+
+<div class="col-md-3">
+<div class="sideLinks">
+    <h2>Sample Resources/Plays</h2>
+    <ul>
+    <li><a href="#">Sample Play 1</a></li>
+     <li><a href="#">Sample Play 2</a></li>
+     <li><a href="#">Sample Play 3</a></li>
+     <li><a href="#">Sample Play 4</a></li>
+     <li><a href="#">Sample Play 5</a></li>
+     <li><a href="#">Sample Play 6</a></li>
+     <li><a href="#">Sample Play 7</a></li>
+     <li><a href="#">Sample Play 8</a></li>
+     <li><a href="#">Sample Play 9</a></li>
+     <li><a href="#">Sample Play 10</a></li>
+     <li><a href="#">Sample Play 11</a></li>
+     <li><a href="#">Sample Play 12</a></li>
+    </ul>
+    </div>
+</div>
+ </div>

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sample Header 1
-header: Template Header
+title: Welcome
+header: Template
 permalink: /template-file/
 ---
 <div class="row">
-<div class="col-md-7">
-  <div class="toc">
+ <div class="col-md-3">
+    <div class="toc">
     <h3>Table of Contents</h3>
     <ul>
     <li><a href="#headings">Headings</a></li>
@@ -26,38 +26,19 @@ permalink: /template-file/
      </ul>
     </ul>
     </ul>
-    </div>
+    </div> 
+  </div>
+  
+<div class="col-md-6">
     <p> Please make sure you are NOT working on the master branch. Create your own branch or use an existing branch to submit your content.</p>
 <p> Please use this template if you want to create/edit a markdown file within this playbook. Select the icon that resembles a pencil to edit this file. Copy and paste this content and use it as a guide to create your own.</p>
 <p> If you are creating a new file, please add the .md extension to the end of your filename. Make sure to include the heading above (layout, title, header, and permalink) at the top of your file. Leave the layout the same and change the title and header to match your content. Change the permalink to match the name of the file you will be creating. For example, this file is called "template-file.md" so the permalink is /template-file/ (the .md extension is not necessary). </p>
 
 <p>If you are editing an existing file, omit the heading above and insert your content where you see fit.</p>
-</div>
-  <div class="col-md-1">
-</div>
-  <div class="col-md-4">
-    <div class="sideLinks">
-    <h2>Sample Resources/Plays</h2>
-    <ul>
-    <li><a href="#">Sample Play 1</a></li>
-     <li><a href="#">Sample Play 2</a></li>
-     <li><a href="#">Sample Play 3</a></li>
-     <li><a href="#">Sample Play 4</a></li>
-     <li><a href="#">Sample Play 5</a></li>
-     <li><a href="#">Sample Play 6</a></li>
-     <li><a href="#">Sample Play 7</a></li>
-     <li><a href="#">Sample Play 8</a></li>
-     <li><a href="#">Sample Play 9</a></li>
-     <li><a href="#">Sample Play 10</a></li>
-     <li><a href="#">Sample Play 11</a></li>
-     <li><a href="#">Sample Play 12</a></li>
-    </ul>
-    </div>
-  </div>
-</div>
 
- 
-<h2 class="headings" id="headings">Headings</h2>
+<div class="dropdown-divider"></div>
+
+<h1 class="headings" id="headings">Headings</h1>
 <h2>Sample Header 2</h2>
 <h3>Sample Header 3</h3>
 <h4>Sample Header 4</h4>
@@ -168,4 +149,27 @@ All column classes in a row should equal 12. This row has two columns with a wid
 <a href="https://pages.git.uscis.dhs.gov/USCIS/didit_playbook/">
 <img src="../images/didit_logo.png" alt="did it logo" width="104"/>
 </a>
+</div>
+</div>
+
+<div class="col-md-3">
+<div class="sideLinks">
+    <h2>Sample Resources/Plays</h2>
+    <ul>
+    <li><a href="#">Sample Play 1</a></li>
+     <li><a href="#">Sample Play 2</a></li>
+     <li><a href="#">Sample Play 3</a></li>
+     <li><a href="#">Sample Play 4</a></li>
+     <li><a href="#">Sample Play 5</a></li>
+     <li><a href="#">Sample Play 6</a></li>
+     <li><a href="#">Sample Play 7</a></li>
+     <li><a href="#">Sample Play 8</a></li>
+     <li><a href="#">Sample Play 9</a></li>
+     <li><a href="#">Sample Play 10</a></li>
+     <li><a href="#">Sample Play 11</a></li>
+     <li><a href="#">Sample Play 12</a></li>
+    </ul>
+    </div>
+</div>
+ 
 </div>

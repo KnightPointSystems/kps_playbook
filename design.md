@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Design
-header: Our Team
+header: Design
 permalink: /design/
 ---
 <div class="row">
-<div class="col-md-8">
+<div class="col-md-3">
 <div class="toc">
     <h3>Table of Contents</h3>
     <ul>
@@ -22,13 +22,15 @@ permalink: /design/
     <li><a href="#buildmeasurelearn">Build, Measure, Learn</a></li>
         <ul>
         <li><a href="#interviews">Interviews</a></li>
-        <li><a href="#userstory">User Story Review/Grooming</a></li>
+        <li><a href="#userstory">User Story Review / Grooming</a></li>
         <li><a href="#prototype">Prototype</a></li>
         <li><a href="#usertesting">User Testing</a></li>
         </ul>
     </ul>
 </div>
+</div>
 
+<div class="col-md-6">
 <h2 class="roledescription" id="roledescription">Role Description</h2>
 <ul>
 <li> Creates a positive experience for the user</li>
@@ -49,34 +51,6 @@ permalink: /design/
 <li>Testing methodologies, data collection and managing user feedback</li>
 <li>Accessibility and Disability standards</li>
 </ul>
-</div>
-
-  <div class="col-md-4">
-    <div class="sideLinks">
-    <h2>UX Practices</h2>
-    <ul>
-    <li><a href="#">Interview Script Generation</a></li>
-     <li><a href="#">Contextual Inquiry Interviewing</a></li>
-     <li><a href="#">Team Synthesis of User Testing/Interviews</a></li>
-     <li><a href="#">Journey Maps</a></li>
-     <li><a href="#">Service Blueprints</a></li>
-     <li><a href="#">Storyboards</a></li>
-     <li><a href="#">Persona Development</a></li>
-     <li><a href="#">2x2 Sorting of User/Business Goals</a></li>
-     <li><a href="#">Wireframe Development</a></li>
-     <li><a href="#">Group Sketching / Dot Voting</a></li>
-     <li><a href="#">5 Whys</a></li>
-     <li><a href="#">Brainstorming Sessions</a></li>
-     <li><a href="#">Prototype Development for User Testing</a></li>
-     <li><a href="#">508 Accessibility Considerations</a></li>
-     <li><a href="#">Atomic Design</a></li>
-     <li><a href="#">UI Design Development</a></li>
-     <li><a href="#">UI Component Library Development</a></li>
-    </ul>
-    </div>
-  </div>
-</div>
-
 
 <h2 class="how" id="how"> How </h2>
 
@@ -91,7 +65,6 @@ permalink: /design/
 <li> Conduct a heuristics review of the workflows and UIs of the current system</li>
 <li> Work with ITPM to source the "KEY" end users/SMEs of the system their needs, requirements and preferences.</li>
 </ul>
-
 
 <div class="row">
 <div class="col-md-3">
@@ -118,7 +91,6 @@ The PM’s and PD’s Synthesize notes by clustering & labeling them.</p>
 </div>
 </div>
 <div class="dropdown-divider"></div>
-
 
 <h3 class="problemstatement" id="problemstatement">Problem Statement Workshop</h3>
 <div class="row">
@@ -252,3 +224,30 @@ All Stakeholders</p>
 <ul>
 <li>Set up user interviews for the following week, based on your action items from this week (do you need to circle back to someone you previously spoke with, interview more users within the persona for a better understanding, or speak to someone with a different perspective (like management) for context?</li>
 </ul>
+</div>
+
+  <div class="col-md-3">
+    <div class="sideLinks">
+    <h2>UX Practices</h2>
+    <ul>
+    <li><a href="#">Interview Script Generation</a></li>
+     <li><a href="#">Contextual Inquiry Interviewing</a></li>
+     <li><a href="#">Team Synthesis of User Testing/Interviews</a></li>
+     <li><a href="#">Journey Maps</a></li>
+     <li><a href="#">Service Blueprints</a></li>
+     <li><a href="#">Storyboards</a></li>
+     <li><a href="#">Persona Development</a></li>
+     <li><a href="#">2x2 Sorting of User/Business Goals</a></li>
+     <li><a href="#">Wireframe Development</a></li>
+     <li><a href="#">Group Sketching / Dot Voting</a></li>
+     <li><a href="#">5 Whys</a></li>
+     <li><a href="#">Brainstorming Sessions</a></li>
+     <li><a href="#">Prototype Development for User Testing</a></li>
+     <li><a href="#">508 Accessibility Considerations</a></li>
+     <li><a href="#">Atomic Design</a></li>
+     <li><a href="#">UI Design Development</a></li>
+     <li><a href="#">UI Component Library Development</a></li>
+    </ul>
+    </div>
+  </div>
+</div>
