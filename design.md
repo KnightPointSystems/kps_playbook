@@ -67,50 +67,50 @@ permalink: /design/
 </ul>
 
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Goal:</h4>
 <p>Understand the Domain Landscape</p>
 <p>Uncovering problems</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Who:</h4> 
 <p>Development Team:</p>
 <p>Product Designers</p>
 <p>Product Managers</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Practices: </h4>
 <p>Contextual Inquiry Interviews</p>
 <p>Dump & Sort</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-12">
 <h4>How:</h4>
 <p>Facilitate the interviews in-person or through video conference. 1 facilitator, 2-3 note takers.
 Notes are direct quotes from the users, written down on post-it notes, or virtually on a note-board tool.
 The PM’s and PD’s Synthesize notes by clustering & labeling them.</p>
-</div>
-</div>
+</div></div>
+
 <div class="dropdown-divider"></div>
 
 <h3 class="problemstatement" id="problemstatement">Problem Statement Workshop</h3>
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Goal: </h4>
 <p>Bring stakeholders and the team together to review findings and decide priorities</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 
 <h4>Who: </h4>
 <p>Entire Team:
 All Stakeholders</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Practices: </h4>
 <p>Dump & Sort</p>
 <p>Quiet Read</p>
 <p>2x2 Sorting</p>
  </div>
- <div class="col-md-3">
+ <div class="col-md-12">
 
 <h4>How:</h4>
 <p>The labeled cluster of notes is presented on a whiteboard.</p>
@@ -123,18 +123,18 @@ All Stakeholders</p>
 
 <h3 class="framing" id="framing">Framing</h3>
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Goal: </h4>
 <p>Drive out possible solutions to the highest value problems</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Who: </h4>
 <p>Development Team:</p> 
 <p>Product Managers</p>
 <p>Product Designers</p>
 <p>Engineers</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Practices: </h4>
 <p>Service Blueprints</p>
 <p>Journey Maps</p>
@@ -143,7 +143,7 @@ All Stakeholders</p>
 <p>Team Dot Voting</p>
 <p>Clickable Prototypes</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-12">
 <h4>How:</h4>
 <p>Designers with the team design small solutions, and create low cost experiments using tools that will simulate software functionality without having to develop working software. </p>
 <p>Show these to users weekly.</p>
@@ -154,21 +154,21 @@ All Stakeholders</p>
 
 <h3 class="inception" id="inception">Inception</h3>
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Goal:</h4> 
 <p>Bring stakeholders and the team together to view possible solutions, then decide where to start. First story of the project is created.</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Who: </h4>
 <p>Entire Team</p>
 <p>All Stakeholders</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <h4>Practices:</h4> 
 <p>Science Fair</p>
 <p>2x2 Sorting</p>
 </div>
-<div class="col-md-3">
+<div class="col-md-12">
 <h4>How:</h4>
 <p>The Science Fair is where the stakeholders are shown how the solutions were created. journey maps, the designs that we’re dot voted, how the prototypes were created and tested.</p> 
 <p>Then stakeholders are presented with the solutions. They are rated by user value and technical risk using the 2x2 method. Then, the stakeholders prioritized the results and decide where they want the team to start.</p>

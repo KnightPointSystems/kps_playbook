@@ -81,7 +81,7 @@ p {
   margin: 15px 0;
 }
 
-p:first-child {
+p:first-child, h2:first-child {
   margin-top: 0!important;
 }
 
@@ -274,7 +274,11 @@ nav {
 background-color: white!important;
 box-shadow: 1px 1px 1px rgb(194, 194, 194);
   a:hover {
-    border-bottom: rgb(47, 116, 182) solid 5px!important ;
+    border-bottom: rgb(47, 116, 182) solid 3px!important ;
+  }
+
+  a:hover.navbar-brand {
+    border-bottom: 0px!important;
   }
 }
 
@@ -441,6 +445,10 @@ a.maincontent-anchor {
     top: 10px;
 }
 
+.Body-Container h2 {
+  padding-top: 20px!important;
+}
+
 .mainBodyContent:before {
   content:"";
   display:block;
@@ -456,17 +464,20 @@ a.maincontent-anchor {
     margin:-79px 0 0; /* negative fixed header height */
     }
 
-    .roledescription:before, .practices:before, .how:before, .discovery:before, .problemstatement:before, .framing:before, .inception:before, .research:before, .buildmeasurelearn:before, .interviews:before, .userstory:before, .prototype:before, .usertesting:before {
+  .roledescription:before, .practices:before, .how:before, .discovery:before, .problemstatement:before, .framing:before, .inception:before, .research:before, .buildmeasurelearn:before, .interviews:before, .userstory:before, .prototype:before, .usertesting:before {
       content:"";
       display:block;
       height:79px; /* fixed header height*/
       margin:-79px 0 0; /* negative fixed header height */
       }
       
-.roledescription {
-  margin-top: 0!important;
-}
-
+  .strategicobjectives:before, .strategicgoals:before, .twobytwo:before {
+      content:"";
+      display:block;
+      height:79px; /* fixed header height*/
+      margin:-79px 0 0; /* negative fixed header height */
+      }
+     
 img.splash {
   width: 100%; 
   //height: 100%;

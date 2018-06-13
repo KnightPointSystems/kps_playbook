@@ -5,6 +5,7 @@ header: Template
 permalink: /template-file/
 ---
 <div class="row">
+<!-- START OF LEFT COLUMN -->
  <div class="col-md-3">
     <div class="toc">
     <h3>Table of Contents</h3>
@@ -28,7 +29,10 @@ permalink: /template-file/
     </ul>
     </div> 
   </div>
-  
+  <!-- END OF LEFT COLUMN -->
+
+  <!-- START OF MIDDLE COLUMN -->
+
 <div class="col-md-6">
     <p> Please make sure you are NOT working on the master branch. Create your own branch or use an existing branch to submit your content.</p>
 <p> Please use this template if you want to create/edit a markdown file within this playbook. Select the icon that resembles a pencil to edit this file. Copy and paste this content and use it as a guide to create your own.</p>
@@ -151,7 +155,9 @@ All column classes in a row should equal 12. This row has two columns with a wid
 </a>
 </div>
 </div>
+  <!-- END OF MIDDLE COLUMN -->
 
+  <!-- START OF RIGHT COLUMN -->
 <div class="col-md-3">
 <div class="sideLinks">
     <h2>Sample Resources/Plays</h2>
@@ -171,5 +177,6 @@ All column classes in a row should equal 12. This row has two columns with a wid
     </ul>
     </div>
 </div>
- 
+   <!-- END OF MIDDLE COLUMN -->
+
 </div>
