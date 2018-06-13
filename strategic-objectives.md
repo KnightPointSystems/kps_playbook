@@ -18,22 +18,27 @@ permalink: /strategic-objectives/
   
 <h2 class="strategicobjectives">Strategic Objectives</h2>
 <ul>
-    <li>What does success look like for your division/agency?</li>
-    <ul><li>Write down your strategic objectives for:
-      <ul><li>This quarter
-      <li>This year
-      <li>In 3 years
-      </ul></ul></ul>
+    <li>What does success look like for your division/agency?
+    <ul>
+    <li>Write down your strategic objectives for:
+    <ul>
+      <li>This quarter</li>
+      <li>This year</li>
+      <li>In 3 years</li>
+    </ul></ul></li></li>
       
  <h2 class="strategicgoals">Strategic Goals</h2>
  <ul>
-    <li>Where We Are Going Tomorrow?</li>
-    <ul><li>What does success look like for the project?
-    <li>How do we know we have achieved our Strategic Objectives in:    
-      <ul><li>This quarter
-      <li>This year
-      <li>In 3 years
-      </ul></ul></ul>
+    <li>Where We Are Going Tomorrow?
+    <ul>
+    <li>What does success look like for the project?</li>
+    <li>How do we know we have achieved our Strategic Objectives in:
+     <ul>
+      <li>This quarter</li>
+      <li>This year</li>
+      <li>In 3 years</li>
+      </ul></ul>
+    </li></li>
       
   <h2 class="2x2">2x2</h2>
   <img src="../images/StrategicObjectives2x2.png" alt="Strategic Objectives" width="500"/>
