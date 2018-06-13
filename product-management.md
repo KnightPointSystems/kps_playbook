@@ -57,20 +57,9 @@ permalink: /product-management/
 
 <div class="col-md-3">
 <div class="sideLinks">
-    <h2>Sample Resources/Plays</h2>
+    <h2>Resources/Plays</h2>
     <ul>
-    <li><a href="#">Sample Play 1</a></li>
-     <li><a href="#">Sample Play 2</a></li>
-     <li><a href="#">Sample Play 3</a></li>
-     <li><a href="#">Sample Play 4</a></li>
-     <li><a href="#">Sample Play 5</a></li>
-     <li><a href="#">Sample Play 6</a></li>
-     <li><a href="#">Sample Play 7</a></li>
-     <li><a href="#">Sample Play 8</a></li>
-     <li><a href="#">Sample Play 9</a></li>
-     <li><a href="#">Sample Play 10</a></li>
-     <li><a href="#">Sample Play 11</a></li>
-     <li><a href="#">Sample Play 12</a></li>
+    <li><a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a></li>
     </ul>
     </div>
 </div>
