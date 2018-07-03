@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Template File
 header: Template
 permalink: /template-file/
 ---
@@ -32,13 +32,26 @@ permalink: /template-file/
   <!-- END OF LEFT COLUMN -->
 
   <!-- START OF MIDDLE COLUMN -->
-
+  <!-- Edit the information BELOW this line to add your play -->
 <div class="col-md-6">
-    <p> Please make sure you are NOT working on the master branch. Create your own branch or use an existing branch to submit your content.</p>
+    <p> Please make sure you are NOT working on the master branch. Create your own branch to submit your content.</p>
 <p> Please use this template if you want to create/edit a markdown file within this playbook. Select the icon that resembles a pencil to edit this file. Copy and paste this content and use it as a guide to create your own.</p>
 <p> If you are creating a new file, please add the .md extension to the end of your filename. Make sure to include the heading above (layout, title, header, and permalink) at the top of your file. Leave the layout the same and change the title and header to match your content. Change the permalink to match the name of the file you will be creating. For example, this file is called "template-file.md" so the permalink is /template-file/ (the .md extension is not necessary). </p>
 
 <p>If you are editing an existing file, omit the heading above and insert your content where you see fit.</p>
+
+<p>Note: This page is a markdown file (.md) that has HTML tags. It is broken into 3 columns. The left column is a table of contents, the middle is the main content (where you will edit) and the right column is a list of plays (where your new play will be listed). There are green notes throughout this file that provide tips and information.  Please make sure all of your tags have an opening AND closing tag! <!-- ex: <h1> </h1> -->
+</p>
+
+<p>HTML Resources:
+<ul>
+<li><a href="https://www.w3schools.com/html/html5_intro.asp">https://www.w3schools.com/html/html5_intro.asp</a></li>
+<li><a href="http://www.simplehtmlguide.com/">http://www.simplehtmlguide.com/</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</a></li>
+</ul>
+</p>
+
+<p>Also, please feel free to use the <a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a> play or any play listed as an example. </p>
 
 <div class="dropdown-divider"></div>
 
@@ -62,7 +75,8 @@ permalink: /template-file/
 <h2 class="list" id="list">Bulleted List</h2>
 <ul>
   <li>This is a list item</li>
-  <li>This is a list item</li>
+  <ul><li>This is a nested list item</li></ul>
+  <ul><ul><li>This is a nested list item</li></ul></ul>
   <li>This is a list item</li>
 </ul>
 
@@ -155,6 +169,7 @@ All column classes in a row should equal 12. This row has two columns with a wid
 </a>
 </div>
 </div>
+<!-- Edit the information ABOVE this line to add your play -->
   <!-- END OF MIDDLE COLUMN -->
 
   <!-- START OF RIGHT COLUMN -->
@@ -177,6 +192,6 @@ All column classes in a row should equal 12. This row has two columns with a wid
     </ul>
     </div>
 </div>
-   <!-- END OF MIDDLE COLUMN -->
+   <!-- END OF RIGHT COLUMN -->
 
 </div>
