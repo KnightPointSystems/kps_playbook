@@ -9,13 +9,13 @@ permalink: /popcorn-scripting/
     <div class="toc">
     <h3>Table of Contents</h3>
     <ul>
-    <li><a href=“#popcornscripting”>Popcorn Scripting</a></li>
+    <li><a href="#popcornscripting">Popcorn Scripting</a></li>
     </ul>
     </div> 
   </div>
   
 <div class="col-md-6">
-<h2 class=“popcornscripting” id="popcornscripting">Popcorn Scripting</h2>
+<h2 class="popcornscripting" id="popcornscripting">Popcorn Scripting</h2>
 <ul>
     <li>Examples</li>
     <ul>
@@ -29,7 +29,7 @@ permalink: /popcorn-scripting/
 </ul>
       
   <h2 class="twobytwo" id="twobytwo">2x2</h2>
-  <img src="../images/StrategicObjectives2x2.png" alt=“Image” width="500"/>Popcorn Scripting
+  <img src="../images/StrategicObjectives2x2.png" alt="Image" width="500"/>Popcorn Scripting
 
 </div>
 
