@@ -4,10 +4,11 @@ title: Defining Strategic Objectives
 header: Defining Strategic Objectives
 permalink: /strategic-objectives/
 ---
+
 <div class="row">
     <div class="col-md-3">
         <div class="toc">
-            <h2>Table of Contents</h2>
+            <h3>Table of Contents</h3>
                 <ul>
                     <li>
                         <a href="#DSO-What">
@@ -52,18 +53,18 @@ permalink: /strategic-objectives/
                         </ul>
                     </li>
                    </ul>
-    <div class="col-md-6">
-        <h2 class="DSO-What" id="DSO-What">
-            What Are We Doing
-        </h2>
-        <h2 class="DSO-Why" id="DSO-Why">
-            Why We Do It
-        </h2>
-        <h2 class="DSO-Who" id="DSO-Who">
-            Who Is Doing It
-        <h2 class="DSO-How" id="DSO-How">
-            How We Do It
-        </h2>
     </div>
- </div>
-
+    </div><div class="col-md-6">
+        <h4 class="DSO-What" id="DSO-What">
+            What Are We Doing
+        </h4>
+        <h4 class="DSO-Why" id="DSO-Why">
+            Why We Do It
+        </h4>
+        <h4 class="DSO-Who" id="DSO-Who">
+            Who Is Doing It
+        </h4><h4 class="DSO-How" id="DSO-How">
+            How We Do It
+        </h4>
+</div>
+</div>
