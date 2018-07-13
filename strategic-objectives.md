@@ -23,4 +23,8 @@ permalink: /strategic-objectives/
                 </ul>
         </div>
   </div>
+  
+ <div class="col-md-6">
+    <h2 class="DSO-What" id="DSO-What">What Are We Doing?</h2>
+ </div>
  </div>
