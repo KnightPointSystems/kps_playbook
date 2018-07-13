@@ -151,7 +151,7 @@ permalink: /strategic-objectives/
                     <li><a href="#">Integrating with Systems &amp; Services</a></li>
                     <li><a href="#">Client Management</a></li>
                     <li><a href="#">Daily Standup</a></li>
-                    <li><a href="#">Iteration Planning
+                    <li><a href="#">Iteration Planning</a>
                         <ul>
                             <li><a href="#">Sizing</a></li>
                             <li><a href="#">Derisking</a></li>
