@@ -132,11 +132,11 @@ permalink: /strategic-objectives/
                     <li><a href="{{ site.baseurl }}/user-interviews">Performing User Interviews</a></li>
                     <li><a href="{{ site.baseurl }}/popcorn-scripting">Popcorn Scripting</a></li>
                     <li><a href="{{ site.baseurl }}/interview-synthesis">User Interview Synthesis</a></li>
-                    <li><a href="{{ site.baseurl }}/science-fair">Science Fair</li>
+                    <li><a href="{{ site.baseurl }}/science-fair">Science Fair</a></li>
                     <li><a href="{{ site.baseurl }}/defining-problems">Defining &amp; Prioritizing Problems</a></li>
                     <li><a href="{{ site.baseurl }}/technical-discovery">Technical Discovery &amp; Analysis</a></li>
                     <li><a href="{{ site.baseurl }}/solutioning-problem">Solutioning - Defining the Problem</a></li>
-                    <li><a href="{{ site.baseurl }}/solutioning-sketching">Solutioning - Brainstorming &amp; Sketching</li>
+                    <li><a href="{{ site.baseurl }}/solutioning-sketching">Solutioning - Brainstorming &amp; Sketching</a></li>
                     <li><a href="{{ site.baseurl }}/prototype-interviews">Prototype Interviews</a></li>
                     <li><a href="{{ site.baseurl }}/business-metrics">Defining Business Value Metrics</a></li>
                     <li><a href="{{ site.baseurl }}/art-gallery">Art Gallery</a></li>
