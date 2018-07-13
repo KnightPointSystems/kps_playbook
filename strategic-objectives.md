@@ -53,8 +53,9 @@ permalink: /strategic-objectives/
                         </ul>
                     </li>
                    </ul>
+        </div>
     </div>
-    </div><div class="col-md-6">
+    <div class="col-md-6">
         <h4 class="DSO-What" id="DSO-What">
             What Are We Doing
         </h4>
@@ -66,5 +67,29 @@ permalink: /strategic-objectives/
         </h4><h4 class="DSO-How" id="DSO-How">
             How We Do It
         </h4>
-</div>
+    </div>
+    <div class="col-md-3">
+        <div class="sideLinks">
+            <h2>UX Plays</h2>
+                <ul>
+                    <li><a href="#">Interview Script Generation</a></li>
+                    <li><a href="#">Contextual Inquiry Interviewing</a></li>
+                    <li><a href="#">Team Synthesis of User Testing/Interviews</a></li>
+                    <li><a href="#">Journey Maps</a></li>
+                    <li><a href="#">Service Blueprints</a></li>
+                    <li><a href="#">Storyboards</a></li>
+                    <li><a href="#">Persona Development</a></li>
+                    <li><a href="#">2x2 Sorting of User/Business Goals</a></li>
+                    <li><a href="#">Wireframe Development</a></li>
+                    <li><a href="#">Group Sketching / Dot Voting</a></li>
+                    <li><a href="#">5 Whys</a></li>
+                    <li><a href="#">Brainstorming Sessions</a></li>
+                    <li><a href="#">Prototype Development for User Testing</a></li>
+                    <li><a href="#">508 Accessibility Considerations</a></li>
+                    <li><a href="#">Atomic Design</a></li>
+                    <li><a href="#">UI Design Development</a></li>
+                    <li><a href="#">UI Component Library Development</a></li>
+                </ul>
+          </div>
+    </div>
 </div>
