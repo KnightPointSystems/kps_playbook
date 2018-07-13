@@ -126,39 +126,35 @@ permalink: /strategic-objectives/
         <div class="sideLinks">
             <h2>UX Plays</h2>
                 <ul>
-                    <li><a href="#">Defining Strategic Objectives</a></li>
-                    <li><a href="#">Defining Business Goals</a></li>
-                    <li><a href="#">Risks &amp; Mitigation</a></li>
-                    <li><a href="#">Performing User Interviews</a></li>
-                    <li><a href="#">Popcorn Scripting</a></li>
-                    <li><a href="#">User Interview Synthesis</a></li>
-                    <li><a href="#">Science Fair</a></li>
-                    <li><a href="#">Defining &amp; Prioritizing Problems</a></li>
-                    <li><a href="#">Technical Discovery &amp; Analysis</a></li>
-                    <li><a href="#">Solutioning - Defining the Problem</a></li>
-                    <li><a href="#">Solutioning - Brainstorming &amp; Sketching</a></li>
-                    <li><a href="#">Prototype Interviews</a></li>
-                    <li><a href="#">Defining Business Value Metrics</a></li>
-                    <li><a href="#">Art Gallery</a></li>
-                    <li><a href="#">Prioritization</a></li>
-                    <li><a href="#">Feature Sizing</a></li>
-                    <li><a href="#">Writing User Stories</a></li>
-                    <li><a href="#">Writing Acceptance Criteria</a></li>
-                    <li><a href="#">Measuring &amp; Using Velocity</a></li>
-                    <li><a href="#">Measuring Business Value</a></li>
-                    <li><a href="#">Defining Releases</a></li>
-                    <li><a href="#">Testing Software</a></li>
-                    <li><a href="#">Integrating with Systems &amp; Services</a></li>
-                    <li><a href="#">Client Management</a></li>
-                    <li><a href="#">Daily Standup</a></li>
-                    <li><a href="#">Iteration Planning</a>
-                        <ul>
-                            <li><a href="#">Sizing</a></li>
-                            <li><a href="#">Derisking</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Retrospective</a></li>
-                     <li><a href="#">Clent Check In</a></li>
+                    <li><a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</li>
+                    <li><a href="{{ site.baseurl }}/business-goals">Defining Business Goals</li>
+                    <li><a href="{{ site.baseurl }}/risks-mitigation">Risks &amp; Mitigation</li>
+                    <li><a href="{{ site.baseurl }}/user-interviews">Performing User Interviews</li>
+                    <li><a href="{{ site.baseurl }}/popcorn-scripting">Popcorn Scripting</li>
+                    <li><a href="{{ site.baseurl }}/interview-synthesis">User Interview Synthesis</li>
+                    <li><a href="{{ site.baseurl }}/science-fair">Science Fair</li>
+                    <li><a href="{{ site.baseurl }}/defining-problems">Defining &amp; Prioritizing Problems</li>
+                    <li><a href="{{ site.baseurl }}/technical-discovery">Technical Discovery &amp; Analysis</li>
+                    <li><a href="{{ site.baseurl }}/solutioning-problem">Solutioning - Defining the Problem</li>
+                    <li><a href="{{ site.baseurl }}/solutioning-sketching">Solutioning - Brainstorming &amp; Sketching</li>
+                    <li><a href="{{ site.baseurl }}/prototype-interviews">Prototype Interviews</li>
+                    <li><a href="{{ site.baseurl }}/business-metrics">Defining Business Value Metrics</li>
+                    <li><a href="{{ site.baseurl }}/art-gallery">Art Gallery</li>
+                    <li><a href="{{ site.baseurl }}/prioritization">Prioritization</li>
+                    <li><a href="{{ site.baseurl }}/feature-sizing">Feature Sizing</li>
+                    <li><a href="{{ site.baseurl }}/user-stories">Writing User Stories</li>
+                    <li><a href="{{ site.baseurl }}/acceptance-criteria">Writing Acceptance Criteria</li>
+                    <li><a href="{{ site.baseurl }}/measuring-velocity">Measuring &amp; Using Velocity</li>
+                    <li><a href="{{ site.baseurl }}/measuring-value">Measuring Business Value</li>
+                    <li><a href="{{ site.baseurl }}/defining-releases">Defining Releases</li>
+                    <li><a href="{{ site.baseurl }}/testing-software">Testing Software</li>
+                    <li><a href="{{ site.baseurl }}/system-services">Integrating with Systems &amp; Services</li>
+                    <li><a href="{{ site.baseurl }}/client-management">Client Management</li>
+                    <li><a href="{{ site.baseurl }}/daily-standup">Daily Standup</li>
+                    <li><a href="{{ site.baseurl }}/sizing">Iteration Planning-Sizing</li>
+                    <li><a href="{{ site.baseurl }}/derisking">Iteration Planning-Derisking</li>
+                    <li><a href="{{ site.baseurl }}/retrospective">Retrospective</li>
+                    <li><a href="{{ site.baseurl }}/check-in">Clent Check In</li>
                 </ul>
           </div>
     </div>
