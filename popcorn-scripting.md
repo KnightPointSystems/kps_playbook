@@ -114,7 +114,7 @@ permalink: /popcorn-scripting/
     </div>
     <div class="col-md-3">
         <div class="sideLinks">
-            <h2>UX Plays</h2>
+            <h2>PM Plays</h2>
                 <ul>
                     <li><a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a></li>
                     <li><a href="{{ site.baseurl }}/business-goals">Defining Business Goals</a></li>
