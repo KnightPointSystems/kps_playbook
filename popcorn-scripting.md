@@ -55,9 +55,12 @@ permalink: /popcorn-scripting/
         </div>
     </div>
     <div class="col-md-6">
-        <p class="PS-Definition" id="PS-Definition">
-            Popcorn Scripting - Generating a free-flowing interview script.
-        </p>
+        <h4 class="PS-Definition" id="PS-Definition">
+            Popcorn Scripting
+        </h4>
+		<ul>
+			<li>Generating a free-flowing interview script</li>
+		</ul>
         <h4 class="PS-What" id="PS-What">
             What Are We Doing
         </h4>
@@ -98,9 +101,9 @@ permalink: /popcorn-scripting/
 <ul>
     <li class="PS-Popcorn" id="PS-Popcorn">Activity: Popcorn Scripting
         <ul>
-            <li>Do a dump and sort of the areas you would like to learn about</li>
-            <li>Label each cluster with a theme</li>
-            <li>Write questions that relate to each cluster
+            <li class="PS-DumpSort" id="PS-DumpSort">Do a dump and sort of the areas you would like to learn about</li>
+            <li class="PS-Theme" id="PS-Theme">Label each cluster with a theme</li>
+            <li class="PS-Cluster" id="PS-Cluster">Write questions that relate to each cluster
                 <ul>
                     <li>Use&quot; tell me about&quot; and&quot; Walk me through the last time&quot;</li>
                     <li>Ask for specific examples&quot; The last time&quot;, &quot;the most frustrating time, &quot;how do you know when&quot;</li>
