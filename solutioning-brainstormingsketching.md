@@ -2,7 +2,7 @@
 layout: page
 title: Solutioning – Brainstorming and Sketching
 header: Solutioning – Brainstorming and Sketching
-permalink: /daily-standup/
+permalink: /solutioning-sketching/
 ---
 <div class="row">
     <div class="col-md-3">
