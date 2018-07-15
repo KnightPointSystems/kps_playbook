@@ -79,7 +79,7 @@ permalink: /business-metrics/
                 </li>
                 <li>Participants
     	            <ul>
-        	            <li>Product Owner Team</li>
+        	            <li>Product Team</li>
         	            <li>(Optional) Product Owner Team</li>
     	            </ul>
                 </li>
