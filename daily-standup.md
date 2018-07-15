@@ -10,120 +10,127 @@ permalink: /daily-standup/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#DSO-What">
+                        <a href="#DS-Definition">
+                            Definition of Daily Standup
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#DS-What">
                             What are we doing
                         </a>
                     </li>
                     <li>
-                        <a href="#DSO-Why">
+                        <a href="#DS-Why">
                             Why we do it
                         </a>
                     </li>
                     <li>
-                        <a href="#DSO-Who">
+                        <a href="#DS-Who">
                             Who is doing it
                         </a>
                     </li>
                     <li>
-                        <a href="#DSO-How">
+                        <a href="#DS-How">
                             How we do it
                         </a>
-                        <ul>
-                            <li>
-                                <a href="#DSO-DumpSort">
-                                    Activity: Dump and Sort – 2-5 min per Dump + 10 min Sort
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DSO-Where">
-                                    Where We Are Going Tomorrow
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DSO-Activity">
-                                    Activity: Cluster and categorize as:
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DSO-Define">
-                                    Define the single Strategic Objective that will guide the                                                       next stage of the project
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
+                            <ul>
+                                <li>
+                                    <a href="#DS-Minute">15 minute daily standup</a>
+                                    <ul>
+                                        <li>
+                                            <a href="#DS-Each">Each Core Product Team member covers the following  information:</a>
+                                        </li>
+                                        <li>
+                                            <a href="#DS-Commitment">
+                                            Commitment should be tracked against the  Kanban board</a>
+                                        </li>
+                                        <li>
+                                            <a href="#DS-Teammates">Teammates should stand up to keep the meeting short and interactive</a>
+                                        </li>
+                                        <li>
+                                            <a href="#DS-Video">Video camera should be utilized when teams are distributed to enhance team collaborative culture</a>
+                                        </li>
+                                        <li>
+                                            <a href="#DS-Detailed">Detailed discussions should be held for after the standup is completed, and only those participants absolutely necessary in the discussion should be involved.</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
                    </ul>
         </div>
     </div>
     <div class="col-md-6">
-        <h4 class="DSO-What" id="DSO-What">
+    <h4 class="DS-What" id="DS-What">
+            Definition of Daily Standup
+        </h4>
+        <ul>
+            <li>
+                A commitment and coordination meeting for the product team
+            </li>
+        </ul>
+        <h4 class="DS-What" id="DS-What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>Learning about the strategic vision of the business</li>
-        <li>Understanding the environment the business is operating in</li>
-        <li>Contextualizing where our project fits</li>
-        <li>Defining how we will prioritize features in the future</li>
+        <li>Providing an efficient, collaborative, and transparent environment for the product team to report against their commitment to the team.  </li>
 	</ul>
-        <h4 class="DSO-Why" id="DSO-Why">
+        <h4 class="DS-Why" id="DS-Why">
             Why Are We Doing It
         </h4>
     <ul>
-        <li>Give voice to project stakeholders</li>
-        <li>Understand the big picture</li>
-        <li>Build trust with business</li>
-        <li>Learn to act as the voice of the business</li>
+        <li>To create an environment where the members of the product team hold each other accountable for their commitment to the team</li>
+        <li>To establish and maintain a team culture of rapid iteration</li>
+        <li>To create and maintain a team culture of transparency</li>
+        <li>To foster a collaborative team culture</li>
+        <li>To uncover risks and roadblocks early so that solutions can be sought rapidly and collaboratively</li>
 	</ul>
-        <h4 class="DSO-Who" id="DSO-Who">
+        <h4 class="DS-Who" id="DS-Who">
             Who Is Doing It
         </h4>
-<ul>
-   <li>Led by Product Manager</li>
-   <li>Participants
-    	<ul>
-        	<li>Product Owner Team</li>
-        	<li>Product Stakeholders</li>
-    	</ul>
-   </li>
-   <li>Audience
-    	<ul>
-            <li>Product Team</li>
-       </ul>    
-   </li>
-</ul>
-<h4 class="DSO-How" id="DSO-How">
-    How We Do It
-</h4>
-<ul>
-    <li class="DSO-DumpSort" id="DSO-DumpSort">Activity: Dump &amp; Sort - 2-5 minutes per Dump + 10 minute Sort</li>
-    <li class="DSO-Where" id="DSO-Where">Where We Are Going Tomorrow?
         <ul>
-            <li>Prompt: Write down what you would like to see your (agency/division/etc) accomplish:
+            <li>Facilitated By:
                 <ul>
-                    <li>This Quarter</li>
-                    <li>This Year</li>
-                    <li>In 3 Years
-                    	<ul>
-                            <li>Note: These are not the <b>PROJECT</b> objectives</li>
-                        </ul>
-                    </li>
+                    <li>Product Manager</li>
+                </ul>
+            </li>
+            <li>Required Participants
+                <ul>
+                    <li>Core Product Team </li>
+                </ul>
+            </li>
+            <li>Optional Observers
+                <ul>
+                    <li>Product Owner</li>
+                    <li>Subject Matter Experts</li>
+                    <li>Executive Sponsorsr</li>
                 </ul>
             </li>
         </ul>
-    </li>
-    <li class="DSO-Activity" id="DSO-Activity">Activity: Cluster &amp; categorize as:
+<h4 class="DS-How" id="DS-How">
+    How We Do It
+</h4>
+<ul>
+    <li class="DS-Minute" id="DS-Minute">15 minute daily standup
         <ul>
-            <li>Productivity</li>
-            <li>Efficiency</li>
-            <li>Quality Assurance</li>
-            <li>Operational Effectiveness</li>
+            <li class="DS-Each" id="DS-Each">Each Core Product Team member covers the following  information:
+                <ul>
+                    <li>What they completed since the last standup</li>
+                    <li>What they are committing to complete between now and the next standup</li>
+                    <li>Any impediments that they have which may hinder their ability to honor their commitment to the team</li>
+                </ul>
+            </li>
+            <li class="DS-Commitment" id="DS-Commitment">Commitment should be tracked against the  Kanban board</li>
+            <li class="DS-Teammates" id="DS-Teammates">Teammates should stand up to keep the meeting short and interactive</li>
+            <li class="DS-Video" id="DS-Video">Video camera should be utilized when teams are distributed to enhance team collaborative culture</li>
+            <li class="DS-Detailed" id="DS-Detailed">Detailed discussions should be held for after the standup is completed, and only those participants absolutely necessary in the discussion should be involved.</li>
         </ul>
     </li>
-    <li class="DSO-Define" id="DSO-Define">Define the single Strategic Objective that will guide the next stage of the project</li>
 </ul>
     </div>
     <div class="col-md-3">
         <div class="sideLinks">
-            <h2>UX Plays</h2>
+            <h2>PM Plays</h2>
                 <ul>
                     <li><a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a></li>
                     <li><a href="{{ site.baseurl }}/business-goals">Defining Business Goals</a></li>
