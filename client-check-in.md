@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Defining Strategic Objectives
-header: Defining Strategic Objectives
-permalink: /strategic-objectives/
+title: Client Check In
+header: Client Check In
+permalink: /check-in/
 ---
 
 <div class="row">

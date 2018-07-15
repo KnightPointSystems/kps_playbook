@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Defining Strategic Objectives
-header: Defining Strategic Objectives
-permalink: /strategic-objectives/
+title: Daily Standup
+header: Daily Standup
+permalink: /daily-standup/
 ---
-
 <div class="row">
     <div class="col-md-3">
         <div class="toc">
