@@ -10,7 +10,7 @@ permalink: /business-metrics/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#PS-Definition">
+                        <a href="#DBV-Definition">
                             Definition of Defining Business Value Metrics
                         </a>
                     </li>
@@ -45,9 +45,12 @@ permalink: /business-metrics/
         </div>
     </div>
     <div class="col-md-6">
-        <p class"DBG-Definition" id"DBG-Definition">
-            Defining Business Value Metrics - Focusing on outcomes.
-        </p>
+        <h4 class="DBV-Definition" id="DBV-Definition">
+            Defining Business Value Metrics
+        </h4>
+		<uL>
+			<li>Focusing on outcomes</li>
+		</ul>
         <h4 class="DBV-What" id="DBV-What">
             What Are We Doing
         </h4>
@@ -98,7 +101,7 @@ permalink: /business-metrics/
     </div>
     <div class="col-md-3">
         <div class="sideLinks">
-            <h2>UX Plays</h2>
+            <h2>PM Plays</h2>
                 <ul>
                     <li><a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a></li>
                     <li><a href="{{ site.baseurl }}/business-goals">Defining Business Goals</a></li>
