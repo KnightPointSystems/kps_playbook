@@ -33,9 +33,6 @@ permalink: /framing/
                         <a href="#F-How">
                             How we do it
                         </a>
-                            <ul>
-                                
-                            </ul>
                         </li>
                    </ul>
         </div>
