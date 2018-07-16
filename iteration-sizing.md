@@ -21,7 +21,7 @@ permalink: /iteration-sizing/
                     </li>
                     <li>
                         <a href="#IPS-Why">
-                            Why we do it
+                            Why are we doing it
                         </a>
                     </li>
                     <li>
@@ -33,70 +33,7 @@ permalink: /iteration-sizing/
                         <a href="#IPS-How">
                             How we do it
                         </a>
-                        <ul>
-                            <li>
-                                <a href="#IPS-Regularly">
-                                    Regularly scheduled (weekly) meetings held with the Product Team
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Product">
-                                    The Product Manager grooms the backlog prior to the meeting
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Team">
-                                    The Product Team agrees on a method for sizing in their initial sizing meeting
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Agrees">
-                                    The Product Team agrees on a baseline for their sizing
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Each">
-                                    Each larger “size” is roughly 2x the effort of the previous
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Sizing">
-                                    Sizing is NOT equal to time.  It is a relative measure of effort
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-User">
-                                    The team takes a few minutes to discuss each user story in order of priority from the Kanban board
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Votes">
-                                    The team votes on the relative size of the story
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Differences">
-                                    Differences in sizing are discussed, and re-votes occur until the team agrees on a size
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Story">
-                                    If the team cannot reach consensus within a short amount of time the story should be tabled for further elaboration
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Sized">
-                                    Stories which are sized larger than 8 points (XL) should be evaluated for further splitting whenever possible
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#IPS-Goal">
-                                    The goal is to have a backlog of stories that are 1 or 2 point stories
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                   </ul>
+		</li>
         </div>
     </div>
     <div class="col-md-6">
@@ -104,7 +41,7 @@ permalink: /iteration-sizing/
             Iteration Planning Definition
         </h4>
         <ul>
-            <li>is a shared SCOPING and understanding meeting for the product team</li>
+            <li>Shared SCOPING and understanding meeting for the product team</li>
         </ul>
         <h4 class="IPS-What" id="IPS-What">
             What Are We Doing
@@ -171,12 +108,18 @@ permalink: /iteration-sizing/
     </li>
     <li class="IPS-Each" id="IPS-Each">Each larger “size” is roughly 2x the effort of the previous</li>
     <li class="IPS-Sizing" id="IPS-Sizing">Sizing is NOT equal to time.  It is a relative measure of effort.</li>
-    <li class="IPS-User" id="IPS-User"></li>
-    <li class="IPS-Votes" id="IPS-Votes"></li>
-    <li class="IPS-Differences" id="IPS-Differences"></li>
-    <li class="IPS-Story" id="IPS-Story"></li>
-    <li class="IPS-Sized" id="IPS-Sized"></li>
-    <li class="IPS-Goal" id="IPS-Goal"></li>
+    <li class="IPS-Team" id="IPS-Team">The team takes a few minutes to discuss each user story in order of priority from the Kanban board
+</li>
+    <li class="IPS-Votes" id="IPS-Votes">The team votes on the relative size of the story
+</li>
+    <li class="IPS-Differences" id="IPS-Differences">Differences in sizing are discussed, and re-votes occur until the team agrees on a size
+</li>
+    <li class="IPS-Story" id="IPS-Story">If the team cannot reach consensus within a short amount of time the story should be tabled for further elaboration
+</li>
+    <li class="IPS-Sized" id="IPS-Sized">Stories which are sized larger than 8 points (XL) should be evaluated for further splitting whenever possible
+</li>
+    <li class="IPS-Goal" id="IPS-Goal">The goal is to have a backlog of stories that are 1 or 2 point stories
+</li>
 </ul>
     </div>
     <div class="col-md-3">
