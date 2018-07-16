@@ -50,7 +50,7 @@ permalink: /user-interviews/
             What Are We Doing
         </h4>
 	<ul>
-        <li>Providing an efficient, collaborative, and transparent environment for the product team to report against their commitment to the team.  </li>
+        <li>Providing an efficient, collaborative, and transparent environment for the product team to report against their commitment to the team</li>
 	</ul>
         <h4 class="PUI-Why" id="PUI-Why">
             Why Are We Doing It
