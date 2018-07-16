@@ -65,7 +65,7 @@ permalink: /business-goals/
             Defining Business Goals
         </h4>
             <ul>
-                <li>is understanding the motivation behind the product initiative</li>
+                <li>Understanding the motivation behind the product initiative</li>
             </ul>
         <h4 class="DBG-What" id="DBG-What">
             What Are We Doing
