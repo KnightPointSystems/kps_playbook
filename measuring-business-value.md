@@ -50,7 +50,6 @@ permalink: /measuring-value/
         </h4>
 	       <ul>
         <li>Visually demonstrating the value of our products and services</li>
-       </li>
 	</ul>
         <h4 class="MBV-Why" id="MBV-Why">
             Why Are We Doing It
