@@ -10,27 +10,27 @@ permalink: /risks-mitigation/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#SF-Definition">
-                            Definition of Science Fair
+                        <a href="#">
+                            Definition of Risks and Mitigation
                         </a>
                     </li>
                     <li>
-                        <a href="#SF-What">
+                        <a href="#">
                             What are we doing
                         </a>
                     </li>
                     <li>
-                        <a href="#SF-Why">
+                        <a href="#">
                             Why we do it
                         </a>
                     </li>
                     <li>
-                        <a href="#SF-Who">
+                        <a href="#">
                             Who is doing it
                         </a>
                     </li>
                     <li>
-                        <a href="#SF-How">
+                        <a href="#">
                             How we do it
                         </a>
                     </li>
@@ -38,19 +38,19 @@ permalink: /risks-mitigation/
         </div>
     </div>
     <div class="col-md-6">
-        <h4 class="R-Definition" id="R-Definition">
-             Definition of Science Fair
+        <h4>
+             Definition of Risks and Mitigation
         </h4>
-        <h4 class="SF-What" id="SF-What">
+        <h4>
             What Are We Doing
         </h4>
-        <h4 class="SF-Why" id="SF-Why">
+        <h4>
             Why We Do It
         </h4>
-        <h4 class="SF-Who" id="SF-Who">
+        <h4 >
             Who Is Doing It
         </h4>
-        <h4 class="SF-How" id="SF-How">
+        <h4>
             How We Do It
         </h4>
     </div>
