@@ -36,24 +36,6 @@ permalink: /daily-standup/
                             <ul>
                                 <li>
                                     <a href="#DS-Minute">15 minute daily standup</a>
-                                    <ul>
-                                        <li>
-                                            <a href="#DS-Each">Each Core Product Team member covers the following  information:</a>
-                                        </li>
-                                        <li>
-                                            <a href="#DS-Commitment">
-                                            Commitment should be tracked against the  Kanban board</a>
-                                        </li>
-                                        <li>
-                                            <a href="#DS-Teammates">Teammates should stand up to keep the meeting short and interactive</a>
-                                        </li>
-                                        <li>
-                                            <a href="#DS-Video">Video camera should be utilized when teams are distributed to enhance team collaborative culture</a>
-                                        </li>
-                                        <li>
-                                            <a href="#DS-Detailed">Detailed discussions should be held for after the standup is completed, and only those participants absolutely necessary in the discussion should be involved.</a>
-                                        </li>
-                                    </ul>
                                 </li>
                             </ul>
                         </li>
