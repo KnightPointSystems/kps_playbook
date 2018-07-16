@@ -66,17 +66,16 @@ permalink: /product-management/
                     <li><a href="{{ site.baseurl }}/popcorn-scripting">Popcorn Scripting</a></li>
                     <li><a href="{{ site.baseurl }}/interview-synthesis">User Interview Synthesis</a></li>
                     <li><a href="{{ site.baseurl }}/science-fair">Science Fair</a></li>
-                    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
                     <li><a href="{{ site.baseurl }}/defining-problems">Defining &amp; Prioritizing Problems</a></li>
-                    <li><a href="{{ site.baseurl }}/technical-discovery">Technical Discovery &amp; Analysis</a></li>
-                    <li><a href="{{ site.baseurl }}/solutioning-problem">Solutioning - Defining the Problem</a></li>
+                    <li>Technical Discovery &amp; Analysis</li>
+                    <li>Solutioning - Defining the Problem</li>
                     <li><a href="{{ site.baseurl }}/solutioning-sketching">Solutioning - Brainstorming &amp; Sketching</a></li>
-                    <li><a href="{{ site.baseurl }}/prototype-interviews">Prototype Interviews</a></li>
+                    <li>Prototype Interviews</li>
                     <li><a href="{{ site.baseurl }}/business-metrics">Defining Business Value Metrics</a></li>
-                    <li><a href="{{ site.baseurl }}/art-gallery">Art Gallery</a></li>
-                    <li><a href="{{ site.baseurl }}/prioritization">Prioritization</a></li>
-                    <li><a href="{{ site.baseurl }}/feature-sizing">Feature Sizing</a></li>
-                    <li><a href="{{ site.baseurl }}/user-stories">Writing User Stories</a></li>
+                    <li>Art Gallery</li>
+                    <li>Prioritization</li>
+                    <li>Feature Sizing</li>
+                    <li>Writing User Stories</li>
                     <li><a href="{{ site.baseurl }}/acceptance-criteria">Writing Acceptance Criteria</a></li>
                     <li><a href="{{ site.baseurl }}/measuring-velocity">Measuring &amp; Using Velocity</a></li>
                     <li><a href="{{ site.baseurl }}/measuring-value">Measuring Business Value</a></li>
