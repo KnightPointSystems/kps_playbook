@@ -65,7 +65,7 @@ permalink: /interview-synthesis/
             How We Do It
         </h4>
         <ul>
-        <li>During User Interviews write one idea per post it note or one idea per card on provided software</li>
+        <li>During User Interviews write one idea per post-it note or one idea per card on provided software</li>
         <li>Synthesis is Conducted after user interviews are completed.</li>
         <li>After about 4-6 user interviews conduct synthesis meeting with the team.</li>
         <ul><li>Sort cards into categories </li>
