@@ -10,46 +10,41 @@ permalink: /problem-workshop/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#PW-Definition">
+                        <a href="#Definition">
                             Definition of Problem Workshop
                         </a>
                     </li>
                     <li>
-                        <a href="#PW-What">
+                        <a href="#What">
                             What Are We Doing
                         </a>
                     </li>
                     <li>
-                        <a href="#PW-Why">
-                            Why Are We Doing It
+                        <a href="#Why">
+                            Why We Do It
                         </a>
                     </li>
                     <li>
-                        <a href="#PW-Who">
+                        <a href="#Who">
                             Who Is Doing It
                         </a>
                     </li>
                     <li>
-                        <a href="#PW-How">
+                        <a href="#How">
                             How We Do It
                         </a>
-                        <ul>
-                            <a href="#PW-Board">
-                                The team discusses each item on the board
-                            </a>
-                        </ul>
                     </li>
                    </ul>
         </div>
     </div>
     <div class="col-md-6">
-        <h4 class="PW-Definition" id="PW-Definition">
+        <h4 class="Definition" id="Definition">
             Definition of Problem Workshop
         </h4>
 		<ul>
 			<li>Defining a valuable technical complex problem to solve</li>
 		</ul>
-        <h4 class="PW-What" id="PW-What">
+        <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
@@ -58,8 +53,8 @@ permalink: /problem-workshop/
         <li>Aligning the business and delivery teams on a common vision for framing</li>
         <li>Determine the most technically complex problem to solve</li>
 	</ul>
-        <h4 class="PW-Why" id="PW-Why">
-            Why Are We Doing It
+        <h4 class="Why" id="Why">
+            Why We Do It
         </h4>
             <ul>
                 <li>Provide a view into Discovery for the business</li>
@@ -68,70 +63,40 @@ permalink: /problem-workshop/
                 <li>Open up new areas of inquiry for Discovery</li>
                 <li>Identify technical challenges to overcome</li>
 	        </ul>
-        <h4 class="PW-Who" id="PW-Who">
+        <h4 class="Who" id="Who">
             Who Is Doing It
         </h4>
             <ul>
-                <li>Led By
+                <li>Facilitated By:
     	            <ul>
         	            <li>Product Manager</li>
                       <li>Product Designer</li>
     	            </ul>
                  </li>
-                <li>Participating
+                <li>Participating:
     	            <ul>
                         <li>Product Team </li>
                         <li>Product Owner Team</li>
                         <li>Product Stakeholders</li>
                     </ul>
                </li>
+                <li>Audience:
+    	            <ul>
+                        <li>Product Stakeholders</li>
+                        <li>OIT Stakeholders</li>
+                    </ul>
+               </li>
             </ul>
-        <h4 class="PW-How" id="PW-How">
+        <h4 class="How" id="How">
             How We Do It
         </h4>
             <ul>
-                <li>Activity: Science Fair</li>
-                <li>Activity: Defining and Prioritizing Problems</li>
+                <li>Activity: <a href="{{ site.baseurl }}/science-fair">Science Fair</a></li>
+                <li>Activity: <a href="{{ site.baseurl }}/defining-problems">Defining &amp; Prioritizing Problems</a></li>
                 <li>Activity: Technical Discovery and Analysis</li>
             </ul>
         </div>
-    </div>
     <div class="col-md-3">
-        <div class="sideLinks">
-            <h2>PM Plays</h2>
-                <ul>
-                    <li><a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a></li>
-                    <li><a href="{{ site.baseurl }}/business-goals">Defining Business Goals</a></li>
-                    <li><a href="{{ site.baseurl }}/risks-mitigation">Risks &amp; Mitigation</a></li>
-                    <li><a href="{{ site.baseurl }}/problem-workshop">Problem Workshop</a></li>
-                    <li><a href="{{ site.baseurl }}/user-interviews">Performing User Interviews</a></li>
-                    <li><a href="{{ site.baseurl }}/popcorn-scripting">Popcorn Scripting</a></li>
-                    <li><a href="{{ site.baseurl }}/interview-synthesis">User Interview Synthesis</a></li>
-                    <li><a href="{{ site.baseurl }}/science-fair">Science Fair</a></li>
-                    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-                    <li><a href="{{ site.baseurl }}/defining-problems">Defining &amp; Prioritizing Problems</a></li>
-                    <li><a href="{{ site.baseurl }}/technical-discovery">Technical Discovery &amp; Analysis</a></li>
-                    <li><a href="{{ site.baseurl }}/solutioning-problem">Solutioning - Defining the Problem</a></li>
-                    <li><a href="{{ site.baseurl }}/solutioning-sketching">Solutioning - Brainstorming &amp; Sketching</a></li>
-                    <li><a href="{{ site.baseurl }}/prototype-interviews">Prototype Interviews</a></li>
-                    <li><a href="{{ site.baseurl }}/business-metrics">Defining Business Value Metrics</a></li>
-                    <li><a href="{{ site.baseurl }}/art-gallery">Art Gallery</a></li>
-                    <li><a href="{{ site.baseurl }}/prioritization">Prioritization</a></li>
-                    <li><a href="{{ site.baseurl }}/feature-sizing">Feature Sizing</a></li>
-                    <li><a href="{{ site.baseurl }}/user-stories">Writing User Stories</a></li>
-                    <li><a href="{{ site.baseurl }}/acceptance-criteria">Writing Acceptance Criteria</a></li>
-                    <li><a href="{{ site.baseurl }}/measuring-velocity">Measuring &amp; Using Velocity</a></li>
-                    <li><a href="{{ site.baseurl }}/measuring-value">Measuring Business Value</a></li>
-                    <li><a href="{{ site.baseurl }}/defining-releases">Defining Releases</a></li>
-                    <li><a href="{{ site.baseurl }}/testing-software">Testing Software</a></li>
-                    <li><a href="{{ site.baseurl }}/system-services">Integrating with Systems &amp; Services</a></li>
-                    <li><a href="{{ site.baseurl }}/client-management">Client Management</a></li>
-                    <li><a href="{{ site.baseurl }}/daily-standup">Daily Standup</a></li>
-                    <li><a href="{{ site.baseurl }}/iteration-sizing">Iteration Planning-Sizing</a></li>
-                    <li><a href="{{ site.baseurl }}/iteration-derisking">Iteration Planning-Derisking</a></li>
-                    <li><a href="{{ site.baseurl }}/retrospective">Retrospective</a></li>
-                    <li><a href="{{ site.baseurl }}/check-in">Clent Check In</a></li>
-                </ul>
-          </div>
+        {% include product-plays.html %}
     </div>
 </div>
