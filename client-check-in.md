@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Client Check In
-header: Client Check In
+header: Client Check-In
 permalink: /check-in/
 ---
 
@@ -10,116 +10,92 @@ permalink: /check-in/
         <div class="toc">
             <h3>Table of Contents</h3>
                 <ul>
-                    <li>
-                        <a href="#DSO-What">
-                            What are we doing
+                <li>
+                        <a href="#Definition">
+                            Definition of Client Check-in
                         </a>
                     </li>
                     <li>
-                        <a href="#DSO-Why">
-                            Why we do it
+                        <a href="#What">
+                            What Are We Doing
                         </a>
                     </li>
                     <li>
-                        <a href="#DSO-Who">
-                            Who is doing it
+                        <a href="#Why">
+                            Why We Do It
                         </a>
                     </li>
                     <li>
-                        <a href="#DSO-How">
-                            How we do it
+                        <a href="#Who">
+                            Who is Doing It
                         </a>
-                        <ul>
-                            <li>
-                                <a href="#DSO-DumpSort">
-                                    Activity: Dump and Sort – 2-5 min per Dump + 10 min Sort
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DSO-Where">
-                                    Where We Are Going Tomorrow
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DSO-Activity">
-                                    Activity: Cluster and categorize as:
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DSO-Define">
-                                    Define the single Strategic Objective that will guide the                                                       next stage of the project
-                                </a>
-                            </li>
-                        </ul>
+                    </li>
+                    <li>
+                        <a href="#How">
+                            How We Do It
+                        </a>
                     </li>
                    </ul>
         </div>
     </div>
     <div class="col-md-6">
-        <h4 class="DSO-What" id="DSO-What">
+    <h4 class="Definition" id="Definition">
+            Definition of Client Check-in
+        </h4>
+	<ul>
+        <li>Recurring meeting with Product Owner</li>
+	</ul>
+        <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>Learning about the strategic vision of the business</li>
-        <li>Understanding the environment the business is operating in</li>
-        <li>Contextualizing where our project fits</li>
-        <li>Defining how we will prioritize features in the future</li>
+<li>Meet with Product Owner on a regular basis</li>
+<li>Provide project updates as needed</li>
+<li>Get outstanding questions answered</li>
 	</ul>
-        <h4 class="DSO-Why" id="DSO-Why">
-            Why Are We Doing It
+        <h4 class="Why" id="Why">
+            Why We Do It
         </h4>
     <ul>
-        <li>Give voice to project stakeholders</li>
-        <li>Understand the big picture</li>
-        <li>Build trust with business</li>
-        <li>Learn to act as the voice of the business</li>
+<li>To be transparent</li>
+<li>To build trust with the Product Owner</li>
+<li>To manage expectations of the Product Owner</li>
+<li>To learn about anything that may affect the Project Team or deliverables</li>
 	</ul>
-        <h4 class="DSO-Who" id="DSO-Who">
+        <h4 class="Who" id="Who">
             Who Is Doing It
         </h4>
 <ul>
-   <li>Led by Product Manager</li>
-   <li>Participants
+   <li>Facilitated by:</li>
+        <ul>
+            <li>Product Manager</li>
+        </ul>
+   <li>Participants:</li>
     	<ul>
         	<li>Product Owner Team</li>
-        	<li>Product Stakeholders</li>
     	</ul>
-   </li>
-   <li>Audience
+   <li>Audience:</li>
     	<ul>
-            <li>Product Team</li>
+            <li>Product Designer</li>
+            <li>Product Stakeholders</li>
+            <li>OIT Stakeholders</li>
        </ul>    
-   </li>
 </ul>
-<h4 class="DSO-How" id="DSO-How">
+<h4 class="How" id="How">
     How We Do It
 </h4>
 <ul>
-    <li class="DSO-DumpSort" id="DSO-DumpSort">Activity: Dump &amp; Sort - 2-5 minutes per Dump + 10 minute Sort</li>
-    <li class="DSO-Where" id="DSO-Where">Where We Are Going Tomorrow?
-        <ul>
-            <li>Prompt: Write down what you would like to see your (agency/division/etc) accomplish:
-                <ul>
-                    <li>This Quarter</li>
-                    <li>This Year</li>
-                    <li>In 3 Years
-                    	<ul>
-                            <li>Note: These are not the <b>PROJECT</b> objectives</li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li class="DSO-Activity" id="DSO-Activity">Activity: Cluster &amp; categorize as:
-        <ul>
-            <li>Productivity</li>
-            <li>Efficiency</li>
-            <li>Quality Assurance</li>
-            <li>Operational Effectiveness</li>
-        </ul>
-    </li>
-    <li class="DSO-Define" id="DSO-Define">Define the single Strategic Objective that will guide the next stage of the project</li>
+<li>Inform Product Owner Team of what we have accomplished, what is in progress, what value we have added, and notify of risks/mitigations</li>
+<li>Get pulse check from Product Owner Team: what is going on in their world that affects the project, what are their concerns about the project, what would they like to know more about</li>
+<li>Frequency of the meeting: once a week, same time every week</li>
+<li>Send status report prior to meeting (preferably the day before) with information above</li> 
+<ul>
+<li>Ensures efficiency</li>
+<li>Guides the conversation</li>
+<li>Product Owner Team has time to formulate questions</li>
+</ul>
+<li>Allow time at the end for additional discussion / round robin call out (ask each person if they are thumbs up, thumbs down, thumbs in the middle, and if down or middle ask why)</li>
+
 </ul>
     </div>
     <div class="col-md-3">
