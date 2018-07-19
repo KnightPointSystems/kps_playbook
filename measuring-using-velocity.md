@@ -16,40 +16,23 @@ permalink: /measuring-velocity/
                     </li>
                     <li>
                         <a href="#MUV-What">
-                            What are we doing
+                            What Are We doing
                         </a>
                     </li>
                     <li>
                         <a href="#MUV-Why">
-                            Why we do it
+                            Why We Do It
                         </a>
                     </li>
                     <li>
                         <a href="#MUV-Who">
-                            Who is doing it
+                            Who is Doing It
                         </a>
                     </li>
                     <li>
                         <a href="#MUV-How">
-                            How we do it
+                            How We Do It
                         </a>
-                        <ul>
-                            <li>
-                                <a href="#MUV-End">
-                                    At then end of a set period (preferably 1 week) add up the number of story points that were completed that week
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#MUV-Keep">
-                                Keep a record of the team velocity for each period and average them out over time for use in estimating future deliveries
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#MUV-Examine">
-                                Examine trends in velocity and look for possible underlying causes
-                                </a>
-                            </li>
-                        </ul>
                     </li>
                    </ul>
         </div>
@@ -59,20 +42,20 @@ permalink: /measuring-velocity/
             Measuring and Using Velocity
         </h4>
             <ul>
-                <li>is Predicting and analyzing team performance</li>
+                <li>Predicting and analyzing team performance</li>
             </ul>
         <h4 class="MUV-What" id="MUV-What">
             What Are We Doing
         </h4>
 	        <ul>
-                <li>Measuring the rough amount of work done by the team in a given period of time.</li>
+                <li>Measuring the amount of work done by the team in a given period of time.</li>
 	        </ul>
         <h4 class="MUV-Why" id="MUV-Why">
-            Why Are We Doing It
+            Why We Do It
         </h4>
             <ul>
                 <li>
-                To establish a historical basis of estimation so we may predict rough timelines for future development
+                To establish a historical basis of estimation so we may estimate timelines for future development
                 </li>
                 <li>Provide benchmarks to establish stretch goals for team commitment over a period of time
                 </li>
@@ -91,18 +74,21 @@ permalink: /measuring-velocity/
             How We Do It
         </h4>
             <ul>
-                <li class="MUV-End" id="MUV-End">
+                <li>
                     At then end of a set period (preferably 1 week) add up the number of story points that were completed that week
                     <ul>
                         <li>
-                        Completed is defined by our Definition of Done – Typically, released to production
+                        Completed is defined by our Definition of Done
+                        </li>
+			<li>
+                        Stories count toward velocity in the week they are finished not the week they were started
                         </li>
                     </ul>
                 </li>
-                <li class="MUV-Keep" id="MUV-Keep">
+                <li>
                     Keep a record of the team velocity for each period and average them out over time for use in estimating future deliveries
                 </li>
-                <li class="MUV-Examine" id="MUV-Examine">
+                <li>
                     Examine trends in velocity and look for possible underlying causes
                     <ul>
                         <li>Increased Velocity – Look for patterns/behaviors to continue</li>
