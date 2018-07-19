@@ -56,7 +56,7 @@ permalink: /user-interviews/
             Why We Do It
         </h4>
         <ul>
-           <li>To understand the user's role, their current processes, and discover real problems
+           <li>To understand the user's role, their current processes, and discover real problems</li>
 	</ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
