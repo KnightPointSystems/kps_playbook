@@ -17,22 +17,22 @@ permalink: /business-goals/
                     </li>
                     <li>
                         <a href="#DBG-What">
-                            What are we doing
+                            What Are We Doing
                         </a>
                     </li>
                     <li>
                         <a href="#DBG-Why">
-                            Why we do it
+                            Why We Do It
                         </a>
                     </li>
                     <li>
                         <a href="#DBG-Who">
-                            Who is doing it
+                            Who is Doing It
                         </a>
                     </li>
                     <li>
                         <a href="#DBG-How">
-                            How we do it
+                            How We Do It
                         </a>
                         <ul>
                             <li>
@@ -76,7 +76,7 @@ permalink: /business-goals/
                 <li>Understanding how our stakeholders define success</li>
 	        </ul>
         <h4 class="DBG-Why" id="DBG-Why">
-            Why Are We Doing It
+            Why We Do It
         </h4>
             <ul>
                 <li>Develop an understanding of how we can best deliver value to the business</li>
@@ -87,7 +87,11 @@ permalink: /business-goals/
             Who Is Doing It
         </h4>
             <ul>
-                <li>Led by Product Manager</li>
+                <li>Facilitated By
+		    <ul>
+		        <li>Product Manager</li>
+		    </ul>
+		</li>
                 <li>Participants
     	            <ul>
         	            <li>Product Owner Team</li>
