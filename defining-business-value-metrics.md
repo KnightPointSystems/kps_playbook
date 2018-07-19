@@ -10,48 +10,46 @@ permalink: /business-metrics/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#DBV-Definition">
+                        <a href="#Definition">
                             Definition of Defining Business Value Metrics
                         </a>
                     </li>
                     <li>
-                        <a href="#DBV-What">
-                            What are we doing
+                        <a href="#What">
+                            What Are We Doing
                         </a>
                     </li>
                     <li>
-                        <a href="#DBV-Why">
-                            Why we do it
+                        <a href="#Why">
+                            Why We Do It
                         </a>
                     </li>
                     <li>
-                        <a href="#DBV-Who">
-                            Who is doing it
+                        <a href="#Who">
+                            Who is Doing It
                         </a>
                     </li>
                     <li>
-                        <a href="#DBV-How">
-                            How we do it
+                        <a href="#How">
+                            How We Do It
                         </a>
-                        <ul>
-                            <li>
-                                <a href="#DBV-Define">
-                                    Activity: Define what you can measure
-                                </a>
-                            </li>
-                        </ul>
+                    </li>
+                    <li>
+                    <a href="#measuring">
+                    Measuring Outcomes
+                    </a>
                     </li>
                    </ul>
         </div>
     </div>
     <div class="col-md-6">
-        <h4 class="DBV-Definition" id="DBV-Definition">
+        <h4 class="Definition" id="Definition">
             Defining Business Value Metrics
         </h4>
 		<uL>
 			<li>Focusing on outcomes</li>
 		</ul>
-        <h4 class="DBV-What" id="DBV-What">
+        <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	        <ul>
@@ -59,8 +57,8 @@ permalink: /business-metrics/
                 <li>Ensuring we are building the right things</li>
                 <li>Demonstrating the value of our products</li>
 	        </ul>
-        <h4 class="DBV-Why" id="DBV-Why">
-            Why Are We Doing It
+        <h4 class="Why" id="Why">
+            Why We Do It
         </h4>
             <ul>
                 <li>Keep our development priorities focused</li>
@@ -68,27 +66,27 @@ permalink: /business-metrics/
                 <li>Build trust with the product owner team and product stakeholders</li>
                 <li>Demonstrate return on investment</li>
 	        </ul>
-        <h4 class="DBV-Who" id="DBV-Who">
+        <h4 class="Who" id="Who">
             Who Is Doing It
         </h4>
             <ul>
-                <li>Led by
+                <li>Facilitated by:
                     <ul>
                         <li>Product Manager</li>
                     </ul>
                 </li>
-                <li>Participants
+                <li>Participants:
     	            <ul>
         	            <li>Product Team</li>
         	            <li>(Optional) Product Owner Team</li>
     	            </ul>
                 </li>
             </ul>    
-        <h4 class="DBV-How" id="DBV-How">
+        <h4 class="How" id="How">
             How We Do It
         </h4>
             <ul>
-                <li class="DBV-Define" id="DBV-Define">Activity: Define what you can measure</li>
+                <li class="Define" id="Define">Activity: Define what you can measure</li>
                     <ul>
                         <li>Start with your Strategic Objective and ask “How do we know we are ____?”</li>
                         <li>Brainstorm ways to measure success in that area</li>
@@ -96,8 +94,11 @@ permalink: /business-metrics/
                         <li>Vote on the best metrics</li>
                         <li>Write stories to implement your metrics</li>
                     </ul>
-                </li>
             </ul>
+            <h4 class="measuring" id="measuring">
+                Measuring Outcomes        
+                </h4>
+            <img src="../images/measuringoutcomes.png" alt="measuring outcomes"/>
     </div>
     <div class="col-md-3">
         {% include product-plays.html %}
