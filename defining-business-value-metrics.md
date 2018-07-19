@@ -70,7 +70,7 @@ permalink: /business-metrics/
             Who Is Doing It
         </h4>
             <ul>
-                <li>Led by:
+                <li>Facilitated by:
                     <ul>
                         <li>Product Manager</li>
                     </ul>
