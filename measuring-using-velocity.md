@@ -16,7 +16,7 @@ permalink: /measuring-velocity/
                     </li>
                     <li>
                         <a href="#MUV-What">
-                            What Are We doing
+                            What Are We Doing
                         </a>
                     </li>
                     <li>
@@ -65,7 +65,7 @@ permalink: /measuring-velocity/
                 </li>
 	        </ul>
         <h4 class="MUV-Who" id="MUV-Who">
-            Who Is Doing It
+            Who is Doing It
         </h4>
             <ul>
                 <li>Product Manager</li>
