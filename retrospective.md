@@ -11,7 +11,7 @@ permalink: /retrospective/
                 <ul>
                     <li>
                         <a href="#Definition">
-                            Definition of Retrospective
+                            Definition
                         </a>
                     </li>
                     <li>
@@ -26,7 +26,7 @@ permalink: /retrospective/
                     </li>
                     <li>
                         <a href="#Who">
-                            Who is Doing It
+                            Who Is Doing It
                         </a>
                     </li>
                     <li>
@@ -39,7 +39,7 @@ permalink: /retrospective/
     </div>
     <div class="col-md-6">
         <h4 class="Definition" id="Definition">
-            Definition of Retrospective
+            Definition
         </h4>
 		<ul>
 			<li>A standing meeting for the product team to reflect on performance and commit to continuous improvement
@@ -62,7 +62,7 @@ permalink: /retrospective/
                 <li>To regularly celebrate team success and build momentum</li>
 	        </ul>
         <h4 class="Who" id="Who">
-            Who is Doing It
+            Who Is Doing It
         </h4>
             <ul>
                 <li>Facilitated By:
