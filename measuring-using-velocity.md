@@ -10,27 +10,27 @@ permalink: /measuring-velocity/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#MUV-Definition">
+                        <a href="#Definition">
                             Definition of Measuring and Using Velocity
                         </a>
                     </li>
                     <li>
-                        <a href="#MUV-What">
+                        <a href="#What">
                             What Are We Doing
                         </a>
                     </li>
                     <li>
-                        <a href="#MUV-Why">
+                        <a href="#Why">
                             Why We Do It
                         </a>
                     </li>
                     <li>
-                        <a href="#MUV-Who">
+                        <a href="#Who">
                             Who is Doing It
                         </a>
                     </li>
                     <li>
-                        <a href="#MUV-How">
+                        <a href="#How">
                             How We Do It
                         </a>
                     </li>
@@ -38,19 +38,19 @@ permalink: /measuring-velocity/
         </div>
     </div>
     <div class="col-md-6">
-        <h4 class="MUV-Definition" id="MUV-Definition">
-            Measuring and Using Velocity
+        <h4 class="Definition" id="Definition">
+            Definition of Measuring and Using Velocity
         </h4>
             <ul>
                 <li>Predicting and analyzing team performance</li>
             </ul>
-        <h4 class="MUV-What" id="MUV-What">
+        <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	        <ul>
                 <li>Measuring the amount of work done by the team in a given period of time.</li>
 	        </ul>
-        <h4 class="MUV-Why" id="MUV-Why">
+        <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
@@ -64,13 +64,13 @@ permalink: /measuring-velocity/
                 <li>Note: Velocity is NOT a measure of value.  We prefer outcome over output in our measurements of value.
                 </li>
 	        </ul>
-        <h4 class="MUV-Who" id="MUV-Who">
+        <h4 class="Who" id="Who">
             Who is Doing It
         </h4>
             <ul>
                 <li>Product Manager</li>
             </ul>
-        <h4 class="MUV-How" id="MUV-How">
+        <h4 class="How" id="How">
             How We Do It
         </h4>
             <ul>
