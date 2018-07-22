@@ -91,7 +91,8 @@ permalink: /generating-backlog/
                 <li>Activity: <a href="#">Writing User Stories</a></li>
                 <li>Activity: <a href="{{ site.baseurl }}/acceptance-criteria">Writing Acceptance Criteria</a></li>
                 <li>Activity: <a href="{{ site.baseurl }}/measuring-velocity">Measuring &amp; Using Velocity</a></li>
-                <li>Activity: <a href="{{ site.baseurl }}/measuring-value">Measuring Business Value</a></li>                
+                <li>Activity: <a href="{{ site.baseurl }}/measuring-value">Measuring Business Value</a></li>      
+		<li>Activity: <a href="#">Defining Definition of Done</a></li>
             </ul>
     </div>
     <div class="col-md-3">
