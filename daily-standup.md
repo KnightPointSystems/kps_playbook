@@ -10,64 +10,59 @@ permalink: /daily-standup/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#DS-Definition">
+                        <a href="#Definition">
                             Definition of Daily Standup
                         </a>
                     </li>
                     <li>
-                        <a href="#DS-What">
-                            What are we doing
+                        <a href="#What">
+                            What Are We Doing
                         </a>
                     </li>
                     <li>
-                        <a href="#DS-Why">
-                            Why we do it
+                        <a href="#Why">
+                            Why We Do It
                         </a>
                     </li>
                     <li>
-                        <a href="#DS-Who">
-                            Who is doing it
+                        <a href="#Who">
+                            Who Is Doing It
                         </a>
                     </li>
                     <li>
-                        <a href="#DS-How">
-                            How we do it
+                        <a href="#How">
+                            How We Do It
                         </a>
-                            <ul>
-                                <li>
-                                    <a href="#DS-Minute">15 minute daily standup</a>
-                                </li>
-                            </ul>
-                        </li>
+                     </li>
                    </ul>
         </div>
     </div>
     <div class="col-md-6">
-    <h4 class="DS-What" id="DS-What">
+    <h4 class="Definition" id="Definition">
             Definition of Daily Standup
         </h4>
         <ul>
             <li>
-                A commitment and coordination meeting for the product team
+                A commitment and coordination meeting for the Product Team
             </li>
         </ul>
-        <h4 class="DS-What" id="DS-What">
+        <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>Providing an efficient, collaborative, and transparent environment for the product team to report against their commitment to the team.  </li>
+        <li>Providing an efficient, collaborative, and transparent environment for the Product Team to communicate thei progress on their <b>commitments</b> to the team.</li>
 	</ul>
-        <h4 class="DS-Why" id="DS-Why">
-            Why Are We Doing It
+        <h4 class="Why" id="Why">
+            Why We Do It
         </h4>
     <ul>
-        <li>To create an environment where the members of the product team hold each other accountable for their commitment to the team</li>
+        <li>To create an environment where the members of the Product Team hold each other accountable to their commitment to the team</li>
         <li>To establish and maintain a team culture of rapid iteration</li>
         <li>To create and maintain a team culture of transparency</li>
         <li>To foster a collaborative team culture</li>
         <li>To uncover risks and roadblocks early so that solutions can be sought rapidly and collaboratively</li>
 	</ul>
-        <h4 class="DS-Who" id="DS-Who">
+        <h4 class="Who" id="Who">
             Who Is Doing It
         </h4>
         <ul>
@@ -76,36 +71,35 @@ permalink: /daily-standup/
                     <li>Product Manager</li>
                 </ul>
             </li>
-            <li>Required Participants
+            <li>Participants:
                 <ul>
-                    <li>Core Product Team </li>
+                    <li>Product Team </li>
                 </ul>
             </li>
-            <li>Optional Observers
+            <li>Audience:
                 <ul>
-                    <li>Product Owner</li>
-                    <li>Subject Matter Experts</li>
-                    <li>Executive Sponsorsr</li>
+                    <li>Product Owner Team</li>
+                    <li>OIT Stakeholders</li>
                 </ul>
             </li>
         </ul>
-<h4 class="DS-How" id="DS-How">
+<h4 class="How" id="How">
     How We Do It
 </h4>
 <ul>
-    <li class="DS-Minute" id="DS-Minute">15 minute daily standup
+    <li>15 minute daily standup
         <ul>
-            <li class="DS-Each" id="DS-Each">Each Core Product Team member covers the following  information:
+            <li>Each Product Team member covers the following  information:
                 <ul>
-                    <li>What they completed since the last standup</li>
-                    <li>What they are committing to complete between now and the next standup</li>
-                    <li>Any impediments that they have which may hinder their ability to honor their commitment to the team</li>
+                    <li>What they <b>completed</b> since the last standup</li>
+                    <li>What they are <b>committing to complete</b> between now and the next standup</li>
+                    <li>Any impediments that they have which may hinder their ability to <b>honor their commitment</b> to the team</li>
                 </ul>
             </li>
-            <li class="DS-Commitment" id="DS-Commitment">Commitment should be tracked against the  Kanban board</li>
-            <li class="DS-Teammates" id="DS-Teammates">Teammates should stand up to keep the meeting short and interactive</li>
-            <li class="DS-Video" id="DS-Video">Video camera should be utilized when teams are distributed to enhance team collaborative culture</li>
-            <li class="DS-Detailed" id="DS-Detailed">Detailed discussions should be held for after the standup is completed, and only those participants absolutely necessary in the discussion should be involved.</li>
+            <li>Commitment should be tracked against the Kanban board</li>
+            <li>Teammates should stand up to keep the meeting short and interactive</li>
+            <li>Video camera should be utilized when teams are distributed to enhance team collaborative culture</li>
+            <li>Detailed discussions should be held for after the standup is completed, and only those participants absolutely necessary in the discussion should be involved</li>
         </ul>
     </li>
 </ul>
