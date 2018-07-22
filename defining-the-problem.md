@@ -96,6 +96,22 @@ permalink: /defining-the-problem/
                   </ul>
                 </li>
            </ul>
+	   <h4 class="Example" id="Example">
+            Example - 5 Whys
+        </h4>
+            <ul>
+                <li>An iterative interrogative technique used to explore the cause-and-effect relationships underlying a particular problem</li>
+		<li>Example:</li>
+                  <ul>
+                    <li>The vehicle will not start.  (The Problem)</li>
+                    <li>Why? - The battery is dead. (First Why)</li>
+		    <li>Why? - The alternator is not functioning. (Second Why)</li>
+		    <li>Why? - The alternator belt has broken. (Third Why)</li>
+		    <li>Why? - The alternator belt was well beyond its useful service life and not replaced. (Fourth Why)</li>
+		    <li>Why? - The vehicle was not maintained according to the recommended service schedule.  (Fifth Why - Root cause identified)</li>
+		  </ul>
+		  <li>By following this method we would replace the alternator belt to get the car running again, and focus the Product Team on solving the underlying problem of getting the car maintained under the recommended service schedule instead of replacing the battery, the alternator, the belt, and perhaps just taking the car to a mechanic or selling it!</li>
+	    </ul>
     </div>
     <div class="col-md-3">
         {% include product-plays.html %}
