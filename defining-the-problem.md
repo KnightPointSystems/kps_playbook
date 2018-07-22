@@ -92,7 +92,7 @@ permalink: /defining-the-problem/
                     <li>Focus on the insights you gained in discovery, not guesses</li>
                     <li>Continue to ask why until the responses are no longer useful</li>
                     <li>Build product team consensus around the root cause</li>
-                    <li>Align <a href="{{ site.baseurl }}/solutioning-sketching">Solutioning - Brainstorming &amp; Sketching</a> to the identified root cause</li>
+                    <li>Align <a href="{{ site.baseurl }}/solutioning-sketching">Brainstorming &amp; Sketching</a> to the identified root cause</li>
                   </ul>
                 </li>
            </ul>
