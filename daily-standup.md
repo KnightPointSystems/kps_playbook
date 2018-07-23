@@ -50,7 +50,7 @@ permalink: /daily-standup/
             What Are We Doing
         </h4>
 	<ul>
-        <li>Providing an efficient, collaborative, and transparent environment for the Product Team to communicate thei progress on their <b>commitments</b> to the team.</li>
+        <li>Providing an efficient, collaborative, and transparent environment for the Product Team to communicate their progress on their <b>commitments</b> to the team.</li>
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
