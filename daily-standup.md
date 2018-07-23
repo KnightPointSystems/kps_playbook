@@ -96,6 +96,7 @@ permalink: /daily-standup/
                     <li>Any impediments that they have which may hinder their ability to <b>honor their commitment</b> to the team</li>
                 </ul>
             </li>
+	    <li>Participants should refer to stories using short descriptive titles or business functions and not numbers whenever possible</li>
             <li>Commitment should be tracked against the Kanban board</li>
             <li>Teammates should stand up to keep the meeting short and interactive</li>
             <li>Video camera should be utilized when teams are distributed to enhance team collaborative culture</li>
