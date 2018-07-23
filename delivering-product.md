@@ -8,7 +8,7 @@ permalink: /delivering-product/
     <div class="col-md-3">
         <div class="toc">
             <h3>Table of Contents</h3>
-                <ul>
+                <ul> 
                     <li>
                         <a href="#Definition">
                             Definition
