@@ -85,7 +85,6 @@ permalink: /defining-the-problem/
                     <li>Rephrase the problems from the Problem Workshop as "How Might We" statements</li>
                     <li>Check to make sure that the statement is broad enough to allow for multiple solutions, but not too broad to lose focus</li>
                   </ul>
-                </li>
                 <li>Activity: 5 Whys</li>
                   <ul>
                     <li>Start with a problem and ask "Why"</li>
@@ -94,7 +93,6 @@ permalink: /defining-the-problem/
                     <li>Build product team consensus around the root cause</li>
                     <li>Align <a href="{{ site.baseurl }}/solutioning-sketching">Brainstorming &amp; Sketching</a> to the identified root cause</li>
                   </ul>
-                </li>
            </ul>
 	   <h4 class="Example" id="Example">
             Example - 5 Whys
