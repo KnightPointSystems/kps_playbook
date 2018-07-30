@@ -10,16 +10,16 @@ permalink: /definitions/
             <h3>Table of Contents</h3>
                 <ul>
                     <li>
-                        <a href="#Actors">
-                            Actors
+                        <a href="#Players">
+                            Players
                         </a>
                     </li>
                 </ul>
         </div>
     </div>
     <div class="col-md-6">
-       <h4 class="Actors" id="Actors">
-            Actors
+       <h4 class="Players" id="Players">
+            Players
        </h4>
        <ul>
             <li>
