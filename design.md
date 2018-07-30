@@ -6,28 +6,7 @@ permalink: /design/
 ---
 <div class="row">
 <div class="col-md-3">
-<div class="toc">
-    <h3>Table of Contents</h3>
-    <ul>
-    <li><a href="#roledescription">Role Description</a></li>
-    <li><a href="#practices">Practices</a></li>
-    <li><a href="#how">How</a></li>
-        <ul>
-        <li><a href="#discovery">Discovery</a></li>
-        <li><a href="#problemstatement">Problem Statement Workshop</a></li>
-        <li><a href="#framing">Framing</a></li>
-        <li><a href="#inception">Inception</a></li>
-        <li><a href="#research">Research and Investigate</a></li>
-        </ul>
-    <li><a href="#buildmeasurelearn">Build, Measure, Learn</a></li>
-        <ul>
-        <li><a href="#interviews">Interviews</a></li>
-        <li><a href="#userstory">User Story Review / Grooming</a></li>
-        <li><a href="#prototype">Prototype</a></li>
-        <li><a href="#usertesting">User Testing</a></li>
-        </ul>
-    </ul>
-</div>
+        {% include product-plays.html %}
 </div>
 
 <div class="col-md-6">
