@@ -7,18 +7,10 @@ permalink: /engineering
 
 <div class="row">
 <div class="col-md-3">
-<div class="toc">
-    <h3>Table of Contents</h3>
-    <ul>
-    <li><a href="#practices">Practices</a></li>
-    <li><a href="#tools">Some of the Tools We Use</a></li>
-    <li><a href="#submissions">Doc Submissions</a></li>
-    <li><a href="#welcome">Welcome</a></li>
-    </ul>
-</div>
+        {% include product-plays.html %}
 </div>
 
-<div class="col-md-9">
+<div class="col-md-6">
 
 The engineers at DID(it) are a creative group that finds ways to develop solutions
 using modern development technologies. This group involves everything from junior
@@ -67,5 +59,8 @@ be found <a href="{{ site.baseurl }}/submissions/">here</a>.
 
 Greeting<span class="hljs-grey">.</span><span class="hljs-title">hello</span><span class="hljs-grey">()</span> <span class="hljs-comment"># =&gt; 'Hello Everyone!'</span>
 </code></pre>
-
+</div>
+<div class="col-md-3">
+        {% include design-plays.html %}
+</div>
 </div>

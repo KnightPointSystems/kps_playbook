@@ -7,14 +7,8 @@ permalink: /product-management/
 
 <div class="row">
 <div class="col-md-3">
-<div class="toc">
-    <h3>Table of Contents</h3>
-    <ul>
-    <li><a href="#roledescription">Role Description</a></li>
-    <li><a href="#practices">Practices</a></li>
-    <li><a href="#how">How</a></li>
-    </ul>
-</div>
+        {% include product-plays.html %}
+
 </div>
 
 <div class="col-md-6">
@@ -55,6 +49,6 @@ permalink: /product-management/
 </ul>
 </div>
     <div class="col-md-3">
-        {% include product-plays.html %}
+        {% include design-plays.html %}
 </div>
  </div>
