@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Design
-header: Design
+title: Product Design
+header: Product Design
 permalink: /design/
 ---
 <div class="row">
