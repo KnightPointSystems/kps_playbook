@@ -2,7 +2,7 @@
 layout: page
 title: Our Playlist
 header: Our Playlist
-permalink: /playbook
+permalink: /playbook/
 ---
 
 <!--<h1>Purpose</h1>
