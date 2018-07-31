@@ -1,6 +1,6 @@
 ---
 layout: page
-header: Build | Measure | Learn
+header: Our Playlist
 ---
 
 <!--<h1>Purpose</h1>
@@ -108,17 +108,27 @@ header: Build | Measure | Learn
 <div class="dropdown-divider"></div>
 
 <h3 class="framing" id="framing">Framing</h3>
+<h4 class="framinggoal" id="framinggoal">Conceiving and testing solutions that solve problems</h3>
+<ul>
+<li>Deepening our understanding of the cause of the problems identified in Discovery</li>
+<li>Proposing solutions that provide value to users</li>
+<li>Validating our proposed solutions</li>
+<li>Defining success for our solutions</li>
+</ul>
+
 <div class="row">
 <div class="col-md-4">
-<h4>Goal: </h4>
-<p>Drive out possible solutions to the highest value problems</p>
+<h4>Why: </h4>
+<p>Test our assumptions</p>
+<p>Derisk our solutions early an often</p>
+<p>Narrow the field of possible solutions to the highest value solutions</p>
+<p>Determine a clear product direction</p>
 </div>
 <div class="col-md-4">
 <h4>Players: </h4>
-<p>Development Team:</p> 
-<p>Product Managers</p>
-<p>Product Designers</p>
-<p>Engineers</p>
+<p>Product Team</p> 
+<p>Product Users</p>
+<p>Product Owner Team</p>
 </div>
 <div class="col-md-4">
 <h4>Practices: </h4>
@@ -133,15 +143,27 @@ header: Build | Measure | Learn
 <div class="dropdown-divider"></div>
 
 <h3 class="inception" id="inception">Inception</h3>
+<h4 class="inceptiongoal" id="inceptiongoal">Agreeing on a solution</h3>
+<ul>
+<li>Sharing lessons learned during Framing</li>
+<li>Reiterating Goals and Anti-Goals</li>
+<li>Revisiting Risks and Mitigations</li>
+<li>Aligning Product Team and Product Owner Team on what to build and where to start</li>
+<li>Developing an estimated, prioritized feature backlog</li>
+</ul>
 <div class="row">
 <div class="col-md-4">
-<h4>Goal:</h4> 
-<p>Bring stakeholders and the team together to view possible solutions, then decide where to start. First story of the project is created.</p>
+<h4>Why:</h4> 
+<p>Building consensus and buy-in on the path forward</p>
+<p>Identifying and de-risking potential roadblocks</p>
+<p>Determining where to start technical development</p>
+<p>Agreeing upon measures of success</p>
 </div>
 <div class="col-md-4">
 <h4>Players: </h4>
-<p>Entire Team</p>
-<p>All Stakeholders</p>
+<p>Product Team</p>
+<p>Product Owner Team</p>
+<p>Product Stakeholders</p>
 </div>
 <div class="col-md-4">
 <h4>Practices:</h4> 
