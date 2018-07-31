@@ -1,6 +1,8 @@
 ---
 layout: page
+title: Our Playlist
 header: Our Playlist
+permalink: /playbook
 ---
 
 <!--<h1>Purpose</h1>
@@ -14,7 +16,7 @@ header: Our Playlist
 <div class="dropdown-divider"></div>
 
 <h3 class="projectkickoff" id="projectkickoff">Project Kickoff</h3>
-<h4 class="kickoffgoal" id="kickoffgoal">Get the project started and align the team towards a common direction</h3>
+<h4 class="kickoffgoal" id="kickoffgoal">Get the project started and align the team towards a common direction</h4>
 <ul>
 <li>Understanding the different organizations, people, roles involved in the project</li>
 <li>Determining high level information in order to get the project moving forward</li>
@@ -46,7 +48,7 @@ header: Our Playlist
 <div class="dropdown-divider"></div>
 
 <h3 class="discovery" id="discovery">Discovery</h3>
-<h4 class="discoverygoal" id="discoverygoal">Understand the universe of problems and prioritize them to narrow the team's focus</h3>
+<h4 class="discoverygoal" id="discoverygoal">Understand the universe of problems and prioritize them to narrow the team's focus</h4>
 <ul>
 <li>Understand the problems that the product users are experiencing</li>
 <li>Prioritize the problems in order to narrow the product team's focus on only the high priority items</li>
@@ -73,7 +75,7 @@ header: Our Playlist
 <div class="dropdown-divider"></div>
 
 <h3 class="problemworkshop" id="problemworkshop">Problem Workshop</h3>
-<h4 class="problemworkshopgoal" id="problemworkshopgoal">Defining a valuable technical complex problem to solve</h3>
+<h4 class="problemworkshopgoal" id="problemworkshopgoal">Defining a valuable technical complex problem to solve</h4>
 <ul>
 <li>Presenting the findings of our Discovery to the Business</li>
 <li>Narrowing the universe of problems to a prioritized list</li>
@@ -108,7 +110,7 @@ header: Our Playlist
 <div class="dropdown-divider"></div>
 
 <h3 class="framing" id="framing">Framing</h3>
-<h4 class="framinggoal" id="framinggoal">Conceiving and testing solutions that solve problems</h3>
+<h4 class="framinggoal" id="framinggoal">Conceiving and testing solutions that solve problems</h4>
 <ul>
 <li>Deepening our understanding of the cause of the problems identified in Discovery</li>
 <li>Proposing solutions that provide value to users</li>
@@ -143,7 +145,7 @@ header: Our Playlist
 <div class="dropdown-divider"></div>
 
 <h3 class="inception" id="inception">Inception</h3>
-<h4 class="inceptiongoal" id="inceptiongoal">Agreeing on a solution</h3>
+<h4 class="inceptiongoal" id="inceptiongoal">Agreeing on a solution</h4>
 <ul>
 <li>Sharing lessons learned during Framing</li>
 <li>Reiterating Goals and Anti-Goals</li>
@@ -220,23 +222,3 @@ header: Our Playlist
 <li>Retro- how to make it even better next time</li>
 </ul>
 
-<!--
-### Approach
-  
-Each section within this project (see above for sections), includes their own page for members of those teams
-to freely express their ideals and practices. All work should be done via GithHub Pull Requests, with a reviewer
-(or pair) on each to make sure the content being published is both technically and gramatically accurate.
-
-One should not feel pressure to contribute, but it would be awesome if you decide. It does not matter how
-experienced, technical, or creative you are. Good ideas can come from anywhere, and what better way to collect
-and share these than a forum like this.
-
-### Questions
-
-If you have any questions about the specifics of this project, feel free to contact any of the following:
-
-- Thomas Baird (Slack: **@tmobaird**, Email: **thomas.m.baird@uscis.dhs.gov**)
-- Knute Bidne (Slack: **@kgbidne**, Email: **knute.g.bidne@uscis.dhs.gov**)
-- Nathan Wick (Slack: **@natewick**, Email: **nathan.l.wick@uscis.dhs.gov**)
-- Bill Garr (Slack: **@billgarr**, Email: **william.j.garr@uscis.dhs.gov**) 
--->
