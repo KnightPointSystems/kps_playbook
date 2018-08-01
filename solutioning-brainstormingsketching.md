@@ -6,44 +6,7 @@ permalink: /solutioning-sketching/
 ---
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#SBK-Definition">
-                            Definition of Solutioning – Brainstorming and Sketching
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SBK-What">
-                            What are we doing
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SBK-Why">
-                            Why we do it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SBK-Who">
-                            Who is doing it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SBK-How">
-                            How we do it
-                        </a>
-                            <ul>
-                                <li>
-                                    <a href="#SBK-Brainstorm">Activity: Brainstorm</a>
-                                </li>
-                                <li>
-                                    <a href="#SBK-Sketching">Activity: Sketching</a>
-                                </li>
-                            </ul>
-                        </li>
-                   </ul>
-        </div>
+        {% include product-plays.html %}
     </div>
     <div class="col-md-6">
     <h4 class="SBK-What" id="SBK-What">
@@ -110,6 +73,6 @@ permalink: /solutioning-sketching/
 </ul>
     </div>
     <div class="col-md-3">
-        {% include product-plays.html %}
+        {% include design-plays.html %}
     </div>
 </div>
