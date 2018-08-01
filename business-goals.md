@@ -7,58 +7,7 @@ permalink: /business-goals/
 
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#DBG-Definition">
-                            Definition of Defining Business Goals
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#DBG-What">
-                            What Are We Doing
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#DBG-Why">
-                            Why We Do It
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#DBG-Who">
-                            Who is Doing It
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#DBG-How">
-                            How We Do It
-                        </a>
-                        <ul>
-                            <li>
-                                <a href="#DBG-DumpSort">
-                                    Activity: Dump and Sort – 2-5 min per Dump + 10 min Sort
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DBG-Clusters">
-                                    Activity: Define Clusters
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DBG-2X2">
-                                    Activity: 2x2
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#DBG-Stack">
-                                    Alternate Activity: Stack Rank
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                   </ul>
-        </div>
+                {% include product-plays.html %}
     </div>
     <div class="col-md-6">
         <h4 class="DBG-Definition" id="DBG-Definition">
@@ -137,6 +86,6 @@ permalink: /business-goals/
             </ul>
     </div>
     <div class="col-md-3">
-                {% include product-plays.html %}
+                {% include design-plays.html %}
     </div>
 </div>

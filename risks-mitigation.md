@@ -6,36 +6,7 @@ permalink: /risks-mitigation/
 ---
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#">
-                            Definition of Risks and Mitigation
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            What are we doing
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            Why we do it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            Who is doing it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            How we do it
-                        </a>
-                    </li>
-                   </ul>
-        </div>
+        {% include product-plays.html %}
     </div>
     <div class="col-md-6">
         <h4>
@@ -55,6 +26,6 @@ permalink: /risks-mitigation/
         </h4>
     </div>
     <div class="col-md-3">
-                {% include product-plays.html %}
+                {% include design-plays.html %}
     </div>
 </div>

@@ -6,16 +6,7 @@ permalink: /definitions/
 ---
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#Players">
-                            Players
-                        </a>
-                    </li>
-                </ul>
-        </div>
+                {% include product-plays.html %}
     </div>
     <div class="col-md-6">
        <h4 class="Players" id="Players">
@@ -46,6 +37,6 @@ permalink: /definitions/
         </ul> 
     </div>
     <div class="col-md-3">
-        {% include product-plays.html %}
+        {% include design-plays.html %}
     </div>
 </div>
