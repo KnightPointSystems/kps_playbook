@@ -6,38 +6,7 @@ permalink: /inception/
 ---
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#Definition">
-                            Definition of Inception
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#What">
-                            What Are We Doing
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#Why">
-                            Why We Do It
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#Who">
-                            Who is Doing It
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#How">
-                            How We Do It
-                        </a>
-                            <ul>
-                            </ul>
-                        </li>
-                   </ul>
-        </div>
+   {% include product-plays.html %}
     </div>
     <div class="col-md-6">
     <h4 class="Definition" id="Definition">
@@ -105,6 +74,6 @@ permalink: /inception/
 </ul>
     </div>
     <div class="col-md-3">
-                {% include product-plays.html %}
+                {% include design-plays.html %}
     </div>
 </div>
