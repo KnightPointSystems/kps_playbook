@@ -6,53 +6,7 @@ permalink: /popcorn-scripting/
 ---
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#PS-Definition">
-                            Definition of Popcorn Scripting
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#PS-What">
-                            What are we doing
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#PS-Why">
-                            Why we do it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#PS-Who">
-                            Who is doing it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#PS-How">
-                            How we do it
-                        </a>
-                        <ul>
-                            <li>
-                                <a href="#PS-DumpSort">
-                                    Do a dump and sort of the areas you would like to learn about
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#PS-Theme">
-                                    Label each cluster with a theme
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#PS-Cluster">
-                                    Write questions that relate to each cluster
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                   </ul>
-        </div>
+        {% include product-plays.html %}
     </div>
     <div class="col-md-6">
         <h4 class="PS-Definition" id="PS-Definition">
@@ -116,6 +70,6 @@ permalink: /popcorn-scripting/
 </ul>
     </div>
     <div class="col-md-3">
-        {% include product-plays.html %}
+        {% include design-plays.html %}
     </div>
 </div>
