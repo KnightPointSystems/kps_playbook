@@ -6,36 +6,7 @@ permalink: /science-fair/
 ---
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#SF-Definition">
-                            Definition of Science Fair
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SF-What">
-                            What are we doing
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SF-Why">
-                            Why we do it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SF-Who">
-                            Who is doing it
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#SF-How">
-                            How we do it
-                        </a>
-                    </li>
-                   </ul>
-        </div>
+        {% include product-plays.html %}
     </div>
     <div class="col-md-6">
         <h4 class="R-Definition" id="R-Definition">
@@ -55,6 +26,6 @@ permalink: /science-fair/
         </h4>
     </div>
     <div class="col-md-3">
-        {% include product-plays.html %}
+        {% include design-plays.html %}
     </div>
 </div>
