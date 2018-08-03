@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Role of the Product Manager
-header: Role of the Product Manager
+title: Play - Role of the Product Manager
+header: Play - Role of the Product Manager
 permalink: /product-manager-role/
 ---
 <div class="row">
