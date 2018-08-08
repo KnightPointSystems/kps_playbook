@@ -4,7 +4,7 @@ title: Welcome to the DID(it) Playbook
 ---
 <div class="Body-Container">
 <div class="hero-image">
-<img src="images/hero3x.png" class="img-fluid" alt="Responsive image">
+<img src="images/playbook-hero.png" class="img-fluid" alt="Responsive image">
 <!-- <div class="splash-caret bounce">
   <a class="maincontent-anchor" id="top" href="#MainContent"><i class="fas fa-caret-down"></i></a>
   </div> -->
