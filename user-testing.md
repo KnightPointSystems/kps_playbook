@@ -6,26 +6,7 @@ permalink: /user-testing/
 ---
 <div class="row">
     <div class="col-md-3">
-        <div class="toc">
-            <h3>Table of Contents</h3>
-                <ul>
-                    <li>
-                        <a href="#What">
-                            What Are We Doing
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#Why">
-                            Why We Do It
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#How">
-                            How We Do It
-                        </a>
-                     </li>
-                   </ul>
-        </div>
+                {% include product-plays.html %}
     </div>
     <div class="col-md-6">
         <h4 class="What" id="What">
