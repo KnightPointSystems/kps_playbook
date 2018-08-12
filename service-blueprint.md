@@ -57,9 +57,7 @@ permalink: /service-blueprint/
 <ul>
     <li>This can be done electronically in a program like Excel, or mechanically using foam board, painters tape, and stickies</li>
 </ul>
-
 <img src="../images/serviceblueprint.png"/>
-
     </div>
     <div class="col-md-3">
         {% include design-plays.html %}
