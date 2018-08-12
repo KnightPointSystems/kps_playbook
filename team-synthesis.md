@@ -57,7 +57,7 @@ permalink: /team-synthesis/
     <li>Team members who were part of the User Interview session gather together</li>
     <li>For Contextual Inquiries, team members take turns reading notes on the stickies of what they heard</li>
     <li>The relevant stickies are grouped and labeled on a white board</li>
-    <li>Insights are gathered from the grouped information<li>
+    <li>Insights are gathered from the grouped information</li>
     <li>Actions are created based on the Insights</li>
 </ul>
     </div>
