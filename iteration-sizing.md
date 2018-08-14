@@ -13,7 +13,7 @@ permalink: /story-sizing/
             Definition of Story Sizing
         </h4>
         <ul>
-            <li>A shared scoping and understanding meeting for the Product Team</li>
+            <li>Providing an estimate of complexity for a user story</li>
         </ul>
         <h4 class="What" id="What">
             What Are We Doing
@@ -35,7 +35,8 @@ permalink: /story-sizing/
            <li>To establish a shared agreement of what a successful implementation of a story is</li>
            <li>To establish a shared agreement of the relative amount of work required to successfully implement a given story</li>
            <li>To identify stories that are not defined well enough to be worked, and need further clarification</li>
-           <li>Prime the team for upcoming work and maintain a consistent velocity</li>
+           <li>Prime the team for upcoming work</li>
+ 	   <li>To enable the tracking of team velocity</li>
 	</ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -50,11 +51,6 @@ permalink: /story-sizing/
     	      <ul>
         	<li>Product Team </li>
     	      </ul>
-           </li>
-           <li>Audience:
-    	      <ul>
-                 <li>Product Owner Team</li>
-              </ul>    
            </li>
        </ul>
 <h4 class="How" id="How">
@@ -75,7 +71,7 @@ permalink: /story-sizing/
         </ul>
     </li>
     <li>Each larger “size” is roughly 2x the effort of the previous</li>
-    <li>Sizing is NOT equal to time.  It is a relative measure of effort.</li>
+    <li>Sizing is NOT equal to time.  It is a relative measure of complexity and risk</li>
     <li>The team takes a few minutes to discuss each user story in order of priority from the Kanban board</li>
     <li>The team votes on the relative size of the story</li>
     <li>Differences in sizing are discussed, and re-votes occur until the team agrees on a size</li>
