@@ -2,7 +2,7 @@
 layout: page
 title: Client Management (Coming Soon)
 header: Client Management (Coming Soon)
-permalink: /accessibility-considerations/
+permalink: /client-management/
 ---
 <div class="row">
     <div class="col-md-3">
