@@ -13,7 +13,7 @@ permalink: /feature-sizing/
             Definition
         </h4>
 		<ul>
-		<li>Definition Coming Sooon</li>
+		<li>Definition Coming Soon</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
