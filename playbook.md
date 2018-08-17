@@ -12,7 +12,14 @@ permalink: /playbook/
 <div class="dropdown-divider"></div>
 -->
 
-<img src="../images/pivotal.png"/>
+<div class="row">
+ <div class="col-md-2">
+ </div>
+  <div class="col-md-8"><img src="../images/pivotal.png"/>
+  </div>
+ <div class="col-md-2">
+ </div>
+</div>
 <div class="dropdown-divider"></div>
 
 <h3 class="projectkickoff" id="projectkickoff">Project Kickoff</h3>
