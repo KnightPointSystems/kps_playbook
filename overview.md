@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overview
-header: Overview
+title: Overview (Coming Soon)
+header: Overview (Coming Soon)
 permalink: /overview/
 ---
 <div class="row">
@@ -13,26 +13,21 @@ permalink: /overview/
             Definition
         </h4>
 		<ul>
-		<li>Defines the desired business outcomes for the product</li>
+		<li>Definition Coming Sooon</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
         <li>Coming Soon</li>
-        <li>Coming Soon</li>
-        <li>Coming Soon</li>
-        <li>Coming Soon</li>
-        <li>Coming Soon</li>
+
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
                 <li>Coming Soon</li>
-                <li>Coming Soon</li>
-                <li>Coming Soon</li>
-	        </ul>
+	    </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
         </h4>
@@ -50,8 +45,6 @@ permalink: /overview/
                 <li>Audience:
     	            <ul>
                       <li>Coming Soon</li>
-                      <li>Coming Soon</li>
-                      <li>Coming Soon</li>
                   </ul>    
                 </li>
             </ul>
@@ -59,12 +52,7 @@ permalink: /overview/
             How We Do It
         </h4>
             <ul>
-               <li>Activity: <a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a></li>
-               <li>Activity: <a href="{{ site.baseurl }}/business-goals">Defining Business Goals</a></li>
-               <li>Activity: <a href="{{ site.baseurl }}/risks-mitigation">Risks &amp; Mitigation</a></li>
-               <li>Activity: <a href="{{ site.baseurl }}/problem-workshop">Problem Workshop</a></li>
-               <li>Activity: <a href="{{ site.baseurl }}/inception">Inception</a></li>
-               <li>Activity: <a href="{{ site.baseurl }}/check-in">Client Check In</a></li>
+               <li>Activity: Coming Soon</a></li>
             </ul>
     </div>
     <div class="col-md-3">
