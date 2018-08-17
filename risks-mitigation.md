@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Risks and Mitigations
-header: Risks and Mitigations
+title: Risks and Mitigations (Coming Soon)
+header: Risks and Mitigations (Coming Soon)
 permalink: /risks-mitigation/
 ---
 <div class="row">
