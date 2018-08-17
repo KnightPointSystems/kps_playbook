@@ -20,7 +20,6 @@ permalink: /overview/
         </h4>
 	<ul>
         <li>Coming Soon</li>
-
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
