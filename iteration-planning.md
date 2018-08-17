@@ -1,74 +1,60 @@
 ---
 layout: page
-title: Iteration Planning
-header: Iteration Planning
+title: Iteration Planning (Coming Soon)
+header: Iteration Planning (Coming Soon)
 permalink: /iteration-planning/
 ---
 <div class="row">
- <div class="col-md-3">
-    <div class="toc">
-    <h3>Table of Contents</h3>
-    <ul>
-    <li><a href=“#iterationplanning”>Iteration Planning</a></li>
-    </ul>
-    </div> 
-  </div>
-  
-<div class="col-md-6">
-<h2 class=“iterationplanning” id="iterationplanning">Iteration Planning</h2>
-<ul>
-    <li>Examples</li>
-    <ul>
-    <li></li>
-      <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      </ul>
-    </ul>
-</ul>
-      
-  <h2 class="iterationplanning" id="iterationplanning">2x2</h2>
-  <img src="../images/StrategicObjectives2x2.png" alt=“Image” width="500"/>Iteration Planning
-
-</div>
-
-<div class="col-md-3">
-<div class="sideLinks">
-    <h2>Resources/Plays</h2>
-    <ul>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-        <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-      <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-        <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a>
-      <ul>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-      </li>
-      </ul>
-    <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-   <li><a href="{{ site.baseurl }}/iteration-planning">Iteration Planning</a></li>
-    </ul>
+    <div class="col-md-3">
+        {% include product-plays.html %}
     </div>
-</div>
- 
+    <div class="col-md-6">
+        <h4 class="Definition" id="Definition">
+            Definition
+        </h4>
+		<ul>
+		<li>Definition Coming Soon</li>
+		</ul>
+        <h4 class="What" id="What">
+            What Are We Doing
+        </h4>
+	<ul>
+        <li>Coming Soon</li>
+	</ul>
+        <h4 class="Why" id="Why">
+            Why We Do It
+        </h4>
+            <ul>
+                <li>Coming Soon</li>
+	    </ul>
+        <h4 class="Who" id="Who">
+            Who Is Doing It
+        </h4>
+            <ul>
+                <li>Facilitated By:
+    	            <ul>
+        	      <li>Coming Soon</li>
+    	            </ul>
+                 </li>
+                <li>Participants:
+    	            <ul>
+                      <li>Coming Soon</li>
+                    </ul>    
+                </li>
+                <li>Audience:
+    	            <ul>
+                      <li>Coming Soon</li>
+                  </ul>    
+                </li>
+            </ul>
+        <h4 class="How" id="How">
+            How We Do It
+        </h4>
+            <ul>
+               <li>Activity: Coming Soon</li>
+            </ul>
+    </div>
+    <div class="col-md-3">
+        {% include design-plays.html %}
+    </div>
 </div>

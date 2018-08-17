@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Defining and Prioritizing Problems (Coming Soon)
-header: Defining and Prioritizing Problems (Coming Soon)
-permalink: /defining-prioritizing-problems/
+title: UI Component Library Development (Coming Soon)
+header: UI Component Library Development (Coming Soon)
+permalink: /ui-component-library-development/
 ---
 <div class="row">
     <div class="col-md-3">

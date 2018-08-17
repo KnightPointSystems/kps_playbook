@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Defining and Prioritizing Problems (Coming Soon)
-header: Defining and Prioritizing Problems (Coming Soon)
-permalink: /defining-prioritizing-problems/
+title: All the Meetings You Need (Coming Soon)
+header: All the Meetings You Need (Coming Soon)
+permalink: /meetings/
 ---
 <div class="row">
     <div class="col-md-3">

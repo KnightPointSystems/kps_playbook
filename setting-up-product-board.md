@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Defining and Prioritizing Problems (Coming Soon)
-header: Defining and Prioritizing Problems (Coming Soon)
-permalink: /defining-prioritizing-problems/
+title: Setting Up a Product Board (Coming Soon)
+header: Setting Up a Product Board (Coming Soon)
+permalink: /setting-up-product-board/
 ---
 <div class="row">
     <div class="col-md-3">

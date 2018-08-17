@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Defining and Prioritizing Problems (Coming Soon)
-header: Defining and Prioritizing Problems (Coming Soon)
-permalink: /defining-prioritizing-problems/
+title: Feature Sizing (Coming Soon)
+header: Feature Sizing (Coming Soon)
+permalink: /feature-sizing/
 ---
 <div class="row">
     <div class="col-md-3">

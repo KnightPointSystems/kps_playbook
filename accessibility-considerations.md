@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Defining and Prioritizing Problems (Coming Soon)
-header: Defining and Prioritizing Problems (Coming Soon)
-permalink: /defining-prioritizing-problems/
+title: Accessibility Considerations (Coming Soon)
+header: Accessibility Considerations (Coming Soon)
+permalink: /accessibility-considerations/
 ---
 <div class="row">
     <div class="col-md-3">
