@@ -13,25 +13,25 @@ permalink: /overview/
             Definition
         </h4>
 		<ul>
-			<li>Defines the desired business outcomes for the product</li>
+		<li>Defines the desired business outcomes for the product</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>CAPS SUCK</li>
-        <li>STEELERS #1</li>
-        <li>WE ARE PENN STATE!!</li>
-        <li>PENS WILL WIN THE CUP</li>
-        <li>I NEED TO FIND EMOJIS</li>
+        <li>Coming Soon</li>
+        <li>Coming Soon</li>
+        <li>Coming Soon</li>
+        <li>Coming Soon</li>
+        <li>Coming Soon</li>
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>To Harass CAPS FANS</li>
-                <li>WE HAVE THE MOST SUPERBOWLS</li>
-                <li>WE WILL TAKE BACK THE STANELY CUP AFTER THE CAPS GIVE IT BACK FROM A 1 YEAR LEASE</li>
+                <li>Coming Soon</li>
+                <li>Coming Soon</li>
+                <li>Coming Soon</li>
 	        </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -39,19 +39,19 @@ permalink: /overview/
             <ul>
                 <li>Facilitated By:
     	            <ul>
-        	            <li>KOSTA</li>
+        	      <li>Coming Soon</li>
     	            </ul>
                  </li>
                 <li>Participants:
     	            <ul>
-                      <li>KOSTA</li>
-                  </ul>    
+                      <li>Coming Soon</li>
+                    </ul>    
                 </li>
                 <li>Audience:
     	            <ul>
-                      <li>STEELER NATION</li>
-                      <li>PENGUIN NATION</li>
-                      <li>NITTANY NATION</li>
+                      <li>Coming Soon</li>
+                      <li>Coming Soon</li>
+                      <li>Coming Soon</li>
                   </ul>    
                 </li>
             </ul>
