@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Science Fair
-header: Science Fair
+title: Science Fair (Coming Soon)
+header: Science Fair (Coming Soon)
 permalink: /science-fair/
 ---
 <div class="row">
@@ -9,21 +9,50 @@ permalink: /science-fair/
         {% include product-plays.html %}
     </div>
     <div class="col-md-6">
-        <h4 class="R-Definition" id="R-Definition">
-             Definition of Science Fair
+        <h4 class="Definition" id="Definition">
+            Definition
         </h4>
-        <h4 class="SF-What" id="SF-What">
+		<ul>
+		<li>Definition Coming Soon</li>
+		</ul>
+        <h4 class="What" id="What">
             What Are We Doing
         </h4>
-        <h4 class="SF-Why" id="SF-Why">
+	<ul>
+        <li>Coming Soon</li>
+	</ul>
+        <h4 class="Why" id="Why">
             Why We Do It
         </h4>
-        <h4 class="SF-Who" id="SF-Who">
+            <ul>
+                <li>Coming Soon</li>
+	    </ul>
+        <h4 class="Who" id="Who">
             Who Is Doing It
         </h4>
-        <h4 class="SF-How" id="SF-How">
+            <ul>
+                <li>Facilitated By:
+    	            <ul>
+        	      <li>Coming Soon</li>
+    	            </ul>
+                 </li>
+                <li>Participants:
+    	            <ul>
+                      <li>Coming Soon</li>
+                    </ul>    
+                </li>
+                <li>Audience:
+    	            <ul>
+                      <li>Coming Soon</li>
+                  </ul>    
+                </li>
+            </ul>
+        <h4 class="How" id="How">
             How We Do It
         </h4>
+            <ul>
+               <li>Activity: Coming Soon</li>
+            </ul>
     </div>
     <div class="col-md-3">
         {% include design-plays.html %}
