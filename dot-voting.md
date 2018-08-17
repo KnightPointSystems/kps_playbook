@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Science Fair (Coming Soon)
-header: Science Fair (Coming Soon)
-permalink: /science-fair/
+title: Dot Voting (Coming Soon)
+header: Dot Voting (Coming Soon)
+permalink: /dot-voting/
 ---
 <div class="row">
     <div class="col-md-3">

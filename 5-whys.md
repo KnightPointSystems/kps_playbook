@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Science Fair (Coming Soon)
-header: Science Fair (Coming Soon)
-permalink: /science-fair/
+title: 5 Whys (Coming Soon)
+header: 5 Whys (Coming Soon)
+permalink: /5-whys/
 ---
 <div class="row">
     <div class="col-md-3">

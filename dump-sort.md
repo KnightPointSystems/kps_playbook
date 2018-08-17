@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Science Fair (Coming Soon)
-header: Science Fair (Coming Soon)
-permalink: /science-fair/
+title: Dump and Sort (Coming Soon)
+header: Dump and Sort (Coming Soon)
+permalink: /dump-sort/
 ---
 <div class="row">
     <div class="col-md-3">

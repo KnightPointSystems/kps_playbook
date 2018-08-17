@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Science Fair (Coming Soon)
-header: Science Fair (Coming Soon)
-permalink: /science-fair/
+title: Prototype Development (Coming Soon)
+header: Prototype Development (Coming Soon)
+permalink: /prototype-development/
 ---
 <div class="row">
     <div class="col-md-3">
