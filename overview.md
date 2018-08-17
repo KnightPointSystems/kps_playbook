@@ -1,0 +1,73 @@
+---
+layout: page
+title: Overview
+header: Overview
+permalink: /overview/
+---
+<div class="row">
+    <div class="col-md-3">
+        {% include product-plays.html %}
+    </div>
+    <div class="col-md-6">
+        <h4 class="Definition" id="Definition">
+            Definition
+        </h4>
+		<ul>
+			<li>Defines the desired business outcomes for the product</li>
+		</ul>
+        <h4 class="What" id="What">
+            What Are We Doing
+        </h4>
+	<ul>
+        <li>CAPS SUCK</li>
+        <li>STEELERS #1</li>
+        <li>WE ARE PENN STATE!!</li>
+        <li>PENS WILL WIN THE CUP</li>
+        <li>I NEED TO FIND EMOJIS</li>
+	</ul>
+        <h4 class="Why" id="Why">
+            Why We Do It
+        </h4>
+            <ul>
+                <li>To Harass CAPS FANS</li>
+                <li>WE HAVE THE MOST SUPERBOWLS</li>
+                <li>WE WILL TAKE BACK THE STANELY CUP AFTER THE CAPS GIVE IT BACK FROM A 1 YEAR LEASE</li>
+	        </ul>
+        <h4 class="Who" id="Who">
+            Who Is Doing It
+        </h4>
+            <ul>
+                <li>Facilitated By:
+    	            <ul>
+        	            <li>KOSTA</li>
+    	            </ul>
+                 </li>
+                <li>Participants:
+    	            <ul>
+                      <li>KOSTA</li>
+                  </ul>    
+                </li>
+                <li>Audience:
+    	            <ul>
+                      <li>STEELER NATION</li>
+                      <li>PENGUIN NATION</li>
+                      <li>NITTANY NATION</li>
+                  </ul>    
+                </li>
+            </ul>
+        <h4 class="How" id="How">
+            How We Do It
+        </h4>
+            <ul>
+               <li>Activity: <a href="{{ site.baseurl }}/strategic-objectives">Defining Strategic Objectives</a></li>
+               <li>Activity: <a href="{{ site.baseurl }}/business-goals">Defining Business Goals</a></li>
+               <li>Activity: <a href="{{ site.baseurl }}/risks-mitigation">Risks &amp; Mitigation</a></li>
+               <li>Activity: <a href="{{ site.baseurl }}/problem-workshop">Problem Workshop</a></li>
+               <li>Activity: <a href="{{ site.baseurl }}/inception">Inception</a></li>
+               <li>Activity: <a href="{{ site.baseurl }}/check-in">Client Check In</a></li>
+            </ul>
+    </div>
+    <div class="col-md-3">
+        {% include design-plays.html %}
+    </div>
+</div>
