@@ -51,7 +51,7 @@ permalink: /overview/
             How We Do It
         </h4>
             <ul>
-               <li>Activity: Coming Soon</a></li>
+               <li>Activity: Coming Soon</li>
             </ul>
     </div>
     <div class="col-md-3">
