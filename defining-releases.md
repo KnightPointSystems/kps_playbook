@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Defining Releases
-header: Defining Releases
+title: Defining Releases (Coming Soon)
+header: Defining Releases (Coming Soon)
 permalink: /defining-releases/
 ---
 <div class="row">
