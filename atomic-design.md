@@ -45,16 +45,6 @@ permalink: /atomic-design/
                     <li>Product Designer</li>
                 </ul>
             </li>
-            <li>Participants:
-                <ul>
-                    <li>Product Team</li>
-                </ul>
-            </li>
-            <li>Audience:
-                <ul>
-                    <li>Product Owner</li>
-                </ul>
-            </li>
         </ul>
 <h4 class="How" id="How">
     How We Do It
