@@ -13,7 +13,7 @@ permalink: /dot-voting/
             Definition
         </h4>
 		<ul>
-		<li>narrowing the focus with voting</li>
+		<li>Narrowing the focus with voting</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
