@@ -21,13 +21,13 @@ permalink: /team-synthesis/
             What Are We Doing
         </h4>
             <ul>
-                <li>After a User Interview is complete, the team meets to Synthesize the results, reading the notes back or tallying up the tracker results.</li>
+                <li>After a User Interview/Testing session is complete, the team meets to Synthesize the results, reading the notes back or tallying up the tracker results.</li>
             </ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>To create Insights and Actions in order to guide the design and refinement of the solution</li>
+                <li>To create Insights and Actions which helps the team design and refine the solution</li>
             </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
