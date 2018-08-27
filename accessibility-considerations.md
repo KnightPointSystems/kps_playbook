@@ -13,7 +13,7 @@ permalink: /accessibility-considerations/
             Definition
         </h4>
 		<ul>
-		<li>Assuring our solutions meet the needs of all users</li>
+		<li>Ensuring our solutions meet the needs of all users</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
