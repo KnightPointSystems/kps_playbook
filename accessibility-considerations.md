@@ -62,7 +62,7 @@ permalink: /accessibility-considerations/
 	       <li>Put ourselves in the position of all users when evaluating solutions</li>
 	       <li>All deployment candidates should undergo both automated and manual 508 inspection to verify compliance</li>
 	       <li>All accessibility issues shall be logged and corrected prior to solution deployment</li>
-            </ul>
+	   </ul>
     </div>
     <div class="col-md-3">
         {% include design-plays.html %}
