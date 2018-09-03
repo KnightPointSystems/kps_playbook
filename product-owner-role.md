@@ -10,7 +10,7 @@ permalink: /product-owner-role/
     </div>
     <div class="col-md-6">
         <h4 class="Definition" id="Definition">
-            Definition
+            Definition of the Product Owner Team
         </h4>
 		<ul>
 			<li>Defines the desired business outcomes for the product</li>
@@ -39,7 +39,7 @@ permalink: /product-owner-role/
             <ul>
                 <li>Facilitated By:
     	            <ul>
-        	            <li>Product Owner Team</li>
+        	       <li>Product Owner Team</li>
     	            </ul>
                  </li>
                 <li>Participants:
