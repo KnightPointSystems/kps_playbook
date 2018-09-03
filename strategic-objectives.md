@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Defining Strategic Objectives
-header: Defining Strategic Objectives
+title: Strategic Objectives
+header: Strategic Objectives
 permalink: /strategic-objectives/
 ---
 
