@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Testing Software (Coming Soon)
-header: Testing Software (Coming Soon)
+title: Testing Software
+header: Testing Software
 permalink: /testing-software/
 ---
 <div class="row">
@@ -13,19 +13,19 @@ permalink: /testing-software/
             Definition
         </h4>
 		<ul>
-		<li>Definition Coming Soon</li>
+		<li>Validating Product Development</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>Coming Soon</li>
+        <li>Validating the product solves the problem</li>
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>Coming Soon</li>
+                <li>To ensure users are satisfied with the outcomes of a product development</li>
 	    </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -33,17 +33,17 @@ permalink: /testing-software/
             <ul>
                 <li>Facilitated By:
     	            <ul>
-        	      <li>Coming Soon</li>
+        	      <li>Product Manager</li>
     	            </ul>
                  </li>
                 <li>Participants:
     	            <ul>
-                      <li>Coming Soon</li>
+                      <li>Product Team</li>
                     </ul>    
                 </li>
                 <li>Audience:
     	            <ul>
-                      <li>Coming Soon</li>
+                      <li>Product Owner Team</li>
                   </ul>    
                 </li>
             </ul>
@@ -51,7 +51,9 @@ permalink: /testing-software/
             How We Do It
         </h4>
             <ul>
-               <li>Activity: Coming Soon</li>
+               <li>The Product Manager establishes acceptance criteria that will be deployed</li>
+	       <li>The Product Developer provides a high level overview to the Product Manager (optional)</li>
+	       <li>The Product Manager tests new features based on the acceptance criteria to ensure the new features function correctly</li>
             </ul>
     </div>
     <div class="col-md-3">
