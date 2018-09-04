@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Play - Role of the Product Manager
-header: Play - Role of the Product Manager
+title: Role of the Product Manager
+header: Role of the Product Manager
 permalink: /product-manager-role/
 ---
 <div class="row">
@@ -10,10 +10,10 @@ permalink: /product-manager-role/
     </div>
     <div class="col-md-6">
         <h4 class="Definition" id="Definition">
-            Definition
+            Definition of Product Manager
         </h4>
 		<ul>
-			<li>Responsible for the vision and direction of the project</li>
+		<li>Responsible for the vision and direction of the project</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
