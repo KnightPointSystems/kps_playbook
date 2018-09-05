@@ -10,7 +10,7 @@ permalink: /kickoff/
     </div>
     <div class="col-md-6">
         <h4 class="Definition" id="Definition">
-            Definition of Kickoff
+            Definition of Project Kickoff
         </h4>
 		<ul>
 			<li>Get the project started and align the team towards a common direction</li>
