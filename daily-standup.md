@@ -72,6 +72,8 @@ permalink: /daily-standup/
             <li>Teammates should stand up to keep the meeting short and interactive</li>
             <li>Video camera should be utilized when teams are distributed to enhance team collaborative culture</li>
             <li>Detailed discussions should be held for after the standup is completed, and only those participants absolutely necessary in the discussion should be involved</li>
+	    <li>If the regular facilitator cannot attend, the Product Team should still have the DSU and another team member should assume facilitation duties</li>
+	    <li>DSUs should rarely be cancelled, if ever.  They are critical to maintaining our sustainable pace</li>
         </ul>
     </li>
 </ul>
