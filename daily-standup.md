@@ -60,7 +60,7 @@ permalink: /daily-standup/
 <ul>
     <li>15 minute daily standup
         <ul>
-            <li>Each Product Team member covers the following  information:
+            <li>Each Product Team member (Product Manager too!) covers the following  information:
                 <ul>
                     <li>What they <b>completed</b> since the last standup</li>
                     <li>What they are <b>committing to complete</b> between now and the next standup</li>
