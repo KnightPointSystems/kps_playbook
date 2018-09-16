@@ -13,19 +13,22 @@ permalink: /technical-discovery-analysis/
             Definition
         </h4>
 		<ul>
-		<li>Definition Coming Soon</li>
+			<li>Analyzing the complexity of a problem</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>Coming Soon</li>
+        	<li>Assessing the technical complexity of the problems identified during the problem workshop</li>
+		<li>Forming an understanding of the technical challenges and solutions that may be available for a problem</li>
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>Coming Soon</li>
+                <li>To generate an early assessment of technical complexity</li>
+		<li>To provide inside into technical challenges for the Product Owner Team and Product Stakeholders</li>
+		<li>To enable prioritization based on the principle of tackling the most technical difficult highest value problem first</li>
 	    </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -33,17 +36,19 @@ permalink: /technical-discovery-analysis/
             <ul>
                 <li>Facilitated By:
     	            <ul>
-        	      <li>Coming Soon</li>
+        	      <li>Product Engineers</li>
     	            </ul>
                  </li>
                 <li>Participants:
     	            <ul>
-                      <li>Coming Soon</li>
+                      <li>Product Team</li>
                     </ul>    
                 </li>
                 <li>Audience:
-    	            <ul>
-                      <li>Coming Soon</li>
+    	          <ul>
+                      	<li>Product Owner Team</li>
+			<li>Product Stakeholders</li>
+			<li>OIT Stakeholders</li>
                   </ul>    
                 </li>
             </ul>
@@ -51,7 +56,14 @@ permalink: /technical-discovery-analysis/
             How We Do It
         </h4>
             <ul>
-               <li>Activity: Coming Soon</li>
+               	<li>Start with a group of synthesized problems</li>
+			<ul>
+				<li>Perform a 2x2 and then take all of the items from the upper right (most important) quadrant</li>
+			</ul>
+		<li>The Product Engineers should take a short time (5-10 minutes) to discuss the problem set</li>
+		<li>The Product Engineers then present each problem to the Audience with a short explanation of their understanding and analysis of the problem</li>
+		<li>The Product Engineers should assign a size to the problem (S-M-L-XL or 1-2-3-5-8). This reinforces the sizing that will be done in the future</li>
+		<li>Once the sizing is complete, the Product Manager and Product Owner Team should incorporate the sizing and assessment into a final prioritization exercise to determine the problems to be solved</li>
             </ul>
     </div>
     <div class="col-md-3">
