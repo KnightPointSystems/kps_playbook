@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dump and Sort (Coming Soon)
-header: Dump and Sort (Coming Soon)
+title: Dump and Sort
+header: Dump and Sort
 permalink: /dump-sort/
 ---
 <div class="row">
@@ -13,19 +13,19 @@ permalink: /dump-sort/
             Definition
         </h4>
 		<ul>
-		<li>Definition Coming Soon</li>
+		<li>Sorting and categorizing notes from interviews</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>Coming Soon</li>
+        	<li>Gathering and organizing notes from the team after Contextual Inquiry sessions</li>
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>Coming Soon</li>
+                <li>To increase team knowledge and understanding through the synthesis of the findings of a Contextual Inquiry session</li>
 	    </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -33,17 +33,18 @@ permalink: /dump-sort/
             <ul>
                 <li>Facilitated By:
     	            <ul>
-        	      <li>Coming Soon</li>
+        	      <li>Product Managers</li>
+		      <li>Product Designers</li>
     	            </ul>
                  </li>
                 <li>Participants:
     	            <ul>
-                      <li>Coming Soon</li>
+                      <li>Anyone else who participated in the Contextual Inquiry</li>
                     </ul>    
                 </li>
                 <li>Audience:
     	            <ul>
-                      <li>Coming Soon</li>
+                      <li>N/A</li>
                   </ul>    
                 </li>
             </ul>
@@ -51,7 +52,12 @@ permalink: /dump-sort/
             How We Do It
         </h4>
             <ul>
-               <li>Activity: Coming Soon</li>
+               <li>Gather the quotes (post it notes) from the Contextual Inquiry</li> 
+	       <li>Assemble the team and go through the notes for each user</li>
+	       <li>The facilitator will start groupin ghte notes on a whiteboard</li>
+	       	<ul><li>For distributed teams, tools such as Trello, Mural.ly, and LeanKit can be considered</li></ul>
+	       <li>After all the notes are grouped, each group is categorized</li>
+	       <li>Insights and actions are agreed to by the team based on the findings</li>
             </ul>
     </div>
     <div class="col-md-3">
