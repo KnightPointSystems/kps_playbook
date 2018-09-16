@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Integrating with Systems and Services (Coming Soon)
-header: Integrating with Systems and Services (Coming Soon)
+title: Integrating with Systems and Services
+header: Integrating with Systems and Services
 permalink: /integrating-systems-services/
 ---
 <div class="row">
@@ -13,19 +13,22 @@ permalink: /integrating-systems-services/
             Definition
         </h4>
 		<ul>
-		<li>Definition Coming Soon</li>
+		<li>Use specialized services to enhance product value</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
         </h4>
-	<ul>
-        <li>Coming Soon</li>
-	</ul>
+		<ul>
+        		<li>Solving common business  problems by connecting with enterprise services</li>
+		</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>Coming Soon</li>
+                <li>To allow specialized teams to focus on their core competencies</li>
+		<li>To save time</li>
+		<li>To deliver more value</li>
+		<li>To align our product with the USCIS technology strategy</li>
 	    </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -33,17 +36,17 @@ permalink: /integrating-systems-services/
             <ul>
                 <li>Facilitated By:
     	            <ul>
-        	      <li>Coming Soon</li>
+        	      <li>Product Manager</li>
     	            </ul>
                  </li>
                 <li>Participants:
     	            <ul>
-                      <li>Coming Soon</li>
+                      <li>Product Engineers</li>
                     </ul>    
                 </li>
                 <li>Audience:
     	            <ul>
-                      <li>Coming Soon</li>
+                      <li>N/A</li>
                   </ul>    
                 </li>
             </ul>
@@ -51,7 +54,17 @@ permalink: /integrating-systems-services/
             How We Do It
         </h4>
             <ul>
-               <li>Activity: Coming Soon</li>
+               <li>Identify the problem you are trying to solve</li>
+		<ul>
+			<li>Assess whether or not a service exists which solves your problem</li>
+			<li>Assess the risk of integrating compared to the alternatives</li>
+			<li>Determine the value of the solution to your Product Owner Team</li>
+		</ul>
+		<li>If you go forward with integration, develop a vision for the integration</li>
+		<li>Develop an integration checklist (ex below)</li>
+		<li>Develop a repeatable integration pattern</li>
+		<li>Reach out to your integration partner for documentation</li>
+		<li>Setup a kickoff meeting with your integration partner</li>
             </ul>
     </div>
     <div class="col-md-3">

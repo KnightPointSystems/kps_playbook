@@ -13,23 +13,22 @@ permalink: /prototype-interviews/
             Definition
         </h4>
 		<ul>
-		<li>Presenting mockups and gathering feedback</li>
+		<li>Presenting prototypes and validating assumptions</li>
 		</ul>
         <h4 class="What" id="What">
             What Are We Doing
         </h4>
 	<ul>
-        <li>Gathering feedback from end users</li>
-	<li>Iterating on solutions to start to define requirements</li>
+		<li>Allowing end users to interact with a static or interactive prototype of a feature</li>
+		<li>Walking the user through the functions of a new feature, while asking questions and recording observations</li>
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>To test our solutions to make sure they work for users</li>
-		<li>To make sure that the workflow of the design aligns with business processes</li>
-		<li>To ensure that requirements are correctly defined prior to development</li>
-		<li>To allow for user centric design feedback</li>
+                <li>To derive insights from how a user interacts with a design and their feelings about that interaction</li>
+		<li>To render opinions on a feature before it is developed or released, in order to ensure that the product team is building the right thing for the end users</li>
+		<li>To create short feedback loops and identify problems before a feature release or improve product quality</li>
 	    </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -46,21 +45,28 @@ permalink: /prototype-interviews/
 		      <li>End Users</li>
                     </ul>    
                 </li>
+		<li>Audience:
+    	            <ul>
+                      <li>Product Engineers</li>
+		      <li>Product Owner Team</li>
+                    </ul>    
+                </li>
             </ul>
         <h4 class="How" id="How">
             How We Do It
         </h4>
             <ul>
-               <li>Pre-requisite: Designers have created mock-ups from user interview insights</li>
-		<li>Pre-requisite: Test it yourself and review with team</li>
-		<li>Schedule five 30 minute interviews with end users</li>
-		<li>Create an Assumptions Tracker</li>
-		<li>Gather Feedback</li>
-		<ul>
-			<li>Encourage users to make comments on the mockup software when available</li>
-		</ul>
-		<li>Synthesize Results</li>
-		<li>Share insights with the product engineers (Observations for each user / screenshots of system with highlights)</li>
+               <li>The designer facilitates the interaction of the End Users with the prototype</li>
+			<ul>
+			    <li>It is important that the interview guide the user where possible, not direct them</li>
+			    <li>The best mark a feature can have is if its use is so obvious the user wonders why the interview is needed</li>
+			</ul>
+		<li>The Product Designer and Product Manager track the feedback on an Assumptions Tracker</li>
+			<ul>
+				<li>Assumptions can be confirmed (Y), refuted (N), or not addressed/unable to decide (N/A)</li>
+				<li>Verbatim quotes should be captures throughout the interview just like a contextual interview</li>
+			</ul>
+		<li>End users should be given time to discuss their overall impressions of the prototype, their experience, and any questions they may have at the end of the interview</li>
             </ul>
     </div>
     <div class="col-md-3">
