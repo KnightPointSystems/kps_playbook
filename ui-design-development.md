@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UI Design Development
-header: UI Design Development
+title: Prototype Development for User Testing
+header: Prototype Development for User Testing
 permalink: /ui-design-development/
 ---
 <div class="row">
