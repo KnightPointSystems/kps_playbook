@@ -19,13 +19,15 @@ permalink: /testing-software/
             What Are We Doing
         </h4>
 	<ul>
-        <li>Validating the product solves the problem</li>
+		<li>Ensuring delivery of high quality products</li>
+		<li>Validating product functionality</li>
 	</ul>
         <h4 class="Why" id="Why">
             Why We Do It
         </h4>
             <ul>
-                <li>To ensure users are satisfied with the outcomes of a product development</li>
+                <li>To deliver valuable solutions of the highest quality</li>
+		<li>To build trust with product owners by resolving issues prior to production</li>
 	    </ul>
         <h4 class="Who" id="Who">
             Who Is Doing It
@@ -39,11 +41,12 @@ permalink: /testing-software/
                 <li>Participants:
     	            <ul>
                       <li>Product Team</li>
+		      <li>Product Owner Team</li>
                     </ul>    
                 </li>
                 <li>Audience:
     	            <ul>
-                      <li>Product Owner Team</li>
+                      <li>N/A</li>
                   </ul>    
                 </li>
             </ul>
@@ -51,9 +54,21 @@ permalink: /testing-software/
             How We Do It
         </h4>
             <ul>
-               <li>The Product Manager establishes acceptance criteria that will be deployed</li>
-	       <li>The Product Developer provides a high level overview to the Product Manager (optional)</li>
-	       <li>The Product Manager tests new features based on the acceptance criteria to ensure the new features function correctly</li>
+               <li>Testing developed product</li>
+			<ul>
+				<li>The product developer conducts unit testing to ensure new code is validated and the test scripts cover the entire product to get to 95% code coverage</li>
+				<li>New code development is peer reviewed by another product team developer who approves or denies the code for corrections or a better way to code the product</li>
+				<li>The newly developed code is Section 508 reviewed and validated as compliant or the code contains Section 508 problems</li>
+				<li>Product Manager performs acceptance testing to ensure quality</li>
+			</ul>
+		<li>Tracking: SCRUM Meeting</li>
+			<ul>
+				<li>The product manager confirms developer unit testing is completed</li>
+				<li>The product manager confirms Section 508 testing is completed</li>
+				<li>The product manager confirms acceptance testing is completed</li>
+			</ul>
+		<li>Product Delivery</li>
+			<ul><li>Deploy completed product to production</li></ul>
             </ul>
     </div>
     <div class="col-md-3">
