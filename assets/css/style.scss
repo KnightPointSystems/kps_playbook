@@ -66,7 +66,8 @@ h1 {
 
 h2 {
   font-size: 26px;
-}
+  color: #4C587B;
+  }
 
 h3 {
   font-size: 20px;
@@ -528,6 +529,7 @@ img.splash {
       margin: 0!important;
       font-size: 20px;
     }
+
     a {
       display: block;
       padding: 5px;
@@ -611,37 +613,57 @@ img.splash {
 }
 
 .our-playbook {
-  width: 100%;
+  width: 90%;
   text-align: left;
   padding: 0 30px;
   border-bottom: 1px solid rgb(194, 194, 194);
+  margin: 0 auto;
+
+  h3 {
+    color: #5a5a5a;
+  }
+
 }
 
 .our-product-managers {
-  width: 100%;
+  width: 90%;
   text-align: left;
   padding: 0 30px;
   border-bottom: 1px solid rgb(194, 194, 194);
+  margin: 0 auto;
+  
+
 }
 
 .our-designers {
-  width: 100%;
+  width: 90%;
   text-align: left;
   padding: 0 30px;
   border-bottom: 1px solid rgb(194, 194, 194);
+  margin: 0 auto;
+
+
 }
 
 .our-engineers {
-  width: 100%;
-  text-align: center;
+  width: 90%;
+  text-align: left;
   padding: 0 30px;
   border-bottom: 1px solid rgb(194, 194, 194);
+  margin: 0 auto;
+
+
+
 }
 
 .leadership {
-  width: 100%;
+  width: 90%;
   text-align: left;
   padding: 0 30px;
+  margin: 0 auto;
+
+
+
 }
 
 .posts > .post {
