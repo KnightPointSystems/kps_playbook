@@ -28,7 +28,7 @@ title: Welcome to the DID(it) Playbook
 <div class="our-playbook">
   <div class="row">
     <div class="col-md-3">
-      <img src="images/ourplaybookgraphic.png"/>
+      <img src="images/BuildMeasureLearn.png"/>
     </div>
     <div class="col-md-9">
       <h2> Our Playbook </h2>
@@ -47,7 +47,7 @@ title: Welcome to the DID(it) Playbook
       <p><a href="product-management">More...</a></p>
     </div>
     <div class="col-md-3">
-      <img src="images/ourproductmanagersgraphic.png"/>
+      <img src="images/ProductManagers.png"/>
     </div>
   </div>
 </div>
@@ -55,7 +55,7 @@ title: Welcome to the DID(it) Playbook
 <div class="our-designers">
   <div class="row">
     <div class="col-md-3">
-      <img src="images/ourdesignersgraphic.png"/>
+      <img src="images/Designers.png"/>
     </div>
     <div class="col-md-9">
       <h2> Our Designers </h2>
@@ -66,22 +66,27 @@ title: Welcome to the DID(it) Playbook
 </div>
 
 <div class="our-engineers">
+<div class="row">
+    <div class="col-md-9">
   <h2>Our Engineers</h2>
   <p>Front and back ends. In software engineering, the terms front end and back end refer to the separation of concerns between the presentation layer (front end), and the data access layer (back end) of a piece of software, or the physical infrastructure or hardware.</p>
   <p><a href="engineering">More...</a></p>
 </div>
-
+<div class="col-md-3">
+      <img src="images/Engineers.png"/>
+    </div>
+    </div>
+    </div>
 
 <div class="leadership">
   <div class="row">
-    <div class="col-md-9">
-      <h2> Our Leadership </h2>
-      <p> An effective leader is a person who does the following: Creates an inspiring vision of the future, and motivates and inspires people to engage with that vision. </p>
-      <p><a href="leadership">More...</a></p>
-    </div>
     <div class="col-md-3">
-      <img src="images/leadershipgraphic.png"/>
+          <img src="images/Leaders.png"/>
     </div>
+    <div class="col-md-9">
+  <h2> Our Leadership </h2>
+      <p> An effective leader is a person who does the following: Creates an inspiring vision of the future, and motivates and inspires people to engage with that vision. </p>
+      <p><a href="leadership">More...</a></p>    </div>
   </div>
 </div>
 </div>
