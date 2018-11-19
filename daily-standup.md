@@ -69,7 +69,7 @@ permalink: /daily-standup/
             </li>
 	    <li>Participants should refer to stories using short descriptive titles or business functions and not numbers whenever possible</li>
             <li>Commitment should be tracked against the Kanban board</li>
-            <li>Teammates should stand up to keep the meeting short and interactive</li>
+            <li>Teammates should stand up, even if we are on Connect from home, to keep the meeting short and interactive</li>
             <li>Video camera should be utilized when teams are distributed to enhance team collaborative culture</li>
             <li>Detailed discussions should be held for after the standup is completed, and only those participants absolutely necessary in the discussion should be involved</li>
 	 </ul>
