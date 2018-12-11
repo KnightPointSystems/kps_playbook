@@ -27,7 +27,7 @@ permalink: /Immersion/
             Why We Do It
         </h4>
             <ul>
-                <li>To empahtize with a user</li>
+                <li>To empathize with a user</li>
 		<li>Contextualize the user experience on the user's terms</li>
 		<li>Facilitate unstuctured conversation in a safe space</li>
 	    </ul>
