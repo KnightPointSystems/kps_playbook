@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: rgb(253, 253, 253);
   font: 16px/1.4 $helvetica;
-  color: $darkGray;
+  color: $black;
   padding-top: 38px;
 
 }
@@ -33,12 +33,17 @@ body, html {
   margin: 0 auto;
   padding: 0 30px;
   width: 100%;
+  
 
 }
 
 #main.container {
   min-height: 100vh;
 
+}
+
+.mainBodyContent {
+  margin: 40px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -296,47 +301,6 @@ box-shadow: 1px 1px 1px rgb(194, 194, 194);
 
 
 
-//
-// .main
-//
-
-/* .hero {
-  // Sizing 
-  width: 100vw;
-  height: 100vh;
-   // Flexbox stuff 
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   // Text styles 
-   text-align: center;
-     // Background styles 
-     background-image: url(../../images/didit_background.svg);
-     background-size: cover;
-     background-position: center center;
-     background-repeat: no-repeat;
-}
-*/
-
-/*
-.hero-image {
-  background-color: rgb(71, 76, 91);
-  height: 95vh;
-  background-image: url(../../images/full-hero3x.png);
-  display: flex;
-  background-size: contain;
-  background-position: center center;
-  background-repeat: no-repeat;
-
-    @include mobile {
-      background-size: contain;
-      background-position: center center;
-      height: 20vh;
-
-    }
-}
-*/
-
 .hero-image img {
   width: 100%;
   height: auto;
@@ -455,35 +419,12 @@ a.maincontent-anchor {
   padding-top: 20px!important;
 }
 
-.mainBodyContent:before {
-  content:"";
-  display:block;
-  height:79px; /* fixed header height*/
-  margin:-79px 0 0; /* negative fixed header height */
-  }
+.col-md-4 {
+  margin-left: 0px;
+  margin-right: 0;
+}
 
-  // Prevents fixed header from covering content after clicking anchor point
-  .headings:before, .paragraph:before, .list:before, .columns:before, .linksandimages:before, .equalcolumns:before, .varyingcolumns:before {
-    content:"";
-    display:block;
-    height:79px; /* fixed header height*/
-    margin:-79px 0 0; /* negative fixed header height */
-    }
 
-  .roledescription:before, .practices:before, .how:before, .discovery:before, .problemstatement:before, .framing:before, .inception:before, .research:before, .buildmeasurelearn:before, .interviews:before, .userstory:before, .prototype:before, .usertesting:before {
-      content:"";
-      display:block;
-      height:79px; /* fixed header height*/
-      margin:-79px 0 0; /* negative fixed header height */
-      }
-      
-  .strategicobjectives:before, .strategicgoals:before, .twobytwo:before {
-      content:"";
-      display:block;
-      height:79px; /* fixed header height*/
-      margin:-79px 0 0; /* negative fixed header height */
-      }
-     
 img.splash {
   width: 100%; 
   //height: 100%;
@@ -579,7 +520,7 @@ img.splash {
 
     @media (max-width: 764px) { 
       display: none;
-      width: 100%;;
+      width: 100%;
      }
 
     a {
@@ -613,16 +554,43 @@ img.splash {
 }
 
 .our-playbook {
-  width: 90%;
   text-align: left;
-  padding: 0 30px;
   border-bottom: 1px solid rgb(194, 194, 194);
-  margin: 0 auto;
 
   h3 {
     color: #5a5a5a;
   }
 
+
+}
+
+.card {
+  background: #ffffff;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+  
+    img {
+      width: 200px;
+      margin: 0 auto;
+    }
+
+    
+    }
+
+.col-md-4.card {
+  margin-bottom: 20px!important;
+
+
+}
+
+.pack {
+
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
 }
 
 .our-product-managers {
