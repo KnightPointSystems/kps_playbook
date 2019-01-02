@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: rgb(253, 253, 253);
-  font: 16px/1.4 $helvetica;
+	background: #ffffff;
+  font: 16px/1.4 'Roboto','Helvetica Neue', Helvetica, Arial, sans-serif;
   color: $black;
   padding-top: 38px;
 
@@ -64,6 +64,7 @@ h1 {
   font-size: 32px;
   margin-top: 18px;
   text-align: left;
+  font-weight: 400;
   a {
     color: inherit;
   }
@@ -72,10 +73,15 @@ h1 {
 h2 {
   font-size: 26px;
   color: #4C587B;
+  font-weight: normal;
   }
 
 h3 {
-  font-size: 20px;
+  font-size: 22px;
+  color:#4C587B;
+  text-align: center;
+  font-weight: normal;
+  margin-top: 0!important;
 }
 
 h4 {
@@ -416,14 +422,28 @@ a.maincontent-anchor {
 }
 
 .Body-Container h2 {
-  padding-top: 20px!important;
+  padding-top: 0!important;
 }
 
 .col-md-4 {
-  margin-left: 0px;
+  margin-left: 0;
   margin-right: 0;
+  
 }
 
+#MainContent.mainBodyContent {
+  .col-md-4 {
+    display: flex;
+    width: 100%;
+  }
+}
+
+
+
+.col {
+  flex: 1;
+  padding: 16px;
+}
 
 img.splash {
   width: 100%; 
@@ -553,85 +573,34 @@ img.splash {
   padding: 0 30px;
 }
 
-.our-playbook {
-  text-align: left;
-  border-bottom: 1px solid rgb(194, 194, 194);
-
-  h3 {
-    color: #5a5a5a;
-  }
-
-
-}
-
 .card {
   background: #ffffff;
   border: none;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px 2px rgba(0, 0, 0, 0.2);
+  margin: 0 0 20px 0!important;
 
-  
     img {
-      width: 200px;
+      max-width: 150px;
       margin: 0 auto;
     }
 
-    
+    .btn {
+      display: block;
+      margin: auto;
+      width: 100px;
+      border-radius: 0!important;
+      background: rgb(71, 76, 91);
+      border-color: rgb(71, 76, 91);
     }
 
-.col-md-4.card {
-  margin-bottom: 20px!important;
-
-
+    p {
+      text-align: center;
+      color: #575757;
+    }
 }
 
-.pack {
-
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-}
-
-.our-product-managers {
-  width: 90%;
-  text-align: left;
-  padding: 0 30px;
-  border-bottom: 1px solid rgb(194, 194, 194);
-  margin: 0 auto;
-  
-
-}
-
-.our-designers {
-  width: 90%;
-  text-align: left;
-  padding: 0 30px;
-  border-bottom: 1px solid rgb(194, 194, 194);
-  margin: 0 auto;
-
-
-}
-
-.our-engineers {
-  width: 90%;
-  text-align: left;
-  padding: 0 30px;
-  border-bottom: 1px solid rgb(194, 194, 194);
-  margin: 0 auto;
-
-
-
-}
-
-.leadership {
-  width: 90%;
-  text-align: left;
-  padding: 0 30px;
-  margin: 0 auto;
-
-
-
+.card-body {
+  padding-top: 0;
 }
 
 .posts > .post {
