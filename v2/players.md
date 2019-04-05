@@ -2,128 +2,116 @@
 layout: v2_default
 title: Welcome to the DID(it) Playbook
 ---
-<!-- main content -->
-<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
-
-<!-- menu -->
-<aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-    <nav>
-        <ul class="usa-sidenav-list">
+<div class="container mt-5">
+  <!-- .row -->
+  <div class="row">
+    <!-- .sidenav-list -->
+    <div class="col-md-3">
+      <nav class="navbar navbar-expand-sm navbar-light ml-n2">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sidenav" aria-controls="sidenav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="sidenav">
+          <ul class="custom-sidenav-list">
             <li>
-                <a href="{{ site.baseurl }}/v2/players" class="usa-current">
-                    Players Lineup
-                </a>
+              <a href="{{ site.baseurl }}/v2/players" class="custom-current">Players Lineup</a>
             </li>
-                <ul class="usa-sidenav-sub_list">
-                    <li>
-                        <a href="{{ site.baseurl }}/v2/player">
-                            Product Owner
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ site.baseurl }}/v2/player">
-                            Product Manager
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ site.baseurl }}/v2/player">
-                            Product Designer
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ site.baseurl }}/v2/player">
-                            Product Engineer
-                        </a>
-                    </li>
-                </ul>
-        </ul>
-    </nav>
-</aside>
-<!-- //menu -->
-
-
-
-
-<!-- page content -->
-<div class="usa-layout-docs-main_content">
-    <div class="usa-width-three-fourths">
-
-
-        <!-- header -->
-        <section class="usa-section usa-graphic_list usa-section-red">
-            <div class="usa-grid usa-graphic_list-row">
-                <div class="usa-width-one-third usa-media_block">
-                    <div class="usa-media_block-body">
-                        <img class="usa-icon-lg-img" src="{{ site.baseurl }}/assets/img/didit-icons/pb-players@2x.png" alt="">
-                    </div>
-                </div>
-                <div class="usa-width-two-thirds usa-media_block">
-                    <div class="usa-media_block-body">
-                        <h1 class="bar-top">Players Lineup</h1>
-                        <p class="usa-font-lead">
-                            Think of a product team as a cross-functional group responsible for planning, delivering and maintaining successful products. A typical product team is led by the product manager, and includes leaders from design, engineering, and customers.
-                        </p>
-                    </div>
-                </div>
+            <ul class="custom-sidenav-sub_list">
+              <li>
+                <a href="{{ site.baseurl }}/v2/player">Product Manager</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/v2/player">Product Designer</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/v2/player">Product Engineer</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/v2/player">Product Owner</a>
+              </li>
+            </ul>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <!-- /.sidenav-list -->
+    <!-- .main -->
+    <main role="main" class="col-md-9">
+      <!-- hero -->
+      <div class="jumbotron custom-primary-base mb-5">
+        <div class="media">
+          <img class="align-self-center custom-md-img mr-5" src="../../assets/img/v2/icons/pb-players@2x.png" alt="...">
+          <div class="media-body">
+            <h1>Players Lineup</h1>
+            <p class="lead">Think of a product team as a cross-functional group responsible for planning, delivering and maintaining successful products. A typical product team is led by the product manager, and includes leaders from design, engineering, and customers.</p>
+          </div>
+        </div>
+      </div>
+      <!-- /.hero -->
+      <!-- .tiles -->
+      <section class="mb-5">
+        <div class="row">
+          <div class="col-md-3 mb-4">
+            <div class="card">
+              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpm@2x.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title text-center">Product Manager</h5>
+              </div>
+              <div class="card-footer text-center">
+                <a href="{{ site.baseurl }}/v2/player">
+                  Read more
+                  <span class="sr-only">about Product Manager</span>
+                </a>
+              </div>
             </div>
-        </section>
-        <!-- //header -->
-
-
-        <!-- 1x4 tiles -->
-        <section class="usa-section usa-graphic_list">
-            <div class="usa-grid usa-grid-full usa-graphic_list-row">
-                <div class="usa-width-one-half usa-media_block">
-                    <div class="usa-media_block-body">
-                        <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-playerpo@2x.png" alt="">
-                        <h3>Product Owner</h3>
-                        <p>A product owner is responsible for defining the desired business outcomes for the product.</p>
-                        <a href="{{ site.baseurl }}/v2/player" class="card-cta link-arrow-right" tabindex="0">
-                            Read more
-                            <span class="usa-sr-only">about Product Owner</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="usa-width-one-half usa-media_block">
-                    <div class="usa-media_block-body">
-                        <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-playerpm@2x.png" alt="">
-                        <h3>Product Manager</h3>
-                        <p>A product manager communicates product vision from the highest levels of executive leadership to the design and development teams.</p>
-                        <a href="{{ site.baseurl }}/v2/player" class="card-cta link-arrow-right" tabindex="0">
-                            Read more
-                            <span class="usa-sr-only">about Product Manager</span>
-                        </a>
-                    </div>
-                </div>
+          </div>
+          <div class="col-md-3 mb-4">
+            <div class="card">
+              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpd@2x.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title text-center">Product Designer</h5>
+              </div>
+              <div class="card-footer text-center">
+                <a href="{{ site.baseurl }}/v2/player">
+                  Read more
+                  <span class="sr-only">about Product Designer</span>
+                </a>
+              </div>
             </div>
-            <div class="usa-grid usa-grid-full usa-graphic_list-row">
-                <div class="usa-width-one-half usa-media_block">
-                    <div class="usa-media_block-body">
-                        <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-playerdg@2x.png" alt="">
-                        <h3>Product Designer</h3>
-                        <p>A product designer creates and implements a clear strategy to design an outstanding user experience.</p>
-                        <a href="{{ site.baseurl }}/v2/player" class="card-cta link-arrow-right" tabindex="0">
-                            Read more
-                            <span class="usa-sr-only">about Product Designer</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="usa-width-one-half usa-media_block">
-                    <div class="usa-media_block-body">
-                        <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-playerdv@2x.png" alt="">
-                        <h3>Product Engineer</h3>
-                        <p>A product engineer finds ways to develop solutions using modern development technologies.</p>
-                        <a href="{{ site.baseurl }}/v2/player" class="card-cta link-arrow-right" tabindex="0">
-                            Read more
-                            <span class="usa-sr-only">about Product Engineer</span>
-                        </a>
-                    </div>
-                </div>
+          </div>
+          <div class="col-md-3 mb-4">
+            <div class="card">
+              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpe@2x.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title text-center">Product Engineer</h5>
+              </div>
+              <div class="card-footer text-center">
+                <a href="{{ site.baseurl }}/v2/player">
+                  Read more
+                  <span class="sr-only">about Product Engineer</span>
+                </a>
+              </div>
             </div>
-        </section>
-        <!-- //1x4 tiles -->
-
-
-    </div><!-- //usa-width-three-fourths -->
-</div><!-- //page content -->
-</main><!-- //main content -->
+          </div>
+          <div class="col-md-3 mb-4">
+            <div class="card">
+              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpo@2x.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title text-center">Product Owner</h5>
+              </div>
+              <div class="card-footer text-center">
+                <a href="{{ site.baseurl }}/v2/player">
+                  Read more
+                  <span class="sr-only">about Product Owner</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- /.tiles -->
+    </main>
+    <!-- /.main -->
+  </div>
+  <!-- /.row -->
+</div>

@@ -2,77 +2,71 @@
 layout: v2_default
 title: Welcome to the DID(it) Playbook
 ---
-<!-- main content -->
-<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
-
-    <!-- hero -->
-    <section class="usa-section usa-graphic_list usa-section-dark">
-        <div class="usa-grid usa-graphic_list-row">
-            <div class="usa-width-one-fourth usa-media_block">
-                <div class="usa-media_block-body">
-                    <img class="usa-icon-lg-img" src="../assets/img/didit-icons/pb-playbook@2x.png" alt="">
-                </div>
-            </div>
-            <div class="usa-width-three-fourths usa-media_block">
-                <div class="usa-media_block-body">
-                    <h1 class="bar-top">DID(it) Playbook</h1>
-                    <p class="usa-font-lead">
-                        The purpose of this playbook is to introduce new practitioners to the best practices of DID(it).
-                    </p>
-                </div>
+<main role="main">
+  <!-- .hero -->
+  <div class="container-fluid custom-primary-darker">
+    <div class="container">
+      <div class="jumbotron custom-primary-darker">
+        <div class="media m-5">
+          <img class="align-self-center mr-5 custom-md-img" src="../assets/img/v2/icons/pb-playbook@2x.png" alt="...">
+            <div class="media-body">
+              <h1>DID(it) Playbook</h1>
+              <p class="lead"> The purpose of this playbook is to introduce new practitioners to our best practices.</p>
             </div>
         </div>
-    </section>
-    <!-- //hero -->
+      </div>
+    </div>
+  </div>
+  <!-- /.hero -->
 
-
-    <!-- page content -->
-    <div class="usa-width-usa-width-one-whole">
-
-        <!-- section-action -->
-        <div class="usa-section">
-            <div class="usa-grid usa-grid-full">
-                <div class="usa-width-one-half">
-                    <h2>Players Lineup</h2>
-                    <p class="usa-font-lead">
-                        Think of a product team as a cross-functional group responsible for planning, delivering and maintaining successful products. A typical product team is led by the product manager, and includes leaders from design, engineering, and customers.
-                    </p>
-                    <a class="usa-button" href="{{ site.baseurl }}/v2/players" class="card-cta link-arrow-right" tabindex="0">
-                        Read more
-                        <span class="usa-sr-only">about Players Lineup</span>
-                    </a>
-                </div>
-                <div class="usa-width-one-half">
-                    <img class="usa-media_block-img" src="../assets/img/didit-icons/pb-playersteam@2x.png" alt="">
-                </div>
-            </div>
+  <!-- .featurette -->
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-md-6">
+        <h2 class="mt-5">Players Lineup</h2>
+        <p class="lead">Think of a product team as a cross-functional group responsible for planning, delivering and maintaining successful products. A typical product team is led by the product manager, and includes leaders from design, engineering, and customers.</p>
+        <a href="{{ site.baseurl }}/v2/players" class="btn btn-primary" role="button">
+          Read more
+          <span class="sr-only">about Players Lineup</span>
+        </a>
+      </div>
+      <div class="col-md-1"></div>
+      <div class="col-md-5">
+        <img class="img-fluid mx-auto custom" src="../assets/img/v2/icons/pb-home-players@2x.png" alt="...">
+      </div>
+    </div>
+    <hr class="mb-5">
+    <div class="row mb-5">
+      <div class="row mb-5">
+        <div class="col-md-6 order-md-3">
+          <h2 class="mt-5">Playlist</h2>
+          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <a href="{{ site.baseurl }}/v2/playlist" class="btn btn-primary muted-text" role="button">
+            Read more
+            <span class="sr-only">about Playlist</span>
+          </a>
         </div>
-        <!-- //section-action -->
-
-
-        <!-- section-action -->
-        <div class="usa-section">
-            <div class="usa-grid usa-grid-full">
-                <div class="usa-width-one-half">
-                    <h2>Playlist</h2>
-                    <p class="usa-font-lead">
-                        Drive consistency and reduce risk by following standard procedures.
-                    </p>
-                    <a class="usa-button" href="{{ site.baseurl }}/v2/playlist" class="card-cta link-arrow-right" tabindex="0">
-                        Read more
-                        <span class="usa-sr-only">about Playlist</span>
-                    </a>
-                </div>
-            </div>
-            <div class="usa-grid usa-grid-full">
-                <div class="usa-width-one-whole">
-                    <img class="usa-media_block-img" src="../assets/img/didit-icons/pb-process@2x.png" alt="">
-                </div>
-            </div>
+        <div class="col-md-1 order-md-2"></div>
+        <div class="col-md-5 order-md-1">
+          <img class="img-fluid mx-auto custom" src="../assets/img/v2/icons/pb-home-playlist@2x.png" alt="...">
         </div>
-        <!-- //section-action -->
-
-
-    </div><!-- //usa-width-three-fourths -->
-</main><!-- //main content -->
-
+      </div>
+    </div>
+    <hr class="mb-5">
+    <div class="row mb-5">
+      <div class="col-md-6">
+        <h2 class="mt-5">Practices</h2>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <a href="{{ site.baseurl }}/v2/practices" class="btn btn-primary" role="button">
+          Read more
+          <span class="sr-only">about Practices</span>
+        </a>
+      </div>
+      <div class="col-md-1"></div>
+      <div class="col-md-5">
+        <img class="img-fluid mx-auto custom" src="../assets/img/v2/icons/pb-home-practices@2x.png" alt="...">
+      </div>
+    </div>
+  </div>
+  <!-- /.featurette -->
+</main>

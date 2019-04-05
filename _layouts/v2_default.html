@@ -1,18 +1,24 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../assets/img/v2/favicons/favicon.ico">
+
     <title>DID(it) Playbook</title>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/uswds.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/uswds.custom.css" />
-    </head>
+
+    <link href="{{ site.baseurl }}/assets/css/v2/bootstrap.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/v2/bootstrap-custom.css" rel="stylesheet">
+  </head>
   <body>
-    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-    {% include v2/banner.html %}
     {% include v2/header.html %}
     {{ content }}
     {% include v2/footer.html %}
-    <script src="{{ site.baseurl }}/assets/js/uswds.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
   </body>
 </html>

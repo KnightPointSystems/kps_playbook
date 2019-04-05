@@ -2,153 +2,191 @@
 layout: v2_default
 title: Welcome to the DID(it) Playbook
 ---
-<!-- main content -->
-<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+<div class="container mt-5">
 
-    <!-- menu -->
-    <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-        <nav>
-            <ul class="usa-sidenav-list">
-                <li>
-                    <a href="{{ site.baseurl }}/v2/playlist" class="usa-current">
-                        Playlist
-                    </a>
-                </li>
-                    <ul class="usa-sidenav-sub_list">
+    <!-- .row -->
+    <div class="row">
+
+        <!-- .sidenav-list -->
+        <div class="col-md-3">
+            <nav class="navbar navbar-expand-sm navbar-light ml-n2">
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sidenav" aria-controls="sidenav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="sidenav">
+                    <ul class="custom-sidenav-list">
                         <li>
-                            <a href="{{ site.baseurl }}/v2/play">Project Kickoff</a>
+                            <a href="{{ site.baseurl }}/v2/playlist" class="custom-current">
+                                Players Lineup
+                            </a>
                         </li>
-                        <li>
-                            <a class="usa-current" href="{{ site.baseurl }}/v2/play">Discovery</a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/v2/play">Framing</a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/v2/play">Build, Measure, Learn</a>
-                        </li>
+                        <ul class="custom-sidenav-sub_list">
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Project Kickoff
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Strategic Objectives
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Business Goals
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Risk Management
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Problem
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Discovery
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Problem Workshop
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Framing
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Framing
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Inception
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Iterations
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Build
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Measure
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Learn
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
                     </ul>
-            </ul>
-        </nav>
-    </aside>
-    <!-- //menu -->
+                </div>
+            </nav>
+        </div>
+        <!-- /.sidenav-list -->
 
 
+        <!-- .main -->
+        <main role="main" class="col-md-9">
 
-
-    <!-- page content -->
-    <div class="usa-layout-docs-main_content">
-        <div class="usa-width-three-fourths">
-
-
-            <!-- header -->
-            <section class="usa-section usa-graphic_list usa-section-red">
-                <div class="usa-grid usa-graphic_list-row">
-                    <div class="usa-width-one-third usa-media_block">
-                        <div class="usa-media_block-body">
-                            <img class="usa-icon-lg-img" src="{{ site.baseurl }}/assets/img/didit-icons/pb-discovery@2x.png" alt="">
-                        </div>
-                    </div>
-                    <div class="usa-width-two-thirds usa-media_block">
-                        <div class="usa-media_block-body">
-                            <h6>Playlist</h6>
-                            <h1 class="bar-top">Discovery</h1>
-                            <p class="usa-font-lead">
-                                Focus on solving the problems that will provide the most benefit to the users of the product.
-                            </p>
-                        </div>
+            <!-- hero -->
+            <div class="jumbotron custom-primary-base mb-5">
+                <div class="media">
+                    <img class="align-self-center custom-md-img mr-5" src="../../assets/img/v2/icons/pb-discovery@2x.png" alt="...">
+                    <div class="media-body">
+                        <h1>Discovery</h1>
+                        <p class="lead">Focus on solving the problems that will provide the most benefit to the users of the product.</p>
                     </div>
                 </div>
-            </section>
-            <!-- //header -->
+            </div>
+            <!-- /.hero -->
 
-
-            <!-- description -->
-            <div class="usa-section">
+            <!-- .description -->
+            <section class="mb-5">
                 <p>
                     Understand the universe of problems and prioritize them to narrow the team’s focus.
                 </p>
-            </div>
-            <!-- //description -->
+            </section>
+            <!-- /.description -->
 
+            <!-- .steps -->
+            <section class="mb-5">
+                <h2 class="mb-4">Steps</h2>
+                <div class="form-check mb-3">
+                    <input class="form-check-input" type="checkbox" unchecked>
+                    <label class="form-check-label" type="checkbox">
+                        Understand the problems that the product users are experiencing.
+                    </label>
+                </div>
+                <div class="form-check mb-3">
+                    <input class="form-check-input" type="checkbox" unchecked>
+                    <label class="form-check-label" type="checkbox">
+                        Prioritize the problems in order narrow the product team’s focus on only the high priority items.
+                    </label>
+                </div>
+            </section>
+            <!-- /.steps -->
 
-            <!-- players -->
-            <div class="usa-section">
-                <h3>Players</h3>
-                <div class="usa-grid-full">
-                    <div class="usa-width-one-fourth">
-                        <div class="usa-media_block">
-                            <img class="usa-media_block-img usa-icon-sm-img" src="{{ site.baseurl }}/assets/img/didit-icons/pb-popcornscipt@2x.png" alt="">
-                            <div class="usa-media_block-body usa-font-uppercase">
-                                <a class="usa-font-sm-uppercase" href="{{ site.baseurl }}/v2/player">
-                                    <p>Product Manager (lead)</p>
-                                </a>
-                            </div>
-                        </div>
+            <!-- .players -->
+            <section class="mb-5">
+                <h2 class="mb-4">Players</h2>
+                <div class="d-flex flex-row">
+                    <div class="media">
+                        <a href="#">
+                            <img class="img-fluid" src="../../assets/img/v2/icons/pb-playerpm@2x.png" alt="...">
+                        </a>
                     </div>
-                    <div class="usa-width-one-fourth">
-                        <div class="usa-media_block">
-                            <img class="usa-media_block-img usa-icon-sm-img" src="{{ site.baseurl }}/assets/img/didit-icons/pb-popcornscipt@2x.png" alt="">
-                            <div class="usa-media_block-body usa-font-uppercase">
-                                <a class="usa-font-sm-uppercase" href="{{ site.baseurl }}/v2/player">
-                                    <p>Product Designer (lead)</p>
-                                </a>
-                            </div>
-                        </div>
+                    <div class="media">
+                        <a href="#">
+                            <img class="img-fluid" src="../../assets/img/v2/icons/pb-playerpd@2x.png" alt="...">
+                        </a>
                     </div>
-                    <div class="usa-width-one-fourth">
-                        <div class="usa-media_block">
-                            <img class="usa-media_block-img usa-icon-sm-img" src="{{ site.baseurl }}/assets/img/didit-icons/pb-popcornscipt@2x.png" alt="">
-                            <div class="usa-media_block-body usa-font-uppercase">
-                                <a class="usa-font-sm-uppercase" href="{{ site.baseurl }}/v2/player">
-                                    <p>Product Engineer</p>
-                                </a>
-                            </div>
-                        </div>
+                    <div class="media">
+                        <a href="#">
+                            <img class="img-fluid" src="../../assets/img/v2/icons/pb-playerpe@2x.png" alt="...">
+                        </a>
                     </div>
-                    <div class="usa-width-one-fourth">
-                        <div class="usa-media_block">
-                            <img class="usa-media_block-img usa-icon-sm-img" src="{{ site.baseurl }}/assets/img/didit-icons/pb-popcornscipt@2x.png" alt="">
-                            <div class="usa-media_block-body usa-font-uppercase">
-                                <a class="usa-font-sm-uppercase" href="{{ site.baseurl }}/v2/player">
-                                    <p>Product Owner</p>
-                                </a>
-                            </div>
-                        </div>
+                    <div class="media">
+                        <a href="#">
+                            <img class="img-fluid" src="../../assets/img/v2/icons/pb-playerpo@2x.png" alt="...">
+                        </a>
+                    </div>
+                    <div class="media">
+                        <a href="#">
+                            <img class="img-fluid" src="../../assets/img/v2/icons/pb-playersh@2x.png" alt="...">
+                        </a>
                     </div>
                 </div>
-            </div>
-            <!-- //players -->
+            </section>
+            <!-- /.players -->
 
-
-            <!-- responsibilities -->
-            <div class="usa-section">
-                <h3>Responsibilities</h3>
-                <fieldset class="usa-fieldset-inputs usa-sans">
-                    <ul class="usa-unstyled-list">
-                        <li>
-                            <input type="checkbox" unchecked>
-                            <label>
-                                Understand the problems that the product users are experiencing.
-                            </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" unchecked>
-                            <label>
-                                Prioritize the problems in order narrow the product team’s focus on only the high priority items.
-                            </label>
-                        </li>
-                    </ul>
-                </fieldset>
-            </div>
-            <!-- //responsibilities -->
-
-
-            <!-- resources -->
-            <div class="usa-section">
-                <h3>Resources</h3>
-                <table class="usa-table-borderless">
-                    <caption>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</caption>
+            <!-- .resources -->
+            <section class="mb-5">
+                <h2 class="mb-4">Resources</h2>
+                <table class="table">
                     <thead>
                         <tr>
                             <th scope="col">Description</th>
@@ -157,68 +195,68 @@ title: Welcome to the DID(it) Playbook
                     </thead>
                     <tbody>
                         <tr>
-                            <th scope="row">Stakeholders Should Participate In Discovery And Framing.</th>
+                            <td scope="row">Stakeholders Should Participate In Discovery And Framing.</td>
                             <td>
-                                <a href="http://www.rosemaryelizabethking.com/news/2017/1/25/stakeholders-should-participate-in-discovery-and-framing" target="_blank">Open</a>
+                                <a href="http://www.rosemaryelizabethking.com/news/2017/1/25/stakeholders-should-participate-in-discovery-and-framing" target="_blank">
+                                    Open
+                                    <span class="sr-only">link</span>
+                                </a>
                             </td>
                         </tr>
                     </tbody>
                 </table>
-            </div>
-            <!-- //resources -->
+            </section>
+            <!-- /.resources -->
 
-
-            <!-- related practices -->
-            <div class="usa-section">
-                <h2 class="bar-top">Related Practices</h2>
-                <div class="usa-grid usa-grid-full">
-                    <div class="card usa-width-one-fourth">
-                        <div class="card-link">
-                            <a class="card-image-bg" href="{{ site.baseurl }}/v2/practice" style="background-image: url({{ site.baseurl }}/assets/img/didit-icons/pb-popcornscipt@2x.png);" tabindex="-1"></a>
-                            <div class="card-banner">
-                                <a href="{{ site.baseurl }}/v2/practice" class="card-link-tagline"  tabindex="-1">
-                                    <h4>Popcorn Scripting</h4>
-                                </a>
-                                <a href="{{ site.baseurl }}/v2/practices" class="card-cta link-arrow-right" tabindex="0">
-                                    Read more
-                                    <span class="usa-sr-only">about Popcorn Scripting</span>
-                                </a>
+            <!-- .tiles -->
+            <section class="mb-5">
+                <h2 class="mb-4">Related Practice</h2>
+                <div class="row">
+                    <div class="col-md-3 mb-4">
+                        <div class="card">
+                            <img class="card-img-top" src="../../assets/img/v2/icons/pb-popcornscipt@2x.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">Popcorn Scripting</h5>
                             </div>
+                            <a class="card-footer text-center" href="{{ site.baseurl }}/v2/practice">
+                                Read more
+                                <span class="sr-only">about Popcorn Scripting</span>
+                            </a>
                         </div>
                     </div>
-                    <div class="card usa-width-one-fourth">
-                        <div class="card-link">
-                            <a class="card-image-bg" href="{{ site.baseurl }}/v2/practice" style="background-image: url({{ site.baseurl }}/assets/img/didit-icons/pb-teamsynthesis@2x.png);" tabindex="-1"></a>
-                            <div class="card-banner">
-                                <a href="{{ site.baseurl }}/v2/practice" class="card-link-tagline"  tabindex="-1">
-                                    <h4>Team Synthesis</h4>
-                                </a>
-                                <a href="{{ site.baseurl }}/v2/practices" class="card-cta link-arrow-right" tabindex="0">
-                                    Read more
-                                    <span class="usa-sr-only">about Team Synthesis</span>
-                                </a>
+                    <div class="col-md-3 mb-4">
+                        <div class="card">
+                            <img class="card-img-top" src="../../assets/img/v2/icons/pb-synthesis@2x.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">Team Synthesis</h5>
                             </div>
+                            <a class="card-footer text-center" href="{{ site.baseurl }}/v2/practice">
+                                Read more
+                                <span class="sr-only">about Team Synthesis</span>
+                            </a>
                         </div>
                     </div>
-                    <div class="card usa-width-one-fourth">
-                        <div class="card-link">
-                            <a class="card-image-bg" href="{{ site.baseurl }}/v2/practice" style="background-image: url({{ site.baseurl }}/assets/img/didit-icons/pb-usertesting@2x.png);" tabindex="-1"></a>
-                            <div class="card-banner">
-                                <a href="{{ site.baseurl }}/v2/practice" class="card-link-tagline"  tabindex="-1">
-                                    <h4>User Testing</h4>
-                                </a>
-                                <a href="{{ site.baseurl }}/v2/practices" class="card-cta link-arrow-right" tabindex="0">
-                                    Read more
-                                    <span class="usa-sr-only">about User Testing</span>
-                                </a>
+                    <div class="col-md-3 mb-4">
+                        <div class="card">
+                            <img class="card-img-top" src="../../assets/img/v2/icons/pb-usertesting@2x.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">User Testing</h5>
                             </div>
+                            <a class="card-footer text-center" href="{{ site.baseurl }}/v2/practice">
+                                Read more
+                                <span class="sr-only">about User Testing</span>
+                            </a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- //related practices -->
+
+            </section>
+            <!-- /.tiles -->
 
 
-        </div><!-- //usa-width-three-fourths -->
-    </div><!-- //page content -->
-</main><!-- //main content -->
+        </main>
+        <!-- /.main -->
+
+    </div>
+    <!-- /.row -->
+</div>
