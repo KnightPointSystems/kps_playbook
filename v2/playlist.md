@@ -2,127 +2,241 @@
 layout: v2_default
 title: Welcome to the DID(it) Playbook
 ---
-<!-- main content -->
-<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+<div class="container mt-5">
 
-    <!-- menu -->
-    <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-        <nav>
-            <ul class="usa-sidenav-list">
-                <li>
-                    <a href="{{ site.baseurl }}/v2/playlist" class="usa-current">
-                        Playlist
-                    </a>
-                </li>
-                    <ul class="usa-sidenav-sub_list">
+    <!-- .row -->
+    <div class="row">
+
+        <!-- .sidenav-list -->
+        <div class="col-md-3">
+            <nav class="navbar navbar-expand-sm navbar-light ml-n2">
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sidenav" aria-controls="sidenav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="sidenav">
+                    <ul class="custom-sidenav-list">
                         <li>
-                            <a href="{{ site.baseurl }}/v2/play">Project Kickoff</a>
+                            <a href="{{ site.baseurl }}/v2/playlist" class="custom-current">
+                                Players Lineup
+                            </a>
                         </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/v2/play">Discovery</a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/v2/play">Framing</a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/v2/play">Build, Measure, Learn</a>
-                        </li>
+                        <ul class="custom-sidenav-sub_list">
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Project Kickoff
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Strategic Objectives
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Business Goals
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Risk Management
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Problem
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Discovery
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Problem Workshop
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Framing
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Framing
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Inception
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/v2/play">
+                                    Iterations
+                                </a>
+                                <ul class="custom-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Build
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Measure
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ site.baseurl }}/v2/play">
+                                            Learn
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
                     </ul>
-            </ul>
-        </nav>
-    </aside>
-    <!-- //menu -->
+                </div>
+            </nav>
+        </div>
+        <!-- /.sidenav-list -->
 
 
+        <!-- .main -->
+        <main role="main" class="col-md-9">
 
-
-    <!-- page content -->
-    <div class="usa-layout-docs-main_content">
-        <div class="usa-width-three-fourths">
-
-
-            <!-- header -->
-            <section class="usa-section usa-graphic_list usa-section-red">
-                <div class="usa-grid usa-graphic_list-row">
-                    <div class="usa-width-one-third usa-media_block">
-                        <div class="usa-media_block-body">
-                            <img class="usa-icon-lg-img" src="{{ site.baseurl }}/assets/img/didit-icons/pb-playbook@2x.png" alt="">
-                        </div>
-                    </div>
-                    <div class="usa-width-two-thirds usa-media_block">
-                        <div class="usa-media_block-body">
-                            <h1 class="bar-top">Playlist</h1>
-                            <p class="usa-font-lead">
-                                Drive consistency and reduce risk by following standard procedures.
-                            </p>
-                        </div>
+            <!-- hero -->
+            <div class="jumbotron custom-primary-base mb-5">
+                <div class="media">
+                    <img class="align-self-center custom-md-img mr-5" src="../../assets/img/v2/icons/pb-playlist@2x.png" alt="...">
+                    <div class="media-body">
+                        <h1>Playlist</h1>
+                        <p class="lead">Drive consistency and reduce risk by following standard procedures.</p>
                     </div>
                 </div>
-            </section>
-            <!-- //header -->
+            </div>
+            <!-- /.hero -->
 
+            <!-- .custom-list -->
+            <section class="mb-5">
+                <div class="custom-list">
 
-            <!-- process -->
-            <section class="usa-section">
-                <img src="{{ site.baseurl }}/assets/img/didit-icons/pb-process@2x.png" alt="">
-            </section>
-            <!-- //process -->
-
-
-            <!-- 1x4 tiles -->
-            <section class="usa-section usa-graphic_list">
-                <div class="usa-grid usa-grid-full usa-graphic_list-row">
-                    <div class="usa-width-one-half usa-media_block">
-                        <div class="usa-media_block-body">
-                            <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-kickoff@2x.png" alt="">
-                            <h3>Project Kickoff</h3>
-                            <p>Get the project started and align the team towards a common direction.</p>
-                            <a href="{{ site.baseurl }}/v2/play" class="card-cta link-arrow-right" tabindex="0">
-                                Read more
-                                <span class="usa-sr-only">about Product Owner</span>
-                            </a>
+                    <div class="mb-5">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="custom-list-section">
+                                    <img class="img-fluid" src="../../assets/img/v2/icons/pb-kickoff@2x.png" alt="...">
+                                    <div class="custom-list-title text-center">Kickoff</div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="custom-list-section">
+                                        <img class="img-fluid" src="../../assets/img/v2/icons/pb-discovery@2x.png" alt="...">
+                                        <div class="custom-list-title text-center">Problems</div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="custom-list-section">
+                                    <img class="img-fluid" src="../../assets/img/v2/icons/pb-framing@2x.png" alt="...">
+                                    <div class="custom-list-title text-center">Solutions</div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="custom-list-section">
+                                    <img class="img-fluid" src="../../assets/img/v2/icons/pb-buildmeasurelearn@2x.png" alt="...">
+                                    <div class="custom-list-title text-center">Iterations</div>
+                                </div>
+                                </div>
                         </div>
                     </div>
-                    <div class="usa-width-one-half usa-media_block">
-                        <div class="usa-media_block-body">
-                            <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-discovery@2x.png" alt="">
-                            <h3>Discovery</h3>
-                            <p>Understand the universe of problems and prioritize them to narrow the team’s focus.</p>
-                            <a href="{{ site.baseurl }}/v2/play" class="card-cta link-arrow-right" tabindex="0">
-                                Read more
-                                <span class="usa-sr-only">about Product Manager</span>
-                            </a>
+
+                    <div class="mb-5">
+                        <h5 class="mb-4">Plays</h5>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <ul class="custom-list-section">
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Strategic Objectives
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Business Goals
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Risk Management
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3">
+                                <ul class="custom-list-section">
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Discovery
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Problem Workshop
+                                        </a>
+                                    </li>
+                                </ul>
+                                </div>
+                            <div class="col-md-3">
+                                <ul class="custom-list-section">
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Framing
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Inception
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3">
+                                <ul class="custom-list-section">
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Build
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Measure
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="text-center" href="{{ site.baseurl }}/v2/play">
+                                            Learn
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
+
                 </div>
-                <div class="usa-grid usa-grid-full usa-graphic_list-row">
-                    <div class="usa-width-one-half usa-media_block">
-                        <div class="usa-media_block-body">
-                            <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-framing@2x.png" alt="">
-                            <h3>Framing</h3>
-                            <p>Conceive and test solutions to solve the problem.</p>
-                            <a href="{{ site.baseurl }}/v2/play" class="card-cta link-arrow-right" tabindex="0">
-                                Read more
-                                <span class="usa-sr-only">about Product Designer</span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="usa-width-one-half usa-media_block">
-                        <div class="usa-media_block-body">
-                            <img class="usa-media_block-img usa-icon-sm-img"  src="{{ site.baseurl }}/assets/img/didit-icons/pb-buildmeasurelearn@2x.png" alt="">
-                            <h3>Build, Measure, Learn</h3>
-                            <p>Establish and continuously improve the effectiveness of new products, services and ideas quickly and cost-effectively.</p>
-                            <a href="{{ site.baseurl }}/v2/play" class="card-cta link-arrow-right" tabindex="0">
-                                Read more
-                                <span class="usa-sr-only">about Product Engineer</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
             </section>
-            <!-- //1x4 tiles -->
+            <!-- /.custom-list -->
 
 
-        </div><!-- //usa-width-three-fourths -->
-    </div><!-- //page content -->
-</main><!-- //main content -->
+        </main>
+        <!-- /.main -->
+
+    </div>
+    <!-- /.row -->
+</div>
