@@ -5,36 +5,7 @@ title: Welcome to the DID(it) Playbook
 <div class="container mt-5">
   <!-- .row -->
   <div class="row">
-    <!-- .sidenav-list -->
-    <div class="col-md-3">
-      <nav class="navbar navbar-expand-sm navbar-light ml-n2">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sidenav" aria-controls="sidenav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="sidenav">
-          <ul class="custom-sidenav-list">
-            <li>
-              <a href="{{ site.baseurl }}/v2/players" class="custom-current">Players Lineup</a>
-            </li>
-            <ul class="custom-sidenav-sub_list">
-              <li>
-                <a href="{{ site.baseurl }}/v2/player">Product Manager</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/v2/player">Product Designer</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/v2/player">Product Engineer</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/v2/player">Product Owner</a>
-              </li>
-            </ul>
-          </ul>
-        </div>
-      </nav>
-    </div>
-    <!-- /.sidenav-list -->
+    {% include v2/sidenav-players.html %}
     <!-- .main -->
     <main role="main" class="col-md-9">
       <!-- hero -->
