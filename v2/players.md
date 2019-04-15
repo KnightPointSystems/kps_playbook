@@ -1,6 +1,6 @@
 ---
 layout: v2_default
-title: Welcome to the DID(it) Playbook
+title: Players Lineup
 ---
 <div class="container mt-5">
   <!-- .row -->
@@ -29,7 +29,7 @@ title: Welcome to the DID(it) Playbook
                 <h5 class="card-title text-center">Product Manager</h5>
               </div>
               <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/player">
+                <a href="{{ site.baseurl }}/v2/players/product-manager">
                   Read more
                   <span class="sr-only">about Product Manager</span>
                 </a>
@@ -43,7 +43,7 @@ title: Welcome to the DID(it) Playbook
                 <h5 class="card-title text-center">Product Designer</h5>
               </div>
               <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/player">
+                <a href="{{ site.baseurl }}/v2/players/product-designer">
                   Read more
                   <span class="sr-only">about Product Designer</span>
                 </a>
@@ -57,7 +57,7 @@ title: Welcome to the DID(it) Playbook
                 <h5 class="card-title text-center">Product Engineer</h5>
               </div>
               <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/player">
+                <a href="{{ site.baseurl }}/v2/players/product-engineer">
                   Read more
                   <span class="sr-only">about Product Engineer</span>
                 </a>
@@ -71,7 +71,7 @@ title: Welcome to the DID(it) Playbook
                 <h5 class="card-title text-center">Product Owner</h5>
               </div>
               <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/player">
+                <a href="{{ site.baseurl }}/v2/players/product-owner">
                   Read more
                   <span class="sr-only">about Product Owner</span>
                 </a>
