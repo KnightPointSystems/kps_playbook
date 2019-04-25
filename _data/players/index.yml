@@ -1,0 +1,23 @@
+hero:
+  title: Players Lineup
+  text: Think of a product team as a cross-functional group responsible for planning, delivering and maintaining successful products. A typical product team is led by the product manager, and includes leaders from design, engineering, and customers.
+  image:
+    filename: pb-players@2x.png
+    alt: ...
+roles:
+  - name: Product Manager
+    image:
+      filename: pb-playerpm@2x.png
+      alt: ...
+  - name: Product Designer
+    image:
+      filename: pb-playerpd@2x.png
+      alt: ...
+  - name: Product Engineer
+    image:
+      filename: pb-playerpe@2x.png
+      alt: ...
+  - name: Product Owner
+    image:
+      filename: pb-playerpo@2x.png
+      alt: ...
