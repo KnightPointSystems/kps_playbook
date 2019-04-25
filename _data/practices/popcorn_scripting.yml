@@ -1,0 +1,29 @@
+hero:
+  title: Popcorn Scripting
+  text: Generate a free-flowing interview script for a user interview.
+  image:
+    filename: pb-popcornscipt@2x.png
+    alt: ...
+description: The purpose of popcorn scripting is to assist the product team with preparing questions for a user interview and facilitating an unstructured conversation with the interviewee. Popcorn scripting lets us define and visualize multiple areas of inquiry and allows us to see themes emerge.
+steps:
+  - title: Select a facilitator
+    text: Typically, this can be the product manager or product designer.
+  - title: Review assumptions about the user
+    text: Discuss as a group who the user is, what problems they are trying to solve, and their underlying needs and goals.
+  - title: Write potential questions
+    text: Each participant writes down potential questions on sticky notes. Around ten questions per participant. One idea per sticky note. The facilitator time boxes this session to a reasonable amount of time.
+  - title: Group questions into clusters
+    text: After the team discusses each sticky note, the facilitator places similar questions next to each other on a whiteboard. Draw around each cluster to form popcorn shapes. Label each cluster with a relevant theme name.
+  - title: Rephrase the questions
+    text: Use phrases like “Tell me about" and "Walk me through the last time". Ask for specific examples like “The last time", "The most frustrating time”, and "How do you know when". Ask questions that build context around your users and their environment.
+  - title: Avoid leading questions
+    text: A leading question prompts or encourages a desired answer. A good question is “Recall a time when the form failed to print successfully?”” rather than “Forms always fail to print during peak hours, correct?”. The first question lets you explore a range of options. The second question is limited to a specific incident.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: ...

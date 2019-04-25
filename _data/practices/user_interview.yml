@@ -1,0 +1,32 @@
+hero:
+  title: User Interviews
+  text: Spend time with interviewee(s) to find out their frustrations and current process to better enhance or design the application.
+  image:
+    filename: pb-userinterview@2x.png
+    alt: ...
+description: User interviews are an informative way to gather potential problems within the application. It helps understand from the users perspective how they use the application on a daily basis and what changes they would like to be made to make it more efficient or user friendly.
+steps:
+  - title: Identify a group of users to interview
+    text: Include representatives from different roles so you can get multiple perspectives and possible problems. Introduce the concept of user interviews to the people not familiar with it.
+  - title: Schedule user interviews
+    text: User interviews can be scheduled via email introductions or through the product owner. Schedule in person meeting whenever possible. If the user is not able to meet in person, a remote meeting via Adobe Connect or Skype will do.
+  - title: Designer and product manager lead the user inteviews
+    text: The designer or product manager lead the user interview with a list of prompted questions based on the application and developers needs.
+  - title: The team takes notes
+    text: During user interviews, have at least 2 to 3 other team members taking notes during each interview and writing down direct quotes from the users, whenever possible. The more detailed the notes, the better.
+  - title: Team compiles notes and schedules user interview synthesis
+    text: The designer or product manager will compile the team's notes and then schedule a time for the team to have a <a href="../synthesis">user interview synthesis</a> meeting which will help determine the problems and summarize the needs of the users.
+banner:
+  title: User Interview infographic
+  filename: pb-userinterview-infographic@2x.pdf
+  image:
+    filename: pb-userinterview-infographic02@2x.png
+    alt: ...
+resources:
+  - description: User interview infographic
+    filename: pb-userinterview-infographic@2x.pdf
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...

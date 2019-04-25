@@ -1,0 +1,10 @@
+brand:
+  title: DID(it) Playbook
+  url: index
+left_nav:
+  - title: Players
+  - title: Playlist
+  - title: Practices
+right_nav:
+  - title: About DID(it)
+    url: about

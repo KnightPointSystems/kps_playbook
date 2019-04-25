@@ -1,20 +1,20 @@
 ---
-layout: v2_default
-title: Players Lineup
+layout: v2/default
+title: DID(it) Playbook - Players
 ---
 <div class="container mt-5">
   <!-- .row -->
   <div class="row">
-    {% include v2/sidenav-players.html %}
+    {% include v2/sidenav.html menu=site.data.players.sidenav %}
     <!-- .main -->
     <main role="main" class="col-md-9">
       <!-- hero -->
       <div class="jumbotron custom-primary-base mb-5">
         <div class="media">
-          <img class="align-self-center custom-md-img mr-5" src="../../assets/img/v2/icons/pb-players@2x.png" alt="...">
+          <img class="align-self-center custom-md-img mr-5" src="{{ site.baseurl }}/assets/img/v2/icons/{{ site.data.players.hero.image.filename }}" alt="{{ site.data.players.hero.image.alt }}">
           <div class="media-body">
-            <h1>Players Lineup</h1>
-            <p class="lead">Think of a product team as a cross-functional group responsible for planning, delivering and maintaining successful products. A typical product team is led by the product manager, and includes leaders from design, engineering, and customers.</p>
+            <h1>{{ site.data.players.hero.title }}</h1>
+            <p class="lead">{{ site.data.players.hero.text }}</p>
           </div>
         </div>
       </div>
@@ -22,62 +22,19 @@ title: Players Lineup
       <!-- .tiles -->
       <section class="mb-5">
         <div class="row">
-          <div class="col-md-3 mb-4">
-            <div class="card">
-              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpm@2x.png" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title text-center">Product Manager</h5>
-              </div>
-              <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/players/product-manager">
-                  Read more
-                  <span class="sr-only">about Product Manager</span>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 mb-4">
-            <div class="card">
-              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpd@2x.png" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title text-center">Product Designer</h5>
-              </div>
-              <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/players/product-designer">
-                  Read more
-                  <span class="sr-only">about Product Designer</span>
-                </a>
+          {% for item in site.data.players.roles %}
+            <div class="col-md-3 mb-4">
+              <div class="card">
+                <img class="card-img-top" src="{{ site.baseurl }}/assets/img/v2/icons/{{ item.image.filename }}" alt="{{ item.image.alt }}">
+                <div class="card-body">
+                  <h5 class="card-title text-center">{{ item.name }}</h5>
+                </div>
+                <div class="card-footer text-center">
+                  <a href="{{ site.baseurl }}/players/{% include v2/to_url.html title=item.name %}">Read more <span class="sr-only">about {{ item.name }}</span></a>
+                </div>
               </div>
             </div>
-          </div>
-          <div class="col-md-3 mb-4">
-            <div class="card">
-              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpe@2x.png" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title text-center">Product Engineer</h5>
-              </div>
-              <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/players/product-engineer">
-                  Read more
-                  <span class="sr-only">about Product Engineer</span>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 mb-4">
-            <div class="card">
-              <img class="card-img-top" src="../../assets/img/v2/icons/pb-playerpo@2x.png" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title text-center">Product Owner</h5>
-              </div>
-              <div class="card-footer text-center">
-                <a href="{{ site.baseurl }}/v2/players/product-owner">
-                  Read more
-                  <span class="sr-only">about Product Owner</span>
-                </a>
-              </div>
-            </div>
-          </div>
+          {% endfor %}
         </div>
       </section>
       <!-- /.tiles -->

@@ -1,0 +1,27 @@
+hero:
+  title: Dot Voting
+  text: Quick and simple method for prioritizing a long list of options.
+  image:
+    filename: pb-dotvoting@2x.png
+    alt: ...
+description: Dot voting gives participants a set number of dot stickers (votes) to help narrow down options and pick most voted on options. Participants will vote on feedback and ideas that have been gathered. This will help people narrow the focus and seeing where ideas align.
+steps:
+  - title: Write down your ideas on cards
+    text: Keep the number of cards to about a dozen or less to avoid choice overload.
+  - title: Distribute stickers
+    text: Each participant receives a set number of dot stickers (e.g., 5 sitckers) representing 1 vote each.
+  - title: Vote for ideas
+    text: Participants are asked to place their dot stickers on a card that they like.
+  - title: Multi-voting
+    text: Participants can show a strong preference by placing more than one dot on a single card.
+  - title: Winning ideas
+    text: The cards with the most votes will be discussed with the group.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: ...

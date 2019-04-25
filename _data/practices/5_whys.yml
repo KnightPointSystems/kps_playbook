@@ -1,0 +1,37 @@
+hero:
+  title: 5 Whys
+  text: Identify the root cause of a problem and determine the relationship between different root causes of a problem.
+  image:
+    filename: pb-5whys@2x.png
+    alt: ...
+description: The 5 Whys is an analytical technique to help find the cause-and-effect relationships underlying a particular problem.
+steps:
+  - title: Assemble the team
+    text: Gather together people who are familiar with the detail of the problem. Assign a facilitator to keep the team focused.
+  - title: Write down the specific problem
+    text: Write the specific of the problem from the user’s perspective. Writing the issue helps you formalize the problem and describe it completely. It also helps a team focus on the same problem.
+  - title: Ask why
+    text: Ask Why the problem happens and write the answer down below the problem.
+  - title: Repeat asking why
+    text: If the answer you just provided does not identify the root cause of the initial problem that you wrote down in ask why again and write that answer down. Continue asking why until the team agrees that the problem’s root cause is identified. This may take fewer or more times than five whys.
+  - title: Take action
+    text: >
+      Problem statement: The application did not solve the user’s problem.<br><br>
+      1st why: The application did not solve the user’s problem because they couldn’t run reports.<br><br>
+      2nd why: They couldn’t run reports because a UI was never created for reports.<br><br>
+      3th why: The UI was never created for reports because the designer didn’t know it was needed.<br><br>
+      4th why: The designer didn’t know it was needed because there weren’t any user interviews.<br><br>
+      5th why: There weren’t any user interviews because the product owner did not provide a list of users.<br><br>
+      Solution: The product manager will remind the product owner to provide a list of users to interview.
+    image:
+      filename: pb-5why-example.jpg
+      alt: 5 Whys Example
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: ...

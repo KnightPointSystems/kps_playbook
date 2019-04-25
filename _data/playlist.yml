@@ -1,0 +1,31 @@
+sidenav:
+  title: Playlist
+  children:
+    - title: Kickoff
+      children:
+        - title: Project Kickoff
+        - title: Strategic Objectives
+        - title: Business Goals
+        - title: Risks and Mitigations
+    - title: Problem
+      children:
+        - title: Discovery
+        - title: Problem Workshop
+    - title: Solution
+      children:
+        - title: Framing
+        - title: Inception
+        - title: Product Vision
+    - title: Lean Delivery
+      children:
+        - title: Lean Releases
+        - title: Build, Release, Run
+        - title: One Codebase
+        - title: Don't Repeat Yourself
+        - title: Integration/Deployment
+    - title: Resilient Ops
+      children:
+        - title: Technology Stack
+        - title: Infrastructue/Architecture
+        - title: Secure Platform
+        - title: Operational Resilience

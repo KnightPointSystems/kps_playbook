@@ -1,0 +1,7 @@
+hero:
+  title: Personas
+  text: Empathize and understand the needs of the user groups to better frame solutions.
+  image:
+    filename: pb-personas@2x.png
+    alt: ...
+description: Personas are a representation of a segment of your target users. They are commonly created by the product designers. In particular, personas help the product team design a product that meets the specific needs and expectations of the user groups.

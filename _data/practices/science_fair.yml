@@ -1,0 +1,28 @@
+hero:
+  title: Science Fair
+  text: Showcase to our customer what we learned during Discovery phase.
+  image:
+    filename: pb-sciencefair@2x.png
+    alt: ...
+description: We conduct a science fair to present our findings to the business and demonstrate our domain expertise. One of the main goals of the science fair is to teach and promote our user-centered practices while providing a view into the Discovery process.
+steps:
+  - title: Determine subject areas
+    text: "Define 3-5 subject areas (stations) to focus on. Include at least one area of each: product management, design, and engineering. Additional stations could explore practices like user interviewing, pair programming, or test-driven development."
+  - title: Invite participants
+    text: Invite members of the product owner team, product stakeholders, and OIT stakeholders. In addition, invite the DID(it) team and anyone else that may benefit from this knowledge sharing.
+  - title: Confirm expectations
+    text: Confirm expectations ahead of time with product owner team. Send list of subject areas and ensure attendees understand intentions and proposed flow of the fair.
+  - title: Plan the station material
+    text: Assign product team members to each station. Make the content interactive so the participants engage with the material being presented. Create visual elements like sticky notes from synthesis or low fidelity prototypes. Use a large room to force people to move around.
+  - title: Practice for the Fair
+    text: Perform a dry-run prior to the fair. Print and set up all necessary items in advance. Ensure all needed technology works. Post signs as needed.
+  - title: Product team leads the fair
+    text: >
+      Assign a greeter to direct attendees to the stations.<br><br>
+      Break the participants into small groups to match the number of stations. Assign each group to one station at the start. Allow each group to spend 15-20 minutes at each station, with at least 5 minutes to review the content. Rotate the groups to the next station and repeat.<br><br>
+      Share the most important lessons from Discovery, but keep it short. Create a space for discussion and questions.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...

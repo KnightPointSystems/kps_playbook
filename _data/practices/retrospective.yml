@@ -1,0 +1,20 @@
+hero:
+  title: Retrospective
+  text: Engage in an ongoing effort to improve the performance of the product team.
+  image:
+    filename: pb-retrospective@2x.png
+    alt: ...
+description: A retrospective is a great way to reflect on the performance of the team and see how they can become better.
+steps:
+  - title: Meet with the product team
+    text: As the product manager, set up regular scheduled meetings with the product team to review their progress based on the last retrospective.
+  - title: Set the stage
+    text: Remind the team what was discussed and decided during their last retrospective to give members of the product team a chance to answer, “Did it work?” and to voice any concerns.
+  - title: Gather feedback
+    text: "Within a time box (5-10 minutes), invite the product team to add their feedback to the retrospective board. The team focuses on three main points, such as: what went well, what did not go well and what is on their minds."
+  - title: Review each item
+    text: After time is up, invite the team to discuss each item on the board. Celebrate the wins and talks about what may have changed or caused a problem.
+  - title: Prioritize action items
+    text: Place each item that has an action in the action lane. The product team will take a vote to decide which action items would add the most value to the team and act on them in the next iteration.
+  - title: Tie a bow on the retrospective
+    text: Once the product team agrees on what to take action on, summarize the action items and thank the team for their honesty and end the meeting on a positive note.
