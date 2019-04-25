@@ -1,0 +1,25 @@
+hero:
+  title: Product Designer
+  text: Product design puts the user at the center of the design resulting in meaningful and relevant experiences to users.
+  image:
+    filename: pb-playerpd@2x.png
+    alt: ...
+summary: The product designer role focuses on helping people find solutions to their problems and motivating interaction with the product. In order to gain confidence of the users, designers first focus on making the design efficient for people instead of the computer. The entire design process is iterative and requires continuous changes and refinements based on feedback from the customer and the product team.
+responsibilities:
+  - title: Empathize with people
+    text: As a product designer, place yourself in the shoes of the user to create designs that will delight the users and improve user experience. Through contextual research, you can observe users in their natural environment, giving you a better understanding of the way users work.
+  - title: Define the problem
+    text: In collaboration with the product manager, conduct user interviews to gather detailed information about the users, their problems and their needs. Once your research is complete, synthesize the information you gather into insights and actions.
+  - title: Design artifacts
+    text: Act on the information synthesized from the user research to establish a baseline for your design using personas, use cases, information architecture and journey maps. Develop personas to represent the needs, behaviors and goals of different user types. Understand the tasks the users are trying to accomplish by determining the use cases. Focus on organizing, structuring, and labeling content using information architecture techniques. Journey maps can help you visualize the process the person goes through in order to accomplish their goals.
+  - title: Team ideation
+    text: Lead group sketching sessions with the product team to consider design from all perspectives and seek a broad range of input for later synthesis.
+  - title: From wireframe to prototypes
+    text: Start your design with low-fidelity wireframes to define the outline and layout structure of the solution. As you progress in the design process, build mockups to experiment with visual hierarchy and interface elements. Once you understand the user interface, work in the visual aesthetics and usability of the product considering effects of color, shapes, typography and other visual elements. From this point, you can now move to design how the user will interact with the product and how the product response to user’s input. During the interactive design, you can use prototypes to simulate the user interaction to the product.
+  - title: Test your solution
+    text: Evaluate your solutions with the users of the product and measure the impact of your design. Through usability testing, you can learn how well users can achieve their goals successfully. Another method to test your solution is heuristic evaluation which compares your design against a list of established guidelines. Incorporate feedback from the user testing into changes to the product design.
+resources:
+  - description: How to take interview notes
+    filename: how-to-take-interview-notes.pdf
+  - description: 508 Heuristic Evaluation
+    filename: 508-heuristic-evaluation.pdf

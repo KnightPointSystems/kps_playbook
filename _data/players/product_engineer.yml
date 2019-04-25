@@ -1,0 +1,14 @@
+hero:
+  title: Product Engineer
+  text: The product engineer provides a strong technical voice to help shape and build the product.
+  image:
+    filename: pb-playerpe@2x.png
+    alt: ...
+summary: The product engineers are a creative group that finds ways to develop solutions using modern development technologies. This group involves everything from junior developers, senior developers, DevOps engineers, to operations engineers; but all have the same goals. To build great and stable products for our customers in a conscious and innovative way.
+responsibilities:
+  - title: Researches potential solutions to problems
+    text: As the technical expert, solve the problems posed by the users and the product owner. Perform technical research into a problem to identify the best way to solve it. Research can involve the code of an application, consulting with other developers, or searching for online resources.
+  - title: Writes and tests code
+    text: This includes building and maintaining tests, conducting manual and automated testing, and guaranteeing new code functions properly.
+  - title: Addressing technical debt
+    text: You are expected to spend 20% of your time addressing technical debt – areas where a product can be upgraded to improve its performance. Identify areas for working on technical debt and coordinates with the product manager to identify its priority.
