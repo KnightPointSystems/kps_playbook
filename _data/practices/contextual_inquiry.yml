@@ -1,0 +1,25 @@
+hero:
+  title: Contextual Inquiry
+  text: Gain knowledge about a person own work process within their natural environment.
+  image:
+    filename: pb-contextualinquiry@2x.png
+    alt: ...
+description: A contextual inquiry is an interview method in which you observe user’s interaction with an application or work process. This method does not typically follow any script or formal agenda but rather a semi-structured approach. As a result, you are able to gather realistic data given a realistic user environment and scenario.
+steps:
+  - title: Identify a group of users to interview
+    text: For a contextual inquiry, identify users who are already interacting with the application of interest or the work process you are trying to automate on a regular basis. Observe the users in an environment as close to their own as possible. Select users from various roles to provide perspective.
+  - title: Schedule the user interviews
+    text: User interviews can be scheduled via email introductions or through the product owner. When scheduling the meeting, aim to make it in person whenever possible. If a user cannot meet in person, use tools that will allow you to get the best possible observations of their actions and environment.
+  - title: Leading the contextual inquiry
+    text: The designer or product manager may lead the session by starting with a traditional interview. The goal initially is for you to gather information about the user’s task whilst establishing rapport. Made the user aware of the reasons for the interview as well as confidentiality. At this point a second team member can begin recording observations.
+  - title: Transition
+    text: Once the initial opening interview is completed, the observer then becomes the “apprentice” to the user who is now the “master”. Make the user aware of your intent to watch them work and learn how they do their job. Make the user aware that you may pause to ask them a question about their work.
+  - title: Observation
+    text: Observe the user while they work. As the apprentice, only focus on observing at this point and asking questions only as needed for clarifying a particular action. Actively observe and record the user’s actions in as much detail as possible.
+  - title: Summary and interview synthesis
+    text: Summarize what was recorded and learned during the user interview and observations. The designer or product manager will compile the notes gathered and a time will be scheduled for the team to conduct a User Interview Synthesis. This meeting will help summarize the notes recorded and identify the user’s problem areas.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...

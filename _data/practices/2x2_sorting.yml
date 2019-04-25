@@ -1,0 +1,32 @@
+hero:
+  title: 2x2 Sorting
+  text: Sort and prioritize work based on a matrix of effort and impact.
+  image:
+    filename: pb-2x2sort@2x.png
+    alt: ...
+description: 2x2 sorting helps a group team members or stakeholders identify what work they should prioritize. It drives the group to make decisions based on looking at work from both a lens of least to most effort and least to most impact. This will create four quadrants to help ideally prioritize work that is low effort and high impact.
+steps:
+  - title: Identify your bucket of work
+    text: Have the group (the development team, stakeholders or both) identify the different individual pieces of work that need to be developed. These can be individual pieces of functionality or changes to an existing system.
+  - title: Transcribe work on to sticky notes
+    text: One piece of work or focus per sticky.
+  - title: Create a 2x2 matrix
+    text: >
+      Create a 2x2 matrix on a white board or wall. Specify the x axis as “effort” setting the values from low to high. Specify the y axis as “impact” setting the values from low to high. The matrix should look like:<br><br>
+      Low effort and low impact (low left quadrant)<br><br>
+      High effort and low impact (low right quadrant)<br><br>
+      Low effort and high impact (top left quadrant)<br><br>
+      High effort and high impact (top right quadrant)
+  - title: Sort the sticky notes
+    text: Take each stickie and discuss it with the team. The team will then decide together which quadrant the stickie belongs in. This will be done until each stickie is sorted into a quadrant.
+  - title: Assign work
+    text: Once the work is sorted into quadrants, the product manager takes a picture of the board and reports back out to the group. The low effort and high impact quadrant work are set to the highest priority.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: ...

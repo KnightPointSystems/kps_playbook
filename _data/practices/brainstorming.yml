@@ -1,0 +1,30 @@
+hero:
+  title: Brainstorming
+  text: Solve problems based on stimulating the creative activity of team members.
+  image:
+    filename: pb-brainstorming@2x.png
+    alt: ...
+description: Brainstorming is all about having a diverse group of people spontaneously generating ideas to solve difficult problems.
+steps:
+  - title: Everyone participates
+    text: Everyone is of equal rank while in the session. Keep the environment casual and open, so that each participant feels comfortable contributing any idea.
+  - title: Define the problem
+    text: Frame your problem as “how might we” to open up to new possibilities.
+  - title: Generate many ideas
+    text: Start with a clean slate. Go wide with solutions. Brainstorming sessions value quantity over quality. Don’t worry about feasibility. Make good use of all the ideas. You can even build on other ideas by using “and” not “but”.
+  - title: Focus on the problem not the people
+    text: Encourage participants to defer judgment. Deal with issues, not personalities. Stay positive during the session.
+  - title: Execute on the ideas
+    text: Remember to take notes during the session. Once you reach consensus or decision, create a list of action items.
+resources:
+  - description: "Brainstorming in IT Teams: Must-Have or Time Wasting?"
+    url: https://dzone.com/articles/brainstorming-in-it-teams-must-have-or-time-wastin
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: ...

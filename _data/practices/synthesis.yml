@@ -1,0 +1,21 @@
+hero:
+  title: User Interview Synthesis
+  text: Make sense of the information that was learned during user interviews.
+  image:
+    filename: pb-synthesis@2x.png
+    alt: ...
+description: User interview synthesis allows the team to review feedback and find trends of topics that users are most interested in discussion. These trends help inform prioritization of work for the team.
+steps:
+  - title: Organize notes from user interviews
+    text: After about 4 -6 user interviews are conducted, review each note and group notes about a similar topic together.
+  - title: Get rid of the noise
+    text: Delete notes that do not have groupings. If a user only mentioned something in passing, then it is not important for us to spend time on it. If it is important, then we’ll hear it mentioned again during future interviews.
+  - title: Review the groupings
+    text: Examine trends in groupings and create insights. Insights involve thinking about how the team's knowledge can help evaluate or analyze the trends.
+  - title: Create action items
+    text: Determine what the team can do to help users for the groupings of topics that are important to them. This may include product manager action items to learn more about the topic, design action items to determine a usability flow, or technical action item to evaluate app performance issues.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: ...

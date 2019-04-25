@@ -1,5 +1,5 @@
 ---
-layout: v2_default
+layout: v2/default
 title: Welcome to the DID(it) Playbook
 ---
 <div class="container mt-5">

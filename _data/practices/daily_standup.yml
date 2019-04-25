@@ -1,0 +1,22 @@
+hero:
+  title: Daily Standup
+  text: Create a collaborative and transparent environment where members of the product team can provide relevant updates on their commitments to the team.
+  image:
+    filename: pb-daily-stand-up@2x.png
+    alt: ...
+description: The daily stand up meetings are used to track the progress of ongoing work. They help the members of the product team stay informed, collaborate, hold each other accountable, and uncover risks and roadblocks early on so that solutions can be found quickly.
+steps:
+  - title: Make connecting quick and easy
+    text: Whether your team is in person, remote or both, it’s the Product Manager’s responsibility to ensure everyone on the team is added to the meeting invite and has access to the recommended video conferencing solution and conference information. The video camera should also be used when teams are remote to enhance team collaboration.
+  - title: Spend 15 minutes reporting to each other
+    text: Every day at the same time and place, the product team will stand up, even if they are remote to keep the meeting short and interactive.
+  - title: Focus on the three main points
+    text: Each team member summarizes what they completed since the last standup, what they will complete that day, and what impediments they have faced that would prevent them from completing their work.
+  - title: Use the Kanban board
+    text: As each member references their assigned stories in the Kanban board using the title, epic or business function, the product manager can track their progress.
+  - title: Detailed discussions
+    text: All detailed discussions are held until after the standup is completed and only those team members involved can participate.
+  - title: Regular meeting
+    text: The daily stand up is rarely cancelled, if ever. It is critical to maintaining the strength, support, and pace of the team. If the product manager cannot attend, it is their responsibility to assign the role to someone else on the team.
+  - title: Special attendees
+    text: Depending on the team and effort you are working on, there may be times when the OIT stakeholders will be in attendance, therefore always be professional.

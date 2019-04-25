@@ -1,0 +1,124 @@
+---
+layout: v2/default
+---
+<div class="container mt-5">
+  <!-- .row -->
+  <div class="row">
+    {% assign practice = page.url | split: '/' | last | split: '.' | first %}
+    {% include v2/sidenav.html menu=site.data.practices.sidenav %}
+    <!-- .main -->
+    <main role="main" class="col-md-9">
+      <!-- hero -->
+      <div class="jumbotron custom-primary-base mb-5">
+          <div class="media">
+              <img class="align-self-center custom-md-img mr-5" src="{{ site.baseurl }}/assets/img/v2/icons/{{ site.data.practices[practice].hero.image.filename }}" alt="{{ site.data.practices[practice].hero.image.alt }}">
+              <div class="media-body">
+                  <h1>{{ site.data.practices[practice].hero.title }}</h1>
+                  <p class="lead">{{ site.data.practices[practice].hero.text }}</p>
+              </div>
+          </div>
+      </div>
+      <!-- /.hero -->
+      <!-- .steps -->
+      <section class="mb-5">
+        <div class="mb-4">
+          <p>{{ site.data.practices[practice].description }}</p>
+        </div>
+        <h2 class="mb-4">Steps</h2>
+        <div class="form-check mb-3">
+          {% for item in site.data.practices[practice].steps %}
+            <div class="custom-control custom-checkbox">
+              <input class="custom-control-input" type="checkbox" unchecked>
+              <label class="custom-control-label">
+                <b>{{ item.title }}</b>
+                <p>{{ item.text }}</p>
+                {% if item.image %}
+                  <img class="align-self-center custom-lg-img mr-5" src="{{ site.baseurl }}/assets/img/v2/icons/{{ item.image.filename }}" alt="{{ item.image.alt }}">
+                {% endif %}
+              </label>
+            </div>
+          {% endfor %}
+        </div>
+      </section>
+      <!-- /.steps -->
+      <!-- .banner -->
+      {% if site.data.practices[practice].banner %}
+      <section class="mb-5">
+        <div class="custom-primary-lightest pt-3">
+          <div class="media pl-5">
+            <img class="custom-lg-img mr-5" src="{{ site.baseurl }}/assets/img/v2/icons/{{ site.data.practices[practice].banner.image.filename }}" alt="{{ site.data.practices[practice].banner.image.alt }}">
+            <div class="media-body pt-5">
+              <h5 class="mb-3">Download the {{ site.data.practices[practice].banner.title }}</h5>
+              <a href="{{ site.baseurl }}/v2/docs/{{ site.data.practices[practice].banner.filename }}" class="btn btn-primary" role="button" target="_blank">
+                Download
+                <span class="sr-only">the {{ site.data.practices[practice].banner.title }}</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      {% endif %}
+      <!-- /.banner -->
+      <!-- .resources -->
+      <section class="mb-5">
+        <h2 class="mb-4">Resources</h2>
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">Description</th>
+                <th scope="col">Link</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% if site.data.practices[practice].resources %}
+                {% for item in site.data.practices[practice].resources %}
+                  <tr>
+                    <td scope="row">{{ item.description }}</td>
+                    <td>
+                      {% if item.url %}
+                        <a href="{{ item.url }}" target="_blank">
+                      {% else %}
+                        <a href="{{ site.baseurl }}/v2/docs/{{ item.filename }}" target="_blank">
+                      {% endif %}
+                          Open <span class="sr-only">{{ item.description }}</span>
+                        </a>
+                    </td>
+                  </tr>
+                {% endfor %}
+              {% else %}
+                <tr>
+                    <td scope="row">...</td>
+                    <td>...</td>
+                </tr>
+              {% endif %}
+            </tbody>
+          </table>
+        </div>
+      </section>
+      <!-- /.resources -->
+      <!-- .tiles -->
+      {% if site.data.practices[practice].related %}
+      <section class="mb-5">
+        <h2 class="mb-4">Related</h2>
+        <div class="row">
+          {% for item in site.data.practices[practice].related %}
+            <div class="col-md-3 mb-4">
+              <div class="card">
+                <img class="card-img-top" src="{{ site.baseurl }}/assets/img/v2/icons/{{ item.image.filename }}" alt="{{ item.image.alt }}">
+                <div class="card-body">
+                  <h5 class="card-title text-center">{{ item.title }}</h5>
+                </div>
+                <a class="card-footer text-center" href="{{ site.baseurl }}/v2/plays/{% include v2/to_url.html title=item.title %}">Read more <span class="sr-only">about {{ item.title }}</span></a>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+      <!-- /.tiles -->
+    </main>
+    <!-- /.main -->
+  </div>
+  <!-- /.row -->
+</div>
