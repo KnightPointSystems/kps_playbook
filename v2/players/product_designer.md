@@ -1,4 +1,4 @@
 ---
 layout: v2/players
-title: Players - Product Manager
+title: Players - Product Designer
 ---
