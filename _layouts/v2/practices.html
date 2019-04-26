@@ -5,7 +5,7 @@ layout: v2/default
   <!-- .row -->
   <div class="row">
     {% assign practice = page.url | split: '/' | last | split: '.' | first %}
-    {% include v2/sidenav.html menu=site.data.practices.sidenav %}
+    {% include v2/sidenav.html %}
     <!-- .main -->
     <main role="main" class="col-md-9">
       <!-- hero -->
