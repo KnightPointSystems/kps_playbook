@@ -1,0 +1,25 @@
+hero:
+  title: Storyboarding
+  text: Helps you visually identify opportunities and challenges in your user experience.
+  image:
+    filename: pb-storyboard@2x.png
+    alt: icon
+description: Storyboarding is a visual walkthrough of the experience of the user from start until completion of a specific task. It ensures the features are relevant to the users, and they can accomplish what they want from the solution.
+steps:
+  - title: Deconstruct the story into building blocks
+    text: Each story has a person involved in the story (character); a place where and event takes place (setting); a specific goal the person wants to accomplish (plot); and challenges around which the story is based (conflict).
+  - title: List the sequence of events
+    text: On a whiteboard, write each step a user would take from the first touchpoint with the application to the completion of a specific task. Arrange the list in a logical order.
+  - title: Transform each event into a sequence of drawing
+    text: Each illustration represents a shot and follows the storyline.
+  - title: Analyze the workflow
+    text: Identify any holes or problem areas that would prevent the users from accomplishing what they want.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: icon
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon

@@ -1,0 +1,21 @@
+hero:
+  title: Dump and Sort
+  text: Collect and evaluate all the information from the user interviews.
+  image:
+    filename: pb-dumpsort@2x.png
+    alt: icon
+description: Dump and sort is a method to take all of the individual findings (quotes, notes, etc.) from user interviews and download them into a single space to pair across similar themes. The goal is to get insight or context of the interviews.
+steps:
+  - title: Dump
+    text: Collect all the materials from the user interviews you’ve conducted. This can be done using Leankit cards or sticky notes. Ensure all the information collected is in a single space.
+  - title: Sort
+    text: As a group, discuss and evaluate each Leankit card or sticky note. Take each idea and group them in common categories.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: icon
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon

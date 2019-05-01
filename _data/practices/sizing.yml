@@ -1,0 +1,22 @@
+hero:
+  title: Sizing
+  text: Estimate the relative complexity and risk of a user story.
+  image:
+    filename: pb-sizing@2x.png
+    alt: icon
+description: Sizing is a team conversation about the highest priority and highest value backlog stories to ensure they are well defined and have clear acceptance criteria. The product team focuses on adequately understand the purpose and background of each story and assign a size so it can be worked in the near future. Sizing is not equal to time; it is a relative measure of complexity and risk. The product manager primes the team for upcoming work and enables team velocity tracking by facilitating the sizing discussion with the product team.
+steps:
+  - title: Groom the backlog
+    text: As a product team, ensure the stories are written clearly, acceptance criteria is well defined, and highest priority stories are at the top of the backlog.
+  - title: Agree on a sizing method and baseline
+    text: Define a sizing method to rate the relative of work. For example, you can use story points in a Fibonacci-like format such as 1, 2, 3, 5, 8, 13, and so on. Or, you can use t-shirt sizing such as XS, S, M, L, XL, XXL.
+  - title: Set a baseline
+    text: As an example, for story points, a “1” can be a simple task such as adding one field to one screen with validation and transaction logic. In the case of t-shirt sizing, each larger “size” can be roughly 2x the effort of the previous size.
+  - title: Discuss each user story in order of priority from the Kanban board
+    text: Start from the top of the backlog. Discuss the story to make sure the product team understands what the story involves and what the acceptance criteria means.
+  - title: Vote on the size of the story
+    text: Agree on the relative amount of work required to successfully implement that story. If the sizes are a consensus, give the story that size on the Kanban board. If there are differences in sizes, team members discuss their viewpoint then re-vote until they agree on size. If the team cannot reach consensus within a short amount of time, table the story for further elaboration.
+  - title: Clarify unclear stories
+    text: Identify and deliberate on stories that are not well defined enough to be worked.
+  - title: Breakdown complex stories
+    text: The product team reevaluates stories sized larger than 8 points (XL) and tries to make them smaller. Make sure the story is small enough to be worked on.

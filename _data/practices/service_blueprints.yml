@@ -1,0 +1,23 @@
+hero:
+  title: Service Blueprint
+  text: Having a guiding document that informs what the future state is – not just of a particular piece of software – but of an entire process.
+  image:
+    filename: pb-serviceblueprint@2x.png
+    alt: icon
+description: A Service Blueprint is a document that shows the potential future state for a given process or service. The document is a useful tool to demonstrate a process from start to finish while also taking into account all the different supporting processes, what actions a customer may take and activities taking place. Service Blueprints are typically worked on jointly between the development team and stakeholders. The blueprint can be a useful tool for identifying whether there are opportunities to improve a process or modify it.
+steps:
+  - title: Identify the activities of the process
+    text: First, identify the activities that make up the process, including the customer actions, front stage contact (visible), back stage contact (invisible), and support activities. Gathering information on these activities can come from meeting with users and other stakeholders who may play a role in that process.
+  - title: Layout the blueprint
+    text: The blueprint can be a constructed in a linear way – noting each step of the process. Start by arranging the different activities to make the blueprint. Identify each action in the process. Ensure you connect the lines of interaction, either between customer and service provider or customer and software for example. Time for each activity needs to be captured in its own lane.
+  - title: Validate blueprint with stakeholders
+    text: After the blueprint is assembled, it should be validated with relevant stakeholders. By bringing in stakeholders, the blueprint can not only be confirmed but be used as a tool to promote cohesion over vision and process understanding. With validation comes the opportunity to identify potential changes and to use the blueprint as a guide to impacting changes throughout an entire process.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: icon
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon

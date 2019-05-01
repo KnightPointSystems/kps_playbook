@@ -5,3 +5,14 @@ hero:
     filename: pb-personas@2x.png
     alt: ...
 description: Personas are a representation of a segment of your target users. They are commonly created by the product designers. In particular, personas help the product team design a product that meets the specific needs and expectations of the user groups.
+steps:
+  - title: User segmentation
+    text: After conducting user research, look for common themes between the users and classify them into groups based on a range of roles, needs, and patterns. Limit the number of user groups to 3-5.
+  - title: Describe your personas as real people
+    text: Represent each persona with an appropriate photograph, name, job title, demographics, motivations, and expectations.
+  - title: Make the personas relevant
+    text: You can use direct quotes from the users in your personas to sum up what matters most to them.
+  - title: Meet the needs of the users
+    text: Associate the needs of the persona with the specific goals, needs and tasks they want to accomplish.
+  - title: Put the persona to use
+    text: Refer to the persona frequently when developing user stories and designing functionality for your product. Keep the information of the persona relevant and consistent based on new user insights.
