@@ -1,0 +1,23 @@
+hero:
+  title: Atomic Design
+  text: Break down user interface design elements into basic building blocks.
+  image:
+    filename: pb-atomicdesign@2x.png
+    alt: ...
+description: Atomic design is a design system that achieves consistency in both design and development. Using this system allows for quick style updating and code re-use. Designers save elements as technology agnostic so they may be used by any application.
+steps:
+  - title: Define the basic elements
+    text: Identify each user interface element at the most elementary level. The elements include basic HTML elements like labels, text fields, or error messages. Focus on one element at a time.
+  - title: Assign names to all elements
+    text: Ensure the names are clearly describing the function of the element.
+  - title: Preface each atom name with .atom
+    text: For example, use .atom_form_label for an input field label and .atom_form_input_text for the input field itself.
+  - title: Group elements into molecules
+    text: Molecules are a set of user interface elements functioning together as a unit. Ensure each group is assigned a descriptive name.
+  - title: Preface each molecule name with .molecule
+    text: For example, use .molecule_form_text_input for a group of input related atomic elements.
+  - title: Create symbols
+    text: Create the elements as nested symbols in Sketch.
+resources:
+  - description: Atomic Design Methodology
+    url: http://atomicdesign.bradfrost.com/chapter-2/

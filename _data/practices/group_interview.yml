@@ -1,0 +1,27 @@
+hero:
+  title: Group Interview
+  text: Expand the scope of the conversation with group interviews.
+  image:
+    filename: pb-groupinterview@2x.png
+    alt: icon
+description: Group interviews are conducted with several individuals all at once. By interviewing multiple people at once, interviewers can get access to a more diverse set of viewpoints and hear everyone’s voice. Groups can be constructed in deliberate ways to capture insights from different demographics of users.
+steps:
+  - title: Identify the group you want to interview
+    text: Think through the type of users you want to hear from. Take into account the group’s make up Are they all of the same type of user or different types of users? Additionally, consider what you’re investigating. If it’s specific, form a group that you have the best opportunity to find more about what you’re looking for.
+  - title: Have the group meet
+    text: Find a space for the group to convene. The space needs to be on a neutral ground, such as a conference room, where all participants feel comfortable.
+  - title: Conduct the interview
+    text: Prior to the interview, designate one person to ask questions. Other team members will take notes and capture what the group is saying.
+  - title: Engaging with the interviewees 
+    text: As you’re conducting the interview, be sure mindful of the group dynamics. If some of the members of the group have been quiet, find ways to engage with them directly, such as by asking them questions or finding ways to quiet more active members of the group.
+  - title: Team compiles notes and schedules user interview synthesis
+    text: The designer or product manager will compile the team's notes and then schedule a time for the team to have a user interview synthesis meeting which will help determine the problems and summarize the needs of the users.
+related:
+  - title: Discovery
+    image:
+      filename: pb-discovery@2x.png
+      alt: icon
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon
