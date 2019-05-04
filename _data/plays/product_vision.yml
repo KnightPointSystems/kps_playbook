@@ -1,0 +1,25 @@
+hero:
+  title: Product Vision
+  text: Imagine what the product will become.
+  image:
+    filename: pb-productvision@2x.png
+    alt: ...
+description: In the product vision stage, you are combining all of the skills practiced in the discovery and framing to articulate a compelling vision for your product and build enthusiasm among the team, end users and stakeholders. You identify strategic objectives, define strategic goals, learn the user context, scope the solution, and map the steps to get there.
+steps:
+  - title: Gather all the skills from discovery and framing
+    text: >
+    The strategic objectives helped the team determine what you are trying to accomplish.
+    The business goals identified how the team will know you’ve accomplished your missions.
+    The business value metrics provided a way of measuring success.
+    The user interviews revealed the user problems and context.
+  - title: Scope the solution
+    text: >
+    Ask the team the following questions:
+    What do you think should be built?
+    What tasks will your product enable?
+    What features are required to accomplish those tasks?	
+    What features do you think would benefit the customer?
+    What will add value?
+    What will delight the customer?
+  - title: Share your vision and iterate
+    text: Ensure you can explain the vision in one sentence to the team. Mapping your solution will provide the product team and product stakeholders a path for achieving their strategic objectives and fulfilling their project goals.

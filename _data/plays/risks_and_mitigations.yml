@@ -1,0 +1,33 @@
+hero:
+  title: Risks and Mitigations
+  text: Establish project risks and explore options to avoid or mitigate those risks.
+  image:
+    filename: pb-riskmitigation@2x.png
+    alt: ...
+description: Defining risks and mitigations involves identifying risks at the start of a project, exploring options to avoid or mitigate those risks, and prioritizing risks based on likelihood and impact. In doing this, you discover potential factors which could contribute to the interruption of services in the areas of infrastructure and policy.
+steps:
+  - title: Dump and sort
+    text: Have participants write down individual risks. Include a mitigation for each risk. Learn more about <a href="../dump_and_sort">dump and sort</a>.
+  - title: Share risk-mitigation pairs with the group
+    text: Consider potential loss of value to the business and the policy constraints which might impact the risk-mitigation pair.
+  - title: Prioritize the risks-mitigation pairs 
+    text: Identify the risks that can be eliminated and then risks that can be mitigated. Use stack rank, 2x2, (impact vs likelihood), and dot voting to prioritize the risks-mitigation pairs. Learn more about <a href="../2x2_sorting">2x2 sorting</a>, <a href="../stack_rank">stack rank</a> and <a href="../dot_voting">dot voting</a>.
+  - title: Develop strategies to account for risks in future work
+    text: Track risks and discuss them during weekly client check-ins.
+related:
+  - title: Dump and Sort
+    image:
+      filename: pb-dumpsort@2x.png
+      alt: icon
+  - title: 2x2 Sorting
+    image:
+      filename: pb-2x2sort@2x.png
+      alt: icon
+  - title: Stack Rank
+    image:
+      filename: pb-stackrank@2x.png
+      alt: icon
+  - title: Dot Voting
+    image:
+      filename: pb-dotvoting@2x.png
+      alt: icon

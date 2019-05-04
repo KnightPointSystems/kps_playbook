@@ -1,0 +1,21 @@
+hero:
+  title: Prototyping
+  text: Build prototypes before building the final product.
+  image:
+    filename: pb-prototyping@2x.png
+    alt: icon
+description: A prototype is worth a thousand words. Sometimes it is hard to describe an abstract idea. Use prototypes to describe your concepts more effectively. A prototype is a working concept built to evaluate the visual and functional aspects of the intended design. It is generally used to refine a concept, gather early feedback, and iterate to make your product better.
+steps:
+  - title: Pick a tool that fits your needs
+    text: For designers, it can be a mixture of sketches, wireframes and mockups. For developers, focus on conceptualizing your idea using a simple framework.
+  - title: Transform a concept into reality
+    text: Give yourself permission to experiment. Ask yourself, “What if?”. Be creative and enjoy the process of building your concept.
+  - title: Evolve your concept
+    text: A prototype starts with the basic functions and proceeds with a higher-fidelity and fully-interactive concept that looks and feels like the real product.
+  - title: Test and refine your prototype
+    text: As you test your prototype, you will find issues and challenges in your design. After receiving feedback, iterate to improve the design and solve any problems.
+related:
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon

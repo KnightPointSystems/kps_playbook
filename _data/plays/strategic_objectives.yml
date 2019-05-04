@@ -1,0 +1,23 @@
+hero:
+  title: Strategic Objectives
+  text: Agree upon a single lens to guide product decisions.
+  image:
+    filename: pb-strategicobjectives@2x.png
+    alt: icon
+description: When you are defining strategic objectives, you have to learn the strategic vision of the business, understand the environment the business operates in, see where our projects fit, and define how we will prioritize features in the future. In doing this, you give the project stakeholders a voice and build trust with the business.
+steps:
+  - title: Dump and sort
+    text: Ask the product stakeholders: “Where We Are Going Tomorrow?”. Stakeholders write down what they would like to see their organization accomplish in the next quarter, year and 3 years. Note that these are not the project objectives. Learn more about <a href="../dump_and_sort">dump and sort</a>.
+  - title: Sort into affinity clusters
+    text: Label each cluster as Productivity, Efficiency, Quality Assurance, and Operational Effectiveness. Learn more about <a href="../affinity_clusters">affinity clusters</a>.
+  - title: Identify business objective
+    text: Define the single strategic objective that will guide the next stage of the project. Build consensus with the product owner team and product stakeholders around the most important business aims.
+related:
+  - title: Dump and Sort
+    image:
+      filename: pb-dumpsort@2x.png
+      alt: icon
+  - title: Affinity Clusters
+    image:
+      filename: pb-affinityclusters@2x.png
+      alt: icon

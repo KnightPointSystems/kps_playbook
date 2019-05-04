@@ -1,0 +1,35 @@
+hero:
+  title: Stack Ranking
+  text: Turn a group of problems or solutions into a single prioritized list.
+  image:
+    filename: pb-stackranking@2x.png
+    alt: icon
+description: Stack ranking is a simple method to solicit feedback from all parties about the relative priority of issues. Once the product team and product owners reach consensus, the team can focus on the most important problem to solve or the most valuable solution to implement.
+steps:
+  - title: Start with a group of synthesized problems or solutions
+    text: A good method is to first perform a 2x2 and then take all of the items from the upper right (most important) quadrant to stack rank. Learn more about <a href="../2x2_sorting">2x2 sorting</a>.
+  - title: Taking one issue at a time
+    text: Solicit feedback from the participants and audience. Examples could be the product engineers providing insight into technical complexity or product stakeholders providing information on organization strategic vision.
+  - title: Prioritize list of issues
+    text: The product designer and product owner team decide where to place each issue in a single line from most important on top to least important at bottom. The metric “important” can be replaced by other measurements such as valuable, time-sensitive, complex, etc.
+  - title: Items cannot be tied
+    text: This is relative ranking so each item must be above or below another.
+  - title: Execute tasks
+    text: Once a single ordered list is agreed upon, the product team add the items to the backlog for discovery or implementation.
+related:
+  - title: Strategic Objectives
+    image:
+      filename: pb-strategicobjectives@2x.png
+      alt: icon
+  - title: Risks and Mitigations
+    image:
+      filename: pb-risks@2x.png
+      alt: icon
+  - title: Problem Workshop
+    image:
+      filename: pb-problemworkshop@2x.png
+      alt: icon
+  - title: Inception
+    image:
+      filename: pb-inception@2x.png
+      alt: icon
