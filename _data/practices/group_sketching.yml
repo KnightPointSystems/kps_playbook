@@ -1,0 +1,19 @@
+hero:
+  title: Group Sketching
+  text: Create the building blocks for solution design.
+  image:
+    filename: pb-groupsketching@2x.png
+    alt: icon
+description: Either exploring new ideas of how to solve a problem or experimenting with how a solution looks like, group sketching is all about experimenting with visual concepts with the support of the team. This can from low-fidelity sketches using pen and paper and develop into high-fidelity concepts using design tools.
+steps:
+  - title: Identify the group you want to get feedback
+    text: As a product designer, assemble product team members with knowledge of the problem to be solved. Consider non-team members who can provide valuable outside insights.
+  - title: Start sketching
+    text: Participants sketch ideas about a problem, such as an application page, for a set amount of time (e.g. 5 minutes). At the end of the period, team members share their sketches with each other. Participants discuss what they like from the sketches.
+  - title: Reiterate
+    text: After a demonstration, the product designer begins another timed sketching session and repeats as many times as needed.
+related:
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon

@@ -1,0 +1,23 @@
+hero:
+  title: Assumptions Tracker
+  text: Validate your assumptions with users.
+  image:
+    filename: pb-assumptiontracker@2x.png
+    alt: icon
+description: When developing a product, we are able to collect lot of information from the users. While some of this information is verified, there is some information we assume and need to check for accuracy. In the assumptions tracker sessions, we use an interactive prototype to validate our assumptions. With the information you gather, the product team can create insights and actions to help the team design and refine the product.
+steps:
+  - title: Prepare for meeting with the users
+    text: Identify a group of users you would like to get feedback. Create a prototype or use part of the actual application to test assumptions. Learn more about prototyping.
+  - title: Track your assumptions
+    text: On a spreadsheet, log assumptions you have about the user or the product. Group the assumptions by category. For each assumption, you can define a confidence level representing how confident the team feels in the assumption. Add a comment section for each assumption so team member can enter notes.
+  - title: Create scenarios
+    text: A scenario is a task the user needs to complete that uses the features we’re testing.
+  - title: Test your assumptions
+    text: The test is facilitated by a single team member, typically the product manager or product designer. During the session, have at least 2 to 3 other team members fill out their individual trackers.
+  - title: Summarize insights and actions
+    text: The product manager will compile the team's notes and then discuss them with the rest of the team.
+related:
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon

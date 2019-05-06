@@ -1,0 +1,74 @@
+hero:
+  title: Business Value Metrics
+  text: Measure the value our service provides to the business.
+  image:
+    filename: pb-businessvaluemetrics@2x.png
+    alt: icon
+description: Business value metrics is a method to understand what the business is trying to accomplish and express it in business terms everyone can understand and measure. Our services are not about the technology, rather the value we provide to the business. Business value metrics are specific performance metrics used to track and assess the status of a specific business process.
+steps:
+  - title: What is being developed?
+    text: Define what is feasible within your product.
+  - title: What is the business value from this?
+    text: Start with the business objectives of the product. This provides context for the values used in the metrics and allows business stakeholders to better act on the information they are viewing.
+  - title: What are the best metrics we can use?
+    text: Measure value in terms of qualitative and quantitative performance metrics we can monitor. As a team, vote on the best metrics.
+  - title: How can we measure the metrics?
+    text: Consider how you are going to collect the data to measure the metrics.
+  - title: Example of business value metrics
+    text: >
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Strategic Objective</th>
+                <th scope="col">Measurement</th>
+                <th scope="col">How to measure</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row">Productivity</td>
+                <td>
+                    Rate of units completed <br><br>
+                    Units completed per user
+                </td>
+                <td>Legacy data</td>
+            </tr>
+            <tr>
+                <td scope="row">Efficiency</td>
+                <td>
+                    Time saved per unit <br><br>
+                    Cycle time
+                </td>
+                <td>Observation</td>
+            </tr>
+            <tr>
+                <td scope="row">Quality standards</td>
+                <td>
+                    Errors per unit <br><br>
+                    Quality referrals
+                </td>
+                <td>Legacy data</td>
+            </tr>
+            <tr>
+                <td scope="row">Operational effectiveness</td>
+                <td>
+                    Backlog reduction <br><br>
+                    Personnel morale
+                </td>
+                <td>Legacy data and observation</td>
+            </tr>
+        </tbody>
+    </table>
+related:
+  - title: Framing
+    image:
+      filename: pb-framing@2x.png
+      alt: icon
+  - title: Inception
+    image:
+      filename: pb-inception@2x.png
+      alt: icon
+  - title: Product Vision
+    image:
+      filename: pb-productvision@2x.png
+      alt: icon

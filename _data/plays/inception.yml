@@ -1,0 +1,31 @@
+hero:
+  title: Inception
+  text: Agree upon a solution.
+  image:
+    filename: pb-inception@2x.png
+    alt: ...
+description: Inception is the process in which we align the product team and the product owner team on what to build and where to start. During this process, you share lessons learned during framing, reiterate goal and anti-goals, revisit risks and mitigations and develop an estimated, prioritized feature backlog.
+steps:
+  - title: Present the results of the framing period
+    text: Start the presentation showing artifacts from brainstorming and sketching sessions. Then, display the interview notes and synthesis boards. Seeing the results of framing gives product owners and stakeholders deeper insight into the mind of the product users.
+  - title: Define epics and features
+    text: Present the team’s product vision, goals and anti-goals. You must demonstrate how the team is planning to meet the strategic goals and objectives of the project. Now, break the product vision down into epics and features. The team must agree upon business value metrics for measuring success. Lastly, identify risks to achieving strategic goals and mitigations for them.
+  - title: Determine technical complexity of epics and features
+    text: With the support of the product Engineers, analyze each feature and assign a size to each. Then, they assign a size of each epic and feature. With this information, the team can rank the epics and features based on complexity. Learn more about <a href="../sizing">sizing</a>.
+  - title: Prioritize epics and features
+    text: Plot epics and features on a 2x2 matrix. Specify axes as business value and technical complexity. Take the epics and features landing in the upper right quadrant and stack rank. Learn more about <a href="../2x2_sorting">2x2 sorting</a> and <a href="../stack_rank">stack rank</a>.
+  - title: Begin development with top ranked items
+    text: The most technically complex but highest value epics and features will de-risk the product vision most effectively.
+related:
+  - title: Sizing
+    image:
+      filename: pb-sizing@2x.png
+      alt: icon
+  - title: 2x2 Sorting
+    image:
+      filename: pb-2x2sort@2x.png
+      alt: icon
+  - title: Stack Rank
+    image:
+      filename: pb-stackrank@2x.png
+      alt: icon
