@@ -16,49 +16,49 @@ steps:
     text: Consider how you are going to collect the data to measure the metrics.
   - title: Example of business value metrics
     text: >
-    <table class="table">
-        <thead>
-            <tr>
-                <th scope="col">Strategic Objective</th>
-                <th scope="col">Measurement</th>
-                <th scope="col">How to measure</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td scope="row">Productivity</td>
-                <td>
-                    Rate of units completed <br><br>
-                    Units completed per user
-                </td>
-                <td>Legacy data</td>
-            </tr>
-            <tr>
-                <td scope="row">Efficiency</td>
-                <td>
-                    Time saved per unit <br><br>
-                    Cycle time
-                </td>
-                <td>Observation</td>
-            </tr>
-            <tr>
-                <td scope="row">Quality standards</td>
-                <td>
-                    Errors per unit <br><br>
-                    Quality referrals
-                </td>
-                <td>Legacy data</td>
-            </tr>
-            <tr>
-                <td scope="row">Operational effectiveness</td>
-                <td>
-                    Backlog reduction <br><br>
-                    Personnel morale
-                </td>
-                <td>Legacy data and observation</td>
-            </tr>
-        </tbody>
-    </table>
+      <table class="table">
+          <thead>
+              <tr>
+                  <th scope="col">Strategic Objective</th>
+                  <th scope="col">Measurement</th>
+                  <th scope="col">How to measure</th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td scope="row">Productivity</td>
+                  <td>
+                      Rate of units completed <br><br>
+                      Units completed per user
+                  </td>
+                  <td>Legacy data</td>
+              </tr>
+              <tr>
+                  <td scope="row">Efficiency</td>
+                  <td>
+                      Time saved per unit <br><br>
+                      Cycle time
+                  </td>
+                  <td>Observation</td>
+              </tr>
+              <tr>
+                  <td scope="row">Quality standards</td>
+                  <td>
+                      Errors per unit <br><br>
+                      Quality referrals
+                  </td>
+                  <td>Legacy data</td>
+              </tr>
+              <tr>
+                  <td scope="row">Operational effectiveness</td>
+                  <td>
+                      Backlog reduction <br><br>
+                      Personnel morale
+                  </td>
+                  <td>Legacy data and observation</td>
+              </tr>
+          </tbody>
+      </table>
 related:
   - title: Framing
     image:

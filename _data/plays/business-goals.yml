@@ -7,12 +7,13 @@ hero:
 description: Defining business goals involves learning the core goals for the project, tying those business goals with the strategic objective, and understanding how our stakeholders define success. In doing this, you develop an understanding of how you can best deliver value to the business and you define what each party involves hopes to achieve.
 steps:
   - title: Dump and sort
-    text: Ask the product stakeholders: “What does success look like for this project?” or “How will we know we have accomplished our strategic objective?”. Learn more about <a href="../dump_and_sort">dump and sort</a>.
+    text: >
+      Ask the product stakeholders: “What does success look like for this project?” or “How will we know we have accomplished our strategic objective?”. Learn more about <a href="../dump_and_sort">dump and sort</a>.
   - title: Sort into affinity clusters
     text: Label each cluster by a common goal area. Learn more about <a href="../affinity_clusters">affinity clusters</a>.
   - title: Prioritize each cluster
-  <a href="../dump_and_sort">dump and sort</a>.
-    text: You can use one of the following axes: business value vs user value, business value vs feasibility, strategic value vs operational value. Learn more about <a href="../2x2_sorting">2x2 sorting</a>.
+    text: >
+      You can use one of the following axes: business value vs user value, business value vs feasibility, strategic value vs operational value. Learn more about <a href="../2x2_sorting">2x2 sorting</a>.
   - title: Stack Rank (alternative activity)
     text: Create a single rank order list of the goal clusters. Learn more about <a href="../stack_rank">stack rank</a>.
 related:
