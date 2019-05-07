@@ -3,7 +3,7 @@ brand:
   url: index
 left_nav:
   - title: Players
-  - title: Playlist
+  - title: Plays
   - title: Practices
 right_nav:
   - title: About DID(it)
