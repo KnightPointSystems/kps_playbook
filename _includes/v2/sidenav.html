@@ -3,6 +3,7 @@
   {% assign url_parts_size = url_parts | size %}
   {% assign rm = url_parts | last | append: '/' %}
   {% assign base_url = page.url | replace: rm %}
+  {% assign current_page = url_parts | last %}
   {% if base_url == '/v2/' %}
     {% assign base_url = base_url | append: rm %}
   {% endif %}
@@ -23,8 +24,8 @@
               {% assign node_url_parts = node.url | split: '/' %}
               {% assign node_url_parts_size = node_url_parts | size %}
               {% assign filename = node_url_parts | last %}
-              {% if url_parts_size <= node_url_parts_size and filename != 'index.html' and filename != 'players' and filename != 'practices' and filename != 'playlist' %}
-                <li><a href='{{ site.baseurl }}{{node.url}}'>{{ node.title | split: ' - ' | last }}</a></li>
+              {% if url_parts_size <= node_url_parts_size and filename != 'index.html' and filename != 'players' and filename != 'practices' and filename != 'plays' %}
+                <li><a href='{{ site.baseurl }}{{node.url}}' class="{% if current_page == filename %}custom-current{% endif %}">{{ node.title | split: ' - ' | last }}</a></li>
               {% endif %}
             {% endif %}
           {% endfor %}
