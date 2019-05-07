@@ -41,6 +41,7 @@ layout: v2/default
       </section>
       <!-- /.steps -->
       <!-- .resources -->
+      {% if site.data.players[player].resources %}
       <section class="mb-5">
         <h2 class="mb-4">Resources</h2>
         <div class="table-responsive">
@@ -52,27 +53,21 @@ layout: v2/default
               </tr>
             </thead>
             <tbody>
-              {% if site.data.players[player].resources %}
-                {% for item in site.data.players[player].resources %}
-                  <tr>
-                    <td scope="row">{{ item.description }}</td>
-                    <td>
-                      <a href="{{ site.baseurl }}/docs/{{ item.filename }}" target="_blank">
-                        Open <span class="sr-only">{{ item.description }}</span>
-                      </a>
-                    </td>
-                  </tr>
-                {% endfor %}
-              {% else %}
+              {% for item in site.data.players[player].resources %}
                 <tr>
-                    <td scope="row">...</td>
-                    <td>...</td>
+                  <td scope="row">{{ item.description }}</td>
+                  <td>
+                    <a href="{{ site.baseurl }}/docs/{{ item.filename }}" target="_blank">
+                      Open <span class="sr-only">{{ item.description }}</span>
+                    </a>
+                  </td>
                 </tr>
-              {% endif %}
+              {% endfor %}
             </tbody>
           </table>
         </div>
       </section>
+      {% endif %}
       <!-- /.resources -->
     </main>
     <!-- /.main -->

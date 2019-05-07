@@ -1,4 +1,4 @@
 ---
-layout: v2/practices
+layout: v2/plays
 title: Plays - Discovery
 ---
