@@ -22,7 +22,4 @@ steps:
       Break the participants into small groups to match the number of stations. Assign each group to one station at the start. Allow each group to spend 15-20 minutes at each station, with at least 5 minutes to review the content. Rotate the groups to the next station and repeat.<br><br>
       Share the most important lessons from Discovery, but keep it short. Create a space for discussion and questions.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
+  - Discovery

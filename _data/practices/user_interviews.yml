@@ -26,7 +26,4 @@ resources:
   - description: User interview infographic
     filename: pb-userinterview-infographic@2x.pdf
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
+  - Discovery

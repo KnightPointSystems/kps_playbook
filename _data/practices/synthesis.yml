@@ -15,7 +15,4 @@ steps:
   - title: Create action items
     text: Determine what the team can do to help users for the groupings of topics that are important to them. This may include product manager action items to learn more about the topic, design action items to determine a usability flow, or technical action item to evaluate app performance issues.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
+  - Discovery

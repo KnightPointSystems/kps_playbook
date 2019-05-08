@@ -11,11 +11,5 @@ steps:
   - title: Sort
     text: As a group, discuss and evaluate each Leankit card or sticky note. Take each idea and group them in common categories.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: icon
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: icon
+  - Discovery
+  - Framing

@@ -21,11 +21,5 @@ steps:
   - title: Make the map engaging and actionable
     text: Leverage visual designers who have experience in data visualization.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: ...
+  - Discovery
+  - Framing

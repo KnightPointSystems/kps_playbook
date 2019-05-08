@@ -5,19 +5,7 @@ hero:
     filename: pb-players@2x.png
     alt: ...
 roles:
-  - name: Product Manager
-    image:
-      filename: pb-playerpm@2x.png
-      alt: ...
-  - name: Product Designer
-    image:
-      filename: pb-playerpd@2x.png
-      alt: ...
-  - name: Product Engineer
-    image:
-      filename: pb-playerpe@2x.png
-      alt: ...
-  - name: Product Owner
-    image:
-      filename: pb-playerpo@2x.png
-      alt: ...
+  - Product Designer
+  - Product Engineer
+  - Product Manager
+  - Product Owner

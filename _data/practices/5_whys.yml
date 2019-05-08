@@ -27,11 +27,5 @@ steps:
       filename: pb-5why-example.jpg
       alt: 5 Whys Example
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: ...
+  - Discovery
+  - Framing

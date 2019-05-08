@@ -19,7 +19,4 @@ steps:
   - title: Summary and interview synthesis
     text: Summarize what was recorded and learned during the user interview and observations. The designer or product manager will compile the notes gathered and a time will be scheduled for the team to conduct a User Interview Synthesis. This meeting will help summarize the notes recorded and identify the user’s problem areas.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
+  - Discovery

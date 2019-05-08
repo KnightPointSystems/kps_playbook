@@ -15,19 +15,7 @@ steps:
   - title: Develop strategies to account for risks in future work
     text: Track risks and discuss them during weekly client check-ins.
 related:
-  - title: Dump and Sort
-    image:
-      filename: pb-dumpsort@2x.png
-      alt: icon
-  - title: 2x2 Sorting
-    image:
-      filename: pb-2x2sort@2x.png
-      alt: icon
-  - title: Stack Rank
-    image:
-      filename: pb-stackranking@2x.png
-      alt: icon
-  - title: Dot Voting
-    image:
-      filename: pb-dotvoting@2x.png
-      alt: icon
+  - Dump and Sort
+  - 2x2 Sorting
+  - Stack Ranking
+  - Dot Voting

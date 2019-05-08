@@ -13,7 +13,4 @@ steps:
   - title: Reiterate
     text: After a demonstration, the product designer begins another timed sketching session and repeats as many times as needed.
 related:
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: icon
+  - Framing

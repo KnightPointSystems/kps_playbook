@@ -1,0 +1,139 @@
+product_manager:
+  title: Product Manager
+  root: players
+  image:
+    filename: pb-playerpm@2x.png
+product_designer:
+  title: Product Designer
+  root: players
+  image:
+    filename: pb-playerpd@2x.png
+product_engineer:
+  title: Product Engineer
+  root: players
+  image:
+    filename: pb-playerpe@2x.png
+product_owner:
+  title: Product Owner
+  root: players
+  image:
+    filename: pb-playerpo@2x.png
+dump_and_sort:
+  title: Dump and Sort
+  root: practices
+  image:
+    filename: pb-dumpsort@2x.png
+2x2_sorting:
+  title: 2x2 Sorting
+  root: practices
+  image:
+    filename: pb-2x2sort@2x.png
+stack_ranking:
+  title:  Stack Ranking
+  root: practices
+  image:
+    filename: pb-stackranking@2x.png
+dot_voting:
+  title: Dot Voting
+  root: practices
+  image:
+    filename: pb-dotvoting@2x.png
+popcorn_scripting:
+  title: Popcorn Scripting
+  root: practices
+  image:
+    filename: pb-popcornscipt@2x.png
+    alt: icon
+user_interviews:
+  title: User Interviews
+  root: practices
+  image:
+    filename: pb-userinterview@2x.png
+    alt: icon
+synthesis:
+  title: Synthesis
+  root: practices
+  image:
+    filename: pb-synthesis@2x.png
+    alt: icon
+sizing:
+  title: Sizing
+  root: practices
+  image:
+    filename: pb-sizing@2x.png
+    alt: icon
+5_whys:
+  title: 5 Whys
+  root: practices
+  image:
+    filename: pb-5whys@2x.png
+    alt: icon
+brainstorming:
+  title: Brainstorming
+  root: practices
+  image:
+    filename: pb-brainstorming@2x.png
+    alt: icon
+group_sketching:
+  title: Group Sketching
+  root: practices
+  image:
+    filename: pb-groupsketching@2x.png
+    alt: icon
+prototyping:
+  title: Prototyping
+  root: practices
+  image:
+    filename: pb-prototyping@2x.png
+    alt: icon
+business_value_metrics:
+  title: Business Value Metrics
+  root: practices
+  image:
+    filename: pb-businessvaluemetrics@2x.png
+    alt: icon
+discovery:
+  title: Discovery
+  root: plays
+  image:
+    filename: pb-discovery@2x.png
+framing:
+  title: Framing
+  root: plays
+  image:
+    filename: pb-framing@2x.png
+inception:
+  title: Inception
+  root: plays
+  image:
+    filename: pb-inception@2x.png
+    alt: icon
+product_vision:
+  title: Product Vision
+  root: plays
+  image:
+    filename: pb-productvision@2x.png
+    alt: icon
+risks_and_mitigations:
+  title: Risks and Mitigations
+  root: plays
+  image:
+    filename: pb-risks@2x.png
+    alt: icon
+strategic_objectives:
+  title: Strategic Objectives
+  root: plays
+  image:
+    filename: pb-strategicobjectives@2x.png
+    alt: icon
+problem_workshop:
+  title: Problem Workshop
+  root: plays
+  image:
+    filename: pb-problemworkshop@2x.png
+    alt: icon
+lean_releases:
+  title: Lean Releases
+  root: plays
+  image:
+    filename: pb-discovery@2x.png

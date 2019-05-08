@@ -60,15 +60,6 @@ steps:
           </tbody>
       </table>
 related:
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: icon
-  - title: Inception
-    image:
-      filename: pb-inception@2x.png
-      alt: icon
-  - title: Product Vision
-    image:
-      filename: pb-productvision@2x.png
-      alt: icon
+  - Framing
+  - Inception
+  - Product Vision
