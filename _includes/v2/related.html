@@ -1,0 +1,18 @@
+<section class="mb-5">
+  {% unless include.hide_header %}
+    <h2 class="mb-4">Related</h2>
+  {% endunless %}
+  <div class="row">
+    {% for item in include.related %}
+      <div class="col-md-3 mb-4">
+        <div class="card">
+          <img class="card-img-top" src="{{ site.baseurl }}/assets/img/v2/icons/{{ item.image.filename }}" alt="{{ item.image.alt }}">
+          <div class="card-body">
+            <h5 class="card-title text-center">{{ item.title }}</h5>
+          </div>
+          <a class="card-footer text-center" href="{{ site.baseurl }}/v2/plays/{% include v2/to_url.html title=item.title %}">Read more <span class="sr-only">about {{ item.title }}</span></a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>

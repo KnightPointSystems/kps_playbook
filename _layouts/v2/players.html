@@ -9,15 +9,8 @@ layout: v2/default
     <!-- .main -->
     <main role="main" class="col-md-9">
       <!-- hero -->
-      <div class="jumbotron custom-primary-base mb-5">
-        <div class="media">
-          <img class="align-self-center custom-md-img mr-5" src="{{ site.baseurl }}/assets/img/v2/icons/{{ site.data.players[player].hero.image.filename }}" alt="{{ site.data.players[player].image.alt }}">
-          <div class="media-body">
-            <h1>{{ site.data.players[player].hero.title }}</h1>
-            <p class="lead">{{ site.data.players[player].hero.text }}</p>
-          </div>
-        </div>
-      </div>
+      {% assign hero = site.data.players[player].hero %}
+      {% include v2/hero.html hero=hero %}
       <!-- /.hero -->
       <!-- .steps -->
       <section class="mb-5">
@@ -42,33 +35,16 @@ layout: v2/default
       <!-- /.steps -->
       <!-- .resources -->
       {% if site.data.players[player].resources %}
-      <section class="mb-5">
-        <h2 class="mb-4">Resources</h2>
-        <div class="table-responsive">
-          <table class="table">
-            <thead>
-              <tr>
-                <th scope="col">Description</th>
-                <th scope="col">Link</th>
-              </tr>
-            </thead>
-            <tbody>
-              {% for item in site.data.players[player].resources %}
-                <tr>
-                  <td scope="row">{{ item.description }}</td>
-                  <td>
-                    <a href="{{ site.baseurl }}/docs/{{ item.filename }}" target="_blank">
-                      Open <span class="sr-only">{{ item.description }}</span>
-                    </a>
-                  </td>
-                </tr>
-              {% endfor %}
-            </tbody>
-          </table>
-        </div>
-      </section>
+        {% assign resources = site.data.players[player].resources %}
+        {% include v2/resources.html resources=resources %}
       {% endif %}
       <!-- /.resources -->
+      <!-- .tiles -->
+      {% if site.data.players[player].related %}
+        {% assign related = site.data.players[player].related %}
+        {% include v2/related.html related=related %}
+      {% endif %}
+      <!-- /.tiles -->
     </main>
     <!-- /.main -->
   </div>

@@ -5,21 +5,13 @@ title: DID(it) Playbook - Playlist
 <div class="container mt-5">
   <!-- .row -->
   <div class="row">
-    {% include v2/sidenav.html menu=site.data.playlist.sidenav %}
+    {% include v2/sidenav.html %}
     <!-- .main -->
     <main role="main" class="col-md-9">
-
-<!-- hero -->
-<div class="jumbotron custom-primary-base mb-5">
-<div class="media">
-<img class="align-self-center custom-md-img mr-5" src="../../assets/img/v2/icons/pb-playlist@2x.png" alt="...">
-<div class="media-body">
-<h1>Playlist</h1>
-<p class="lead">Drive consistency and reduce risk by following standard procedures.</p>
-</div>
-</div>
-</div>
-<!-- /.hero -->
+      <!-- hero -->
+      {% assign hero = site.data.plays.index.hero %}
+      {% include v2/hero.html hero=hero %}
+      <!-- /.hero -->
 
 <!-- .custom-list -->
 <section class="mb-5">
