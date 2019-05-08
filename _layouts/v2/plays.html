@@ -9,15 +9,8 @@ layout: v2/default
     <!-- .main -->
     <main role="main" class="col-md-9">
       <!-- hero -->
-      <div class="jumbotron custom-primary-base mb-5">
-          <div class="media">
-              <img class="align-self-center custom-md-img mr-5" src="{{ site.baseurl }}/assets/img/v2/icons/{{ site.data.plays[play].hero.image.filename }}" alt="{{ site.data.plays[play].hero.image.alt }}">
-              <div class="media-body">
-                  <h1>{{ site.data.plays[play].hero.title }}</h1>
-                  <p class="lead">{{ site.data.plays[play].hero.text }}</p>
-              </div>
-          </div>
-      </div>
+      {% assign hero = site.data.plays[play].hero %}
+      {% include v2/hero.html hero=hero %}
       <!-- /.hero -->
       <!-- .steps -->
       <section class="mb-5">
@@ -61,55 +54,14 @@ layout: v2/default
       <!-- /.banner -->
       <!-- .resources -->
       {% if site.data.plays[play].resources %}
-      <section class="mb-5">
-        <h2 class="mb-4">Resources</h2>
-        <div class="table-responsive">
-          <table class="table">
-            <thead>
-              <tr>
-                <th scope="col">Description</th>
-                <th scope="col">Link</th>
-              </tr>
-            </thead>
-            <tbody>
-              {% for item in site.data.plays[play].resources %}
-                <tr>
-                  <td scope="row">{{ item.description }}</td>
-                  <td>
-                    {% if item.url %}
-                      <a href="{{ item.url }}" target="_blank">
-                    {% else %}
-                      <a href="{{ site.baseurl }}/v2/docs/{{ item.filename }}" target="_blank">
-                    {% endif %}
-                        Open <span class="sr-only">{{ item.description }}</span>
-                      </a>
-                  </td>
-                </tr>
-              {% endfor %}
-            </tbody>
-          </table>
-        </div>
-      </section>
+        {% assign resources = site.data.plays[play].resources %}
+        {% include v2/resources.html resources=resources %}
       {% endif %}
       <!-- /.resources -->
       <!-- .tiles -->
       {% if site.data.plays[play].related %}
-      <section class="mb-5">
-        <h2 class="mb-4">Related</h2>
-        <div class="row">
-          {% for item in site.data.plays[play].related %}
-            <div class="col-md-3 mb-4">
-              <div class="card">
-                <img class="card-img-top" src="{{ site.baseurl }}/assets/img/v2/icons/{{ item.image.filename }}" alt="{{ item.image.alt }}">
-                <div class="card-body">
-                  <h5 class="card-title text-center">{{ item.title }}</h5>
-                </div>
-                <a class="card-footer text-center" href="{{ site.baseurl }}/v2/plays/{% include v2/to_url.html title=item.title %}">Read more <span class="sr-only">about {{ item.title }}</span></a>
-              </div>
-            </div>
-          {% endfor %}
-        </div>
-      </section>
+        {% assign related = site.data.plays[play].related %}
+        {% include v2/related.html related=related %}
       {% endif %}
       <!-- /.tiles -->
     </main>

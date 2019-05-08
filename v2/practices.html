@@ -5,20 +5,13 @@ title: DID(it) Playbook - Practices
 <div class="container mt-5">
   <!-- .row -->
   <div class="row">
-    {% include v2/sidenav.html menu=site.data.practices.sidenav %}
+    {% include v2/sidenav.html %}
     <!-- .main -->
     <main role="main" class="col-md-9">
-<!-- hero -->
-<div class="jumbotron custom-primary-base mb-5">
-<div class="media">
-<img class="align-self-center custom-md-img mr-5" src="../../assets/img/v2/icons/pb-practices@2x.png" alt="...">
-<div class="media-body">
-<h1>Practices</h1>
-<p class="lead">Get optimal results using standard business methods.</p>
-</div>
-</div>
-</div>
-<!-- /.hero -->
+      <!-- hero -->
+      {% assign hero = site.data.practices.index.hero %}
+      {% include v2/hero.html hero=hero %}
+      <!-- /.hero -->
 <!-- .custom-list -->
 <section class="mb-5">
 <div class="custom-list">
