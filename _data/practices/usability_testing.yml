@@ -21,8 +21,3 @@ steps:
     text: During usability testing, have at least 2 to 3 other team members taking notes to record insights results. The more detailed the notes, the better. Use the notes to track feedback direct from users to focus the product team and avoid potential problems before the product is launched.
   - title: Compile notes
     text: The designer or product manager will compile the team's notes and then schedule a time for the team to discuss the insights from the testing.
-related:
-  - title: Lean Releases
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...

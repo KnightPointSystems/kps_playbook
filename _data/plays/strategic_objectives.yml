@@ -14,11 +14,4 @@ steps:
   - title: Identify business objective
     text: Define the single strategic objective that will guide the next stage of the project. Build consensus with the product owner team and product stakeholders around the most important business aims.
 related:
-  - title: Dump and Sort
-    image:
-      filename: pb-dumpsort@2x.png
-      alt: icon
-  - title: Affinity Clusters
-    image:
-      filename: pb-affinityclusters@2x.png
-      alt: icon
+  - Dump and Sort

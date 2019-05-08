@@ -19,11 +19,5 @@ steps:
   - title: Avoid leading questions
     text: A leading question prompts or encourages a desired answer. A good question is “Recall a time when the form failed to print successfully?”” rather than “Forms always fail to print during peak hours, correct?”. The first question lets you explore a range of options. The second question is limited to a specific incident.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: ...
+  - Discovery
+  - Framing

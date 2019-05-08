@@ -13,15 +13,6 @@ steps:
   - title: Synthesize the results of the interviews
     text: After completing user interviews, synthesize the results so you can get important insights from users and track trends in data. Learn more about <a href="../synthesis">user synthesis</a>.
 related:
-  - title: Popcorn scripting
-    image:
-      filename: pb-popcornscipt@2x.png
-      alt: icon
-  - title: User interviews
-    image:
-      filename: pb-userinterview@2x.png
-      alt: icon
-  - title: Synthesizing
-    image:
-      filename: pb-synthesis@2x.png
-      alt: icon
+  - Popcorn Scripting
+  - User Interviews
+  - Synthesis

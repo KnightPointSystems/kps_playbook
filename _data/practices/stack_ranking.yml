@@ -17,19 +17,7 @@ steps:
   - title: Execute tasks
     text: Once a single ordered list is agreed upon, the product team add the items to the backlog for discovery or implementation.
 related:
-  - title: Strategic Objectives
-    image:
-      filename: pb-strategicobjectives@2x.png
-      alt: icon
-  - title: Risks and Mitigations
-    image:
-      filename: pb-risks@2x.png
-      alt: icon
-  - title: Problem Workshop
-    image:
-      filename: pb-problemworkshop@2x.png
-      alt: icon
-  - title: Inception
-    image:
-      filename: pb-inception@2x.png
-      alt: icon
+  - Strategic Objectives
+  - Risks and Mitigations
+  - Problem Workshop
+  - Inception

@@ -17,7 +17,4 @@ steps:
   - title: Summarize insights and actions
     text: The product manager will compile the team's notes and then discuss them with the rest of the team.
 related:
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: icon
+  - Framing

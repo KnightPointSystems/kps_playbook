@@ -13,11 +13,5 @@ steps:
   - title: Validate blueprint with stakeholders
     text: After the blueprint is assembled, it should be validated with relevant stakeholders. By bringing in stakeholders, the blueprint can not only be confirmed but be used as a tool to promote cohesion over vision and process understanding. With validation comes the opportunity to identify potential changes and to use the blueprint as a guide to impacting changes throughout an entire process.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: icon
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: icon
+  - Discovery
+  - Framing

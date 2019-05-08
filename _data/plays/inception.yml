@@ -17,15 +17,6 @@ steps:
   - title: Begin development with top ranked items
     text: The most technically complex but highest value epics and features will de-risk the product vision most effectively.
 related:
-  - title: Sizing
-    image:
-      filename: pb-sizing@2x.png
-      alt: icon
-  - title: 2x2 Sorting
-    image:
-      filename: pb-2x2sort@2x.png
-      alt: icon
-  - title: Stack Rank
-    image:
-      filename: pb-stackranking@2x.png
-      alt: icon
+  - Sizing
+  - 2x2 Sorting
+  - Stack Ranking

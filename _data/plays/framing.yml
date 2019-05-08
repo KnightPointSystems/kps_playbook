@@ -10,30 +10,15 @@ steps:
     text: Rephrase the problems from the Problem Workshop as "How Might We" statements. Check each statement is broad enough to allow for multiple solutions, but not too broad to lose focus.
   - title: Find the root cause for each problem
     text: For each problem, apply the 5 whys technique. Build product team consensus around the root cause. Learn more about <a href="../5_whys">5 whys</a>.
-  - title: Generate a wide range of solutions 
+  - title: Generate a wide range of solutions
     text: Use brainstorming and sketching techniques to explore innovative ways to solve the problems. Through these techniques, you will find you can build on the ideas of others. Learn more about <a href="../brainstorming">brainstorming </a> and a href="../sketching">sketching </a>.
   - title: Prototype interviews
     text: Validate your assumptions using static or interactive prototypes. The best mark a feature can have is if its use is so obvious the user wonders why the interview is needed. Learn more about <a href="../framing">prototyping</a> and <a href="../prototyping">prototyping</a>.
   - title: Keep your development priorities focused
     text: Demonstrate the value of your product to business stakeholders using business value metrics. Learn more about <a href="../business_value_metrics">business value metrics</a>.
 related:
-  - title: 5 Whys
-    image:
-      filename: pb-5whys@2x.png
-      alt: icon
-  - title: Brainstorming
-    image:
-      filename: pb-brainstorming@2x.png
-      alt: icon
-  - title: Group sketching
-    image:
-      filename: pb-groupsketching@2x.png
-      alt: icon
-  - title: Prototyping
-    image:
-      filename: pb-prototyping@2x.png
-      alt: icon
-  - title: Business Value Metrics
-    image:
-      filename: pb-businessvaluemetrics@2x.png
-      alt: icon
+  - 5 Whys
+  - Brainstorming
+  - Group Sketching
+  - Prototyping
+  - Business Value Metrics

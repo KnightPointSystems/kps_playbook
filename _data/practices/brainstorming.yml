@@ -20,11 +20,5 @@ resources:
   - description: "Brainstorming in IT Teams: Must-Have or Time Wasting?"
     url: https://dzone.com/articles/brainstorming-in-it-teams-must-have-or-time-wastin
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: ...
+  - Discovery
+  - Framing

@@ -17,11 +17,5 @@ steps:
   - title: Winning ideas
     text: The cards with the most votes will be discussed with the group.
 related:
-  - title: Discovery
-    image:
-      filename: pb-discovery@2x.png
-      alt: ...
-  - title: Framing
-    image:
-      filename: pb-framing@2x.png
-      alt: ...
+  - Discovery
+  - Framing
