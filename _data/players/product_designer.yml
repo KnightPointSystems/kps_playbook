@@ -4,7 +4,7 @@ hero:
   image:
     filename: pb-playerpd@2x.png
     alt: ...
-summary: The product designer role focuses on helping people find solutions to their problems and motivating interaction with the product. In order to gain confidence of the users, designers first focus on making the design efficient for people instead of the computer. The entire design process is iterative and requires continuous changes and refinements based on feedback from the customer and the product team.
+description: The product designer role focuses on helping people find solutions to their problems and motivating interaction with the product. In order to gain confidence of the users, designers first focus on making the design efficient for people instead of the computer. The entire design process is iterative and requires continuous changes and refinements based on feedback from the customer and the product team.
 responsibilities:
   - title: Empathize with people
     text: As a product designer, place yourself in the shoes of the user to create designs that will delight the users and improve user experience. Through contextual research, you can observe users in their natural environment, giving you a better understanding of the way users work.

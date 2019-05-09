@@ -4,7 +4,7 @@ hero:
   image:
     filename: pb-playerpo@2x.png
     alt: ...
-summary: The product owner role represents the interests of the customer for the development team. As the customer stakeholder, you are responsible for defining the outcomes of a product and ensuring there is always a user advocate involved in the product development cycle.
+description: The product owner role represents the interests of the customer for the development team. As the customer stakeholder, you are responsible for defining the outcomes of a product and ensuring there is always a user advocate involved in the product development cycle.
 responsibilities:
   - title: Set a product vision and scope
     text: The product vision represents the core essence of the project. The vision is what the customer wish to build based on the problem they wish to solve. Once a problem is identified, the product team develops a strategy and plan to solve it.
