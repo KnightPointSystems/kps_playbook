@@ -11,7 +11,7 @@ title: Welcome to the DID(it) Playbook
           <img class="align-self-center mr-5 custom-md-img" src="../assets/img/v2/icons/pb-playbook@2x.png" alt="...">
             <div class="media-body">
               <h1>DID(it) Playbook</h1>
-              <p class="lead"> The purpose of this playbook is to introduce new practitioners to our best practices.</p>
+              <p class="lead"> The excellence of the DID(it) team is centered around our “best practices” highlighted in our DID(it) Playbook.</p>
             </div>
         </div>
       </div>
@@ -40,7 +40,7 @@ title: Welcome to the DID(it) Playbook
       <div class="row mb-5">
         <div class="col-md-6 order-md-3">
           <h2 class="mt-5">Playlist</h2>
-          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p class="lead">Drive consistency and reduce risk by following standard procedures.</p>
           <a href="{{ site.baseurl }}/v2/playlist" class="btn btn-primary muted-text" role="button">
             Read more
             <span class="sr-only">about Playlist</span>
@@ -56,7 +56,7 @@ title: Welcome to the DID(it) Playbook
     <div class="row mb-5">
       <div class="col-md-6">
         <h2 class="mt-5">Practices</h2>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p class="lead">Get optimal results using standard business methods.</p>
         <a href="{{ site.baseurl }}/v2/practices" class="btn btn-primary" role="button">
           Read more
           <span class="sr-only">about Practices</span>

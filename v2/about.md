@@ -9,7 +9,7 @@ title: Welcome to the DID(it) Playbook
       <img class="align-self-center mr-5 custom-md-img" src="../../assets/img/v2/icons/pb-playbook@2x.png" alt="...">
       <div class="media-body">
         <h1>About DID(it)</h1>
-        <p class="lead">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p class="lead">The DID(it) team is responsible for delivering the services necessary to achieve the USCIS mission and lead strategic initiatives agency wide.</p>
       </div>
     </div>
   </div>
@@ -18,7 +18,10 @@ title: Welcome to the DID(it) Playbook
   <!-- .description -->
   <section class="mb-5">
     <p>
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+      The DID(it) team provides cutting edge application development and associated IT DevSecOps services through the application of best of breed agile and lean startup best practices to support web and mobile-based application development of existing and new systems based upon a mix of legacy and emerging technologies.
+    </p>
+    <p>
+      Through techniques such as user interviews, contextual inquiry, service blueprint design, and persona development, our teams develop an understanding of not just our stakeholders’ problems, but the needs of the actual end users and the environment they operate in.
     </p>
   </section>
   <!-- /.description -->

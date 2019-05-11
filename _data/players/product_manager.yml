@@ -20,8 +20,3 @@ responsibilities:
     text: You are responsible for the delivering high quality results throughout the product development cycle. Test mockups for new features to define what is valuable. Test stories to ensure quality prior to delivery. Test features with users to ensure value.
   - title: Document and improve process standards
     text: You are responsible for advocating for industry best practices. Identify the processes that the team follow, work with the product team and senior management to document those processes and find areas of improvement.
-resources:
-  - description: DID(it) Roadmap template
-    filename: roadmap-template.pdf
-  - description: How to take interview notes
-    filename: how-to-take-interview-notes.pdf
