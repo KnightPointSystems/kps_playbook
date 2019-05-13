@@ -4,7 +4,7 @@ hero:
   image:
     filename: pb-playerpe@2x.png
     alt: ...
-summary: The product engineers are a creative group that finds ways to develop solutions using modern development technologies. This group involves everything from junior developers, senior developers, DevOps engineers, to operations engineers; but all have the same goals. To build great and stable products for our customers in a conscious and innovative way.
+description: The product engineers are a creative group that finds ways to develop solutions using modern development technologies. This group involves everything from junior developers, senior developers, DevOps engineers, to operations engineers; but all have the same goals. To build great and stable products for our customers in a conscious and innovative way.
 responsibilities:
   - title: Researches potential solutions to problems
     text: As the technical expert, solve the problems posed by the users and the product owner. Perform technical research into a problem to identify the best way to solve it. Research can involve the code of an application, consulting with other developers, or searching for online resources.

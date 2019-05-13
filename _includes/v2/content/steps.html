@@ -1,0 +1,12 @@
+<h2 class="mb-4">{{ include.title }}</h2>
+<div class="form-check mb-3">
+  {% for item in include.items %}
+    <div class="custom-control custom-checkbox">
+      <input class="custom-control-input" type="checkbox" unchecked>
+      <label class="custom-control-label">
+            <b>{{ item.title }}</b>
+            <p>{{ item.text }}</p>
+      </label>
+    </div>
+  {% endfor %}
+</div>

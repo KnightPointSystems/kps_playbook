@@ -4,7 +4,7 @@ hero:
   image:
     filename: pb-playerpm@2x.png
     alt: ...
-summary: The product management role is critical to coordinate the process of product development and making sure the product is deliver as planned. It is key for the product manager to collaborate with multiple stakeholder groups to identify and prioritize product features based on business needs.
+description: The product management role is critical to coordinate the process of product development and making sure the product is deliver as planned. It is key for the product manager to collaborate with multiple stakeholder groups to identify and prioritize product features based on business needs.
 responsibilities:
   - title: Product strategy and planning
     text: As the leader of the product team, you are responsible for building consensus on the strategic objectives and business goals of the product; identifying and mitigating risk; translating business needs into solutions; and managing product roadmaps, feature backlogs, and user stories.

@@ -1,0 +1,33 @@
+<div class="container mt-5">
+  <div class="row">
+    {% include v2/sidenav.html %}
+    <main role="main" class="col-md-9">
+      {% include v2/content/hero.html hero=include.content.hero %}
+      <!-- .steps -->
+      <section class="mb-5">
+        {% include v2/content/description.html description=include.content.description %}
+
+        {% if include.content.responsibilities %}
+          {% assign items = include.content.responsibilities %}
+        {% elsif include.content.steps %}
+          {% assign items = include.content.steps %}
+        {% endif %}
+
+        {% if items %}
+            {% include v2/content/steps.html title=include.steps_title items=items %}
+        {% endif %}
+      </section>
+      <!-- /.steps -->
+      {% if include.content.resources %}
+        {% assign resources = include.content.resources %}
+        {% include v2/content/resources.html resources=resources %}
+      {% endif %}
+      {% if include.content.related %}
+        {% assign related = include.content.related %}
+        {% include v2/content/related.html related=related %}
+      {% endif %}
+    </main>
+    <!-- /.main -->
+  </div>
+  <!-- /.row -->
+</div>
