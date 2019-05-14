@@ -7,11 +7,11 @@ hero:
 description: Defining risks and mitigations involves identifying risks at the start of a project, exploring options to avoid or mitigate those risks, and prioritizing risks based on likelihood and impact. In doing this, you discover potential factors which could contribute to the interruption of services in the areas of infrastructure and policy.
 steps:
   - title: Dump and sort
-    text: Have participants write down individual risks. Include a mitigation for each risk. Learn more about <a href="../dump_and_sort">dump and sort</a>.
+    text: Have participants write down individual risks. Include a mitigation for each risk. Learn more about <a href="../../practices/dump_and_sort">dump and sort</a>.
   - title: Share risk-mitigation pairs with the group
     text: Consider potential loss of value to the business and the policy constraints which might impact the risk-mitigation pair.
   - title: Prioritize the risks-mitigation pairs
-    text: Identify the risks that can be eliminated and then risks that can be mitigated. Use stack rank, 2x2, (impact vs likelihood), and dot voting to prioritize the risks-mitigation pairs. Learn more about <a href="../2x2_sorting">2x2 sorting</a>, <a href="../stack_rank">stack rank</a> and <a href="../dot_voting">dot voting</a>.
+    text: Identify the risks that can be eliminated and then risks that can be mitigated. Use stack rank, 2x2, (impact vs likelihood), and dot voting to prioritize the risks-mitigation pairs. Learn more about <a href="../../practices/2x2_sorting">2x2 sorting</a>, <a href="../../practices/stack_ranking">stack ranking</a> and <a href="../../practices/dot_voting">dot voting</a>.
   - title: Develop strategies to account for risks in future work
     text: Track risks and discuss them during weekly client check-ins.
 related:

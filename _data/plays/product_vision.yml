@@ -8,18 +8,19 @@ description: In the product vision stage, you are combining all of the skills pr
 steps:
   - title: Gather all the skills from discovery and framing
     text: >
-      The strategic objectives helped the team determine what you are trying to accomplish.
-      The business goals identified how the team will know you’ve accomplished your missions.
-      The business value metrics provided a way of measuring success.
-      The user interviews revealed the user problems and context.
+      The strategic objectives helped the team determine what you are trying to accomplish.<br><br>
+      The business goals identified how the team will know you’ve accomplished your missions.<br><br>
+      The business value metrics provided a way of measuring success.<br><br>
+      The user interviews revealed the user problems and context.<br><br>
   - title: Scope the solution
     text: >
-      Ask the team the following questions:
-      What do you think should be built?
-      What tasks will your product enable?
-      What features are required to accomplish those tasks?
-      What features do you think would benefit the customer?
-      What will add value?
-      What will delight the customer?
+      Ask the team the following questions:<br>
+      <ul>
+        <li>What do you think should be built?</li>
+        <li>What tasks will your product enable?</li>
+        <li>What features are required to accomplish those tasks?</li>
+        <li>What will add value?</li>
+        <li>What will delight the customer?</li>
+      </ul>
   - title: Share your vision and iterate
     text: Ensure you can explain the vision in one sentence to the team. Mapping your solution will provide the product team and product stakeholders a path for achieving their strategic objectives and fulfilling their project goals.

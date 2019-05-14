@@ -7,11 +7,11 @@ hero:
 description: WhThe discovery phase is the first part in the double diamond process model. This is when you will research and define the scope of the project. You will focus on solving the problems that will provide the most benefit to the product users. Discovery phase includes, but is not limited to the following steps.
 steps:
   - title: Generate an interview script
-    text: Prepare questions for user interviews. Learn more about <a href="../popcorn_scripting">popcorn scripting</a>.
+    text: Prepare questions for user interviews. Learn more about <a href="../../practices/popcorn_scripting">popcorn scripting</a>.
   - title: Interviews users
-    text: Perform individual interviews with real users to determine their actual problems. Learn more about <a href="../user_interview">user interviews</a>.
+    text: Perform individual interviews with real users to determine their actual problems. Learn more about <a href="../../practices/user_interviews">user interviews</a>.
   - title: Synthesize the results of the interviews
-    text: After completing user interviews, synthesize the results so you can get important insights from users and track trends in data. Learn more about <a href="../synthesis">user synthesis</a>.
+    text: After completing user interviews, synthesize the results so you can get important insights from users and track trends in data. Learn more about <a href="../../practices/synthesis">user synthesis</a>.
 related:
   - Popcorn Scripting
   - User Interviews

@@ -8,9 +8,9 @@ description: When you are defining strategic objectives, you have to learn the s
 steps:
   - title: Dump and sort
     text: >
-      Ask the product stakeholders: "Where We Are Going Tomorrow?". Stakeholders write down what they would like to see their organization accomplish in the next quarter, year and 3 years. Note that these are not the project objectives. Learn more about <a href="../dump_and_sort">dump and sort</a>.
+      Ask the product stakeholders: "Where We Are Going Tomorrow?". Stakeholders write down what they would like to see their organization accomplish in the next quarter, year and 3 years. Note that these are not the project objectives. Learn more about <a href="../../practices/dump_and_sort">dump and sort</a>.
   - title: Sort into affinity clusters
-    text: Label each cluster as Productivity, Efficiency, Quality Assurance, and Operational Effectiveness. Learn more about <a href="../affinity_clusters">affinity clusters</a>.
+    text: Label each cluster as Productivity, Efficiency, Quality Assurance, and Operational Effectiveness. Learn more about <a href="../../practices/affinity_clusters">affinity clusters</a>.
   - title: Identify business objective
     text: Define the single strategic objective that will guide the next stage of the project. Build consensus with the product owner team and product stakeholders around the most important business aims.
 related:

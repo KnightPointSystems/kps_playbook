@@ -8,14 +8,14 @@ description: Defining business goals involves learning the core goals for the pr
 steps:
   - title: Dump and sort
     text: >
-      Ask the product stakeholders: “What does success look like for this project?” or “How will we know we have accomplished our strategic objective?”. Learn more about <a href="../dump_and_sort">dump and sort</a>.
+      Ask the product stakeholders: “What does success look like for this project?” or “How will we know we have accomplished our strategic objective?”. Learn more about <a href="../../practices/dump_and_sort">dump and sort</a>.
   - title: Sort into affinity clusters
-    text: Label each cluster by a common goal area. Learn more about <a href="../affinity_clusters">affinity clusters</a>.
+    text: Label each cluster by a common goal area. Learn more about <a href="../../practices/affinity_clusters">affinity clusters</a>.
   - title: Prioritize each cluster
     text: >
-      You can use one of the following axes: business value vs user value, business value vs feasibility, strategic value vs operational value. Learn more about <a href="../2x2_sorting">2x2 sorting</a>.
+      You can use one of the following axes: business value vs user value, business value vs feasibility, strategic value vs operational value. Learn more about <a href="../../practices/2x2_sorting">2x2 sorting</a>.
   - title: Stack Rank (alternative activity)
-    text: Create a single rank order list of the goal clusters. Learn more about <a href="../stack_rank">stack rank</a>.
+    text: Create a single rank order list of the goal clusters. Learn more about <a href="../../practices/stack_ranking">stack ranking</a>.
 related:
   - Dump and Sort
   - 2x2 Sorting
