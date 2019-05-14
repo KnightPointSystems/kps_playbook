@@ -11,9 +11,9 @@ steps:
   - title: Define epics and features
     text: Present the team’s product vision, goals and anti-goals. You must demonstrate how the team is planning to meet the strategic goals and objectives of the project. Now, break the product vision down into epics and features. The team must agree upon business value metrics for measuring success. Lastly, identify risks to achieving strategic goals and mitigations for them.
   - title: Determine technical complexity of epics and features
-    text: With the support of the product Engineers, analyze each feature and assign a size to each. Then, they assign a size of each epic and feature. With this information, the team can rank the epics and features based on complexity. Learn more about <a href="../sizing">sizing</a>.
+    text: With the support of the product Engineers, analyze each feature and assign a size to each. Then, they assign a size of each epic and feature. With this information, the team can rank the epics and features based on complexity. Learn more about <a href="../../practices/sizing">sizing</a>.
   - title: Prioritize epics and features
-    text: Plot epics and features on a 2x2 matrix. Specify axes as business value and technical complexity. Take the epics and features landing in the upper right quadrant and stack rank. Learn more about <a href="../2x2_sorting">2x2 sorting</a> and <a href="../stack_rank">stack rank</a>.
+    text: Plot epics and features on a 2x2 matrix. Specify axes as business value and technical complexity. Take the epics and features landing in the upper right quadrant and stack rank. Learn more about <a href="../../practices/2x2_sorting">2x2 sorting</a> and <a href="../../practices/stack_ranking">stack ranking</a>.
   - title: Begin development with top ranked items
     text: The most technically complex but highest value epics and features will de-risk the product vision most effectively.
 related:
