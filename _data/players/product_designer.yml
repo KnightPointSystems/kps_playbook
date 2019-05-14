@@ -18,8 +18,3 @@ responsibilities:
     text: Start your design with low-fidelity wireframes to define the outline and layout structure of the solution. As you progress in the design process, build mockups to experiment with visual hierarchy and interface elements. Once you understand the user interface, work in the visual aesthetics and usability of the product considering effects of color, shapes, typography and other visual elements. From this point, you can now move to design how the user will interact with the product and how the product response to user’s input. During the interactive design, you can use prototypes to simulate the user interaction to the product.
   - title: Test your solution
     text: Evaluate your solutions with the users of the product and measure the impact of your design. Through usability testing, you can learn how well users can achieve their goals successfully. Another method to test your solution is heuristic evaluation which compares your design against a list of established guidelines. Incorporate feedback from the user testing into changes to the product design.
-resources:
-  - description: How to take interview notes
-    filename: how-to-take-interview-notes.pdf
-  - description: 508 Heuristic Evaluation
-    filename: 508-heuristic-evaluation.pdf

@@ -1,0 +1,28 @@
+hero:
+  title: Affinity Clusters
+  text: Connect the dots between ideas.
+  image:
+    filename: pb-affinityclusters@2x.png
+    alt: icon
+description: Affinity cluster helps you collect a large set of ideas and structure them into groups of themes. In the end, the team defines the problems and develop potential ideas for solutions.
+steps:
+  - title: Select a facilitator to lead the session
+    text: Typically, this can be the product manager or product designer.
+  - title: Invite a diverse group of team members
+    text: Everyone is of equal rank while in the session. Keep the environment casual and open, so that each participant feels comfortable contributing to the session.
+  - title: Generate ideas
+    text: Use brainstorming, dump and sort or other methods to generate a collection of items. Each participant writes down potential items on sticky notes.
+  - title: Sort items into groups
+    text: After the team discusses each sticky note, the facilitator places similar questions next to each other on a whiteboard. Target to have 3 to 10 clusters.
+  - title: Label each group
+    text: The name represents what all the items represent together.
+  - title: Find any gaps
+    text: Once you understand the themes of your ideas, address any missing gaps.
+  - title: Connect groups
+    text: Create connections with other cluster using line to understand how the themes related to each other.
+  - title: Summarize insights and actions
+    text: The product manager will compile the team's notes and then discuss them with the rest of the team.
+related:
+  - Strategic Objectives
+  - Business Goals
+  - Risks and Mitigations

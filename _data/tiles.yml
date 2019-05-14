@@ -3,64 +3,30 @@ product_manager:
   root: players
   image:
     filename: pb-playerpm@2x.png
+    alt: icon
 product_designer:
   title: Product Designer
   root: players
   image:
     filename: pb-playerpd@2x.png
+    alt: icon
 product_engineer:
   title: Product Engineer
   root: players
   image:
     filename: pb-playerpe@2x.png
+    alt: icon
 product_owner:
   title: Product Owner
   root: players
   image:
     filename: pb-playerpo@2x.png
-dump_and_sort:
-  title: Dump and Sort
-  root: practices
-  image:
-    filename: pb-dumpsort@2x.png
+    alt: icon
 2x2_sorting:
   title: 2x2 Sorting
   root: practices
   image:
     filename: pb-2x2sort@2x.png
-stack_ranking:
-  title:  Stack Ranking
-  root: practices
-  image:
-    filename: pb-stackranking@2x.png
-dot_voting:
-  title: Dot Voting
-  root: practices
-  image:
-    filename: pb-dotvoting@2x.png
-popcorn_scripting:
-  title: Popcorn Scripting
-  root: practices
-  image:
-    filename: pb-popcornscipt@2x.png
-    alt: icon
-user_interviews:
-  title: User Interviews
-  root: practices
-  image:
-    filename: pb-userinterview@2x.png
-    alt: icon
-synthesis:
-  title: Synthesis
-  root: practices
-  image:
-    filename: pb-synthesis@2x.png
-    alt: icon
-sizing:
-  title: Sizing
-  root: practices
-  image:
-    filename: pb-sizing@2x.png
     alt: icon
 5_whys:
   title: 5 Whys
@@ -68,23 +34,29 @@ sizing:
   image:
     filename: pb-5whys@2x.png
     alt: icon
+affinity_clusters:
+  title: Affinity Clusters
+  root: practices
+  image:
+    filename: pb-affinityclusters@2x.png
+    alt: icon
+assumptions_tracker:
+  title: Assumptions Tracker
+  root: practices
+  image:
+    filename: pb-assumptiontracker@2x.png
+    alt: icon
+atomic_design:  
+  title: Atomic Design
+  root: practices
+  image:
+    filename: pb-atomicdesign@2x.png
+    alt: icon
 brainstorming:
   title: Brainstorming
   root: practices
   image:
     filename: pb-brainstorming@2x.png
-    alt: icon
-group_sketching:
-  title: Group Sketching
-  root: practices
-  image:
-    filename: pb-groupsketching@2x.png
-    alt: icon
-prototyping:
-  title: Prototyping
-  root: practices
-  image:
-    filename: pb-prototyping@2x.png
     alt: icon
 business_value_metrics:
   title: Business Value Metrics
@@ -92,16 +64,162 @@ business_value_metrics:
   image:
     filename: pb-businessvaluemetrics@2x.png
     alt: icon
+contextual_inquiry:
+  title: Contextual Inquiry
+  root: practices
+  image:
+    filename: pb-contextualinquiry@2x.png
+    alt: icon
+daily_standup:
+  title: Daily Standup
+  root: practices
+  image:
+    filename: pb-daily-stand-up@2x.png
+    alt: icon
+derisking:
+  title: De-risking
+  root: practices
+  image:
+    filename: pb-derisking@2x.png
+    alt: icon
+dot_voting:
+  title: Dot Voting
+  root: practices
+  image:
+    filename: pb-dotvoting@2x.png
+    alt: icon
+dump_and_sort:
+  title: Dump and Sort
+  root: practices
+  image:
+    filename: pb-dumpsort@2x.png
+    alt: icon
+group_interview:
+  title: Group Interview
+  root: practices
+  image:
+    filename: pb-groupinterview@2x.png
+    alt: icon
+group_sketching:
+  title: Group Sketching
+  root: practices
+  image:
+    filename: pb-groupsketching@2x.png
+    alt: icon
+journey_maps:
+  title: Journey Maps
+  root: practices
+  image:
+    filename: pb-journeymap@2x.png
+    alt: icon
+personas:
+  title: Personas
+  root: practices
+  image:
+    filename: pb-personas@2x.png
+    alt: icon
+popcorn_scripting:
+  title: Popcorn Scripting
+  root: practices
+  image:
+    filename: pb-popcornscipt@2x.png
+    alt: icon
+prototyping:
+  title: Prototyping
+  root: practices
+  image:
+    filename: pb-prototyping@2x.png
+    alt: icon
+retrospective:
+  title: Retrospective
+  root: practices
+  image:
+    filename: pb-retrospective@2x.png
+    alt: icon
+science_fair:
+  title: Science Fair
+  root: practices
+  image:
+    filename: pb-sciencefair@2x.png
+    alt: icon
+service_blueprints:
+  title: Service Blueprints
+  root: practices
+  image:
+    filename: pb-serviceblueprint@2x.png
+    alt: icon
+sizing:
+  title: Sizing
+  root: practices
+  image:
+    filename: pb-sizing@2x.png
+    alt: icon
+stack_ranking:
+  title:  Stack Ranking
+  root: practices
+  image:
+    filename: pb-stackranking@2x.png
+    alt: icon
+storyboard:
+  title: Storyboarding
+  root: practices
+  image:
+    filename: pb-storyboard@2x.png
+    alt: icon
+synthesis:
+  title: Synthesis
+  root: practices
+  image:
+    filename: pb-synthesis@2x.png
+    alt: icon
+usability_testing:
+  title: Usability Testing
+  root: practices
+  image:
+    filename: pb-usertesting@2x.png
+    alt: icon
+user_interviews:
+  title: User Interviews
+  root: practices
+  image:
+    filename: pb-userinterview@2x.png
+    alt: icon
+strategic_objectives:
+  title: Strategic Objectives
+  root: plays
+  image:
+    filename: pb-strategicobjectives@2x.png
+    alt: icon
+business_goals:
+  title: Business Goals
+  root: plays
+  image:
+    filename: pb-businessgoals@2x.png
+    alt: icon
+risks_and_mitigations:
+  title: Risks and Mitigations
+  root: plays
+  image:
+    filename: pb-risks@2x.png
+    alt: icon
 discovery:
   title: Discovery
   root: plays
   image:
     filename: pb-discovery@2x.png
+    alt: icon
+problem_workshop:
+  title: Problem Workshop
+  root: plays
+  image:
+    filename: pb-problemworkshop@2x.png
+    alt: icon
 framing:
   title: Framing
   root: plays
   image:
     filename: pb-framing@2x.png
+    alt: icon
 inception:
   title: Inception
   root: plays
@@ -114,26 +232,9 @@ product_vision:
   image:
     filename: pb-productvision@2x.png
     alt: icon
-risks_and_mitigations:
-  title: Risks and Mitigations
-  root: plays
-  image:
-    filename: pb-risks@2x.png
-    alt: icon
-strategic_objectives:
-  title: Strategic Objectives
-  root: plays
-  image:
-    filename: pb-strategicobjectives@2x.png
-    alt: icon
-problem_workshop:
-  title: Problem Workshop
-  root: plays
-  image:
-    filename: pb-problemworkshop@2x.png
-    alt: icon
 lean_releases:
   title: Lean Releases
   root: plays
   image:
     filename: pb-discovery@2x.png
+    alt: icon
