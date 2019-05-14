@@ -5,11 +5,11 @@
     --primary-lighter: #0071bc;
     --primary-base: #205493;
     --primary-darker: #112e51;
-    
+
     --secondary-lighter: #e59393;
     --secondary-base: #cd2026;
     --secondary-darker: #981b1e;
-    
+
     --content-white: #ffffff;
     --content-lightest: #f9f9f9;
     --content-lighter: #e0e0e0;
@@ -65,7 +65,7 @@ table > tbody > tr > td > a:hover {
 
 
 /***************** bootstrap card *****************/
-    
+
 .card {
     border: 1px solid var(--content-lighter);
 }
@@ -108,7 +108,7 @@ table > tbody > tr > td > a:hover {
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
   border-color: var(--primary-lightest);
 }
-    
+
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before {
   border-color: var(--primary-lighter);
   background-color: var(--primary-lighter);
@@ -304,7 +304,7 @@ header > nav {
 .custom-list-title {
     padding-bottom: 1rem;
     font-size: 1.2rem;
-    font-weight: 700;   
+    font-weight: 700;
 }
 
 .custom-list-section > li {
