@@ -4,3 +4,34 @@ hero:
   image:
     filename: pb-practices@2x.png
     alt: ...
+sections:
+  - title: Project Kickoff
+    pill: Practices
+    text: Get the project started and align the team towards a common direction.
+    related:
+      - 2x2 Sorting
+      - Affinity Clusters
+      - Dot Voting
+      - Dump and Sort
+      - Stack Ranking
+  - title: Problem
+    pill: Practices
+    text: Get the project started and align the team towards a common direction.
+    related:
+      - 2x2 Sorting
+      - Dump and Sort
+      - Stack Ranking
+      - Popcorn Scripting
+      - Synthesis
+      - User Interviews
+  - title: Solution
+    pill: Practices
+    text: Get the project started and align the team towards a common direction.
+    related:
+      - 2x2 Sorting
+      - 5 Whys
+      - Brainstorming
+      - Business Value Metrics
+      - Group Sketching
+      - Prototyping
+      - Stack Ranking

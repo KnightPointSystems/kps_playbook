@@ -4,3 +4,24 @@ hero:
   image:
     filename: pb-playlist@2x.png
     alt: ...
+sections:
+  - title: Project Kickoff
+    pill: Plays
+    text: Get the project started and align the team towards a common direction.
+    related:
+      - Strategic Objectives
+      - Business Goals
+      - Risks and Mitigations
+  - title: Problem
+    pill: Plays
+    text: Get the project started and align the team towards a common direction.
+    related:
+      - Discovery
+      - Problem Workshop
+  - title: Solution
+    pill: Plays
+    text: Get the project started and align the team towards a common direction.
+    related:
+      - Framing
+      - Inception
+      - Product Vision
