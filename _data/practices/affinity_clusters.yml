@@ -23,15 +23,6 @@ steps:
   - title: Summarize insights and actions
     text: The product manager will compile the team's notes and then discuss them with the rest of the team.
 related:
-  - title: Strategic Objectives
-    image:
-      filename: pb-strategicobjectives@2x.png
-      alt: icon
-  - title: Business Goals
-    image:
-      filename: pb-businessgoals@2x.png
-      alt: icon
-  - title: Risks and Mitigations
-    image:
-      filename: pb-risks@2x.png
-      alt: icon
+  - Strategic Objectives
+  - Business Goals
+  - Risks and Mitigations
