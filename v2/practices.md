@@ -15,7 +15,7 @@ title: DID(it) Playbook - Practices
       <!-- .custom-list -->
       <section class="mb-5">
         <div class="custom-list">
-          {% for section in site.data.plays.index.sections %}
+          {% for section in site.data.practices.index.sections %}
             <div class="mb-5">
               <div class="d-flex align-items-center">
                 <h3 class="font-weight-bold mr-2">{{ section.title }}</h3>
