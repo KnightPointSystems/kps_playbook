@@ -1,6 +1,10 @@
 <div class="container mt-5">
   <div class="row">
-    {% include v2/sidenav.html %}
+    {% if include.topic == 'Plays' %}
+      {% include v2/plays_sidenav.html %}
+    {% else %}
+      {% include v2/sidenav.html %}
+    {% endif %}
     <main role="main" class="col-md-9">
       {% include v2/content/hero.html hero=include.content.hero %}
       <!-- .steps -->

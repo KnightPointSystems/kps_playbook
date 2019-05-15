@@ -5,7 +5,7 @@ title: DID(it) Playbook - Playlist
 <div class="container mt-5">
   <!-- .row -->
   <div class="row">
-    {% include v2/sidenav.html %}
+    {% include v2/plays_sidenav.html %}
     <!-- .main -->
     <main role="main" class="col-md-9">
       <!-- hero -->
