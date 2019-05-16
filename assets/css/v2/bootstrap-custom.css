@@ -16,7 +16,6 @@
     --content-base: #333333;
 }
 
-
 /***************** bootstrap general *****************/
 
 body, html {
@@ -46,7 +45,6 @@ table > tbody > tr > td > a:hover {
     text-decoration: underline;
 }
 
-
 /***************** bootstrap button *****************/
 
 .btn {
@@ -63,7 +61,6 @@ table > tbody > tr > td > a:hover {
     border-color: var(--primary-base);;
 }
 
-
 /***************** bootstrap card *****************/
 
 .card {
@@ -76,7 +73,7 @@ table > tbody > tr > td > a:hover {
 }
 
 .card-footer {
-    min-height: 4.5rem;
+    min-height: 3.5rem;
     padding: 0.75rem 1.0rem;
     background-color: var(--content-white);
     border-top: 1px solid var(--content-lighter);
@@ -87,7 +84,6 @@ table > tbody > tr > td > a:hover {
     background-color: var(--secondary-base);
     border-color: var(--secondary-base);
 }
-
 
 /***************** bootstrap checkbox *****************/
 
@@ -113,7 +109,6 @@ table > tbody > tr > td > a:hover {
   border-color: var(--primary-lighter);
   background-color: var(--primary-lighter);
 }
-
 
 /***************** bootstrap navigation *****************/
 
@@ -160,7 +155,7 @@ header > nav {
 
 /***************** 75 characters max on desktop *****************/
 
-.p {
+.readability {
   max-width: 75ch;
 }
 
@@ -179,7 +174,6 @@ header > nav {
 .custom-lg-img {
     width: 12rem;
 }
-
 
 /***************** custom side navigation *****************/
 
@@ -283,7 +277,6 @@ header > nav {
     padding-left: 3.8rem;
 }
 
-
 /***************** custom list *****************/
 
 .custom-list {
@@ -331,7 +324,6 @@ header > nav {
 .custom-footer {
   margin: 4rem 0;
 }
-
 
 /***************** custom backgrounds *****************/
 
