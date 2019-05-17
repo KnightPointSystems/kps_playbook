@@ -8,3 +8,5 @@ left_nav:
 right_nav:
   - title: About DID(it)
     url: about
+  - title: Resources
+    url: resources
