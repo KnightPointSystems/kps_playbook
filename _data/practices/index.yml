@@ -16,7 +16,7 @@ sections:
       - Stack Ranking
   - title: Problem
     pill: Practices
-    text: Get the project started and align the team towards a common direction.
+    text: Understand the universe of problems, prioritize them to narrow the team's focus, and define a valuable technical complex problem to solve.
     related:
       - 2x2 Sorting
       - Dump and Sort
@@ -26,7 +26,7 @@ sections:
       - User Interviews
   - title: Solution
     pill: Practices
-    text: Get the project started and align the team towards a common direction.
+    text: Conceive and test solutions that solve problems and agree on a solution.
     related:
       - 2x2 Sorting
       - 5 Whys
