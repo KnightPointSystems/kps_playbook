@@ -12,6 +12,3 @@ steps:
     text: The blueprint can be a constructed in a linear way – noting each step of the process. Start by arranging the different activities to make the blueprint. Identify each action in the process. Ensure you connect the lines of interaction, either between customer and service provider or customer and software for example. Time for each activity needs to be captured in its own lane.
   - title: Validate blueprint with stakeholders
     text: After the blueprint is assembled, it should be validated with relevant stakeholders. By bringing in stakeholders, the blueprint can not only be confirmed but be used as a tool to promote cohesion over vision and process understanding. With validation comes the opportunity to identify potential changes and to use the blueprint as a guide to impacting changes throughout an entire process.
-related:
-  - Discovery
-  - Framing
