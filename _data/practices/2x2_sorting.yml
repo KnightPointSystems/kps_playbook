@@ -22,5 +22,7 @@ steps:
   - title: Assign work
     text: Once the work is sorted into quadrants, the product manager takes a picture of the board and reports back out to the group. The low effort and high impact quadrant work are set to the highest priority.
 related:
-  - Discovery
-  - Framing
+  - Business Goals
+  - Risks and Mitigations
+  - Problem Workshop
+  - Inception
