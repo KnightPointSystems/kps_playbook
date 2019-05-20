@@ -12,6 +12,3 @@ steps:
     text: Prior to sizing each story, the team reviews the detail of each product backlog item and the acceptance criteria. Establish a shared agreement of the work required to successfully implement a given story. Let the developers and designers ask questions and define task to fulfill the commitment. Learn more about <a href="../sizing">sizing</a>.
   - title: Identify risks
     text: The team discusses any potential risks found based on the severity of impact. Identify stories that are not defined well enough to be worked and need further clarification. Break down user stories into smaller items to deliver working, demonstrable, software features. The goal is to have a backlog of stories that are 1 or 2 point stories.
-related:
-  - Risks and Mitigations
-  - Inception
