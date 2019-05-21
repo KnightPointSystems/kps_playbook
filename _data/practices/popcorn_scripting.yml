@@ -20,4 +20,3 @@ steps:
     text: A leading question prompts or encourages a desired answer. A good question is “Recall a time when the form failed to print successfully?”” rather than “Forms always fail to print during peak hours, correct?”. The first question lets you explore a range of options. The second question is limited to a specific incident.
 related:
   - Discovery
-  - Framing
