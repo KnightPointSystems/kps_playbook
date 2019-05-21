@@ -1,6 +1,0 @@
----
-layout: v2/default
----
-{% assign player = page.url | split: '/' | last | split: '.' | first %}
-{% assign content = site.data.players[player] %}
-{% include v2/content.html content=content steps_title='Primary Responsibilities' %}

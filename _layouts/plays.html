@@ -1,0 +1,6 @@
+---
+layout: default
+---
+{% assign play = page.url | split: '/' | last | split: '.' | first %}
+{% assign content = site.data.plays[play] %}
+{% include content.html content=content steps_title='Steps' topic='Plays' %}

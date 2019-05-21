@@ -1,0 +1,30 @@
+<div class="col-md-3">
+  <nav class="navbar navbar-expand-sm navbar-light mb-5">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sidenav" aria-controls="sidenav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="sidenav">
+      <ul class="custom-sidenav-list">
+        <li>
+          <a href="{{ site.baseurl }}/plays" class="custom-current">Plays</a>
+        </li>
+        {% for subheading in site.data.plays.sidenav %}
+          <ul class="custom-sidenav-sub_list">
+            <li>
+              <a href="{{ site.baseurl }}/plays">{{ subheading.title }}</a>
+              <ul class="custom-sidenav-sub_list">
+                {% for p in subheading.pages %}
+                  {% assign url_parts = page.url | split: '/' %}
+                  {% assign filename = url_parts | last | replace: '_', ' ' | capitalize_all %}
+                  <li>
+                      <a class="{% if filename == p %}custom-current{% endif %}" href="{{ site.baseurl }}/plays/{% include to_url.html title=p %}">{{ p }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          </ul>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</div>
