@@ -7,18 +7,29 @@ hero:
 description: The product designer role focuses on helping people find solutions to their problems and motivating interaction with the product. In order to gain confidence of the users, designers first focus on making the design efficient for people instead of the computer. The entire design process is iterative and requires continuous changes and refinements based on feedback from the customer and the product team.
 responsibilities:
   - title: Empathize with people
-    text: As a product designer, place yourself in the shoes of the user to create designs that will delight the users and improve user experience. Through contextual inquiry, you can observe users in their natural environment, giving you a better understanding of the way users work. Learn more about <a href="../../practices/contextual_inquiry">contextual inquiry</a>.
+    text: >
+      As a product designer, place yourself in the shoes of the user to create designs that will delight the users and improve user experience. Through contextual inquiry, you can observe users in their natural environment, giving you a better understanding of the way users work..<br><br>
+      Learn more about <a href="../../practices/contextual_inquiry">contextual inquiry</a>.
   - title: Define the problem
-    text: In collaboration with the product manager, conduct user interviews to gather detailed information about the users, their problems and their needs. Once your research is complete, synthesize the information you gather into insights and actions. Learn more about <a href="../../practices/user_interviews">user interviews</a> and <a href="../../practices/synthesis">user interview synthesis</a>.
+    text: >
+      In collaboration with the product manager, conduct user interviews to gather detailed information about the users, their problems and their needs. Once your research is complete, synthesize the information you gather into insights and actions.<br><br>
+      Learn more about <a href="../../practices/user_interviews">user interviews</a> and <a href="../../practices/synthesis">user interview synthesis</a>.
   - title: Design artifacts
-    text: Act on the information synthesized from the user research to establish a baseline for your design using personas, use cases, information architecture and journey maps. Develop personas to represent the needs, behaviors and goals of different user types. Understand the tasks the users are trying to accomplish by determining the use cases. Focus on organizing, structuring, and labeling content using information architecture techniques. Journey maps can help you visualize the process the person goes through in order to accomplish their goals.
-    Learn more about <a href="../../practices/personas">personas</a> and <a href="../../practices/journey_maps">journey maps</a>.
+    text: >
+      Act on the information synthesized from the user research to establish a baseline for your design using personas, use cases, information architecture and journey maps. Develop personas to represent the needs, behaviors and goals of different user types. Understand the tasks the users are trying to accomplish by determining the use cases. Focus on organizing, structuring, and labeling content using information architecture techniques. Journey maps can help you visualize the process the person goes through in order to accomplish their goals.<br><br>
+      Learn more about <a href="../../practices/personas">personas</a> and <a href="../../practices/journey_maps">journey maps</a>.
   - title: Team ideation
-    text: Lead group sketching sessions with the product team to consider design from all perspectives and seek a broad range of input for later synthesis. Learn more about <a href="../../practices/group_sketching">group sketching</a>.
+    text: >
+      Lead group sketching sessions with the product team to consider design from all perspectives and seek a broad range of input for later synthesis..<br><br>
+      Learn more about <a href="../../practices/group_sketching">group sketching</a>.
   - title: From wireframe to prototypes
-    text: Start your design with low-fidelity wireframes to define the outline and layout structure of the solution. As you progress in the design process, build mockups to experiment with visual hierarchy and interface elements. Once you understand the user interface, work in the visual aesthetics and usability of the product considering effects of color, shapes, typography and other visual elements. From this point, you can now move to design how the user will interact with the product and how the product response to user’s input. During the interactive design, you can use prototypes to simulate the user interaction to the product. Learn more about <a href="../../practices/prototyping">prototyping</a>.
+    text: >
+      Start your design with low-fidelity wireframes to define the outline and layout structure of the solution. As you progress in the design process, build mockups to experiment with visual hierarchy and interface elements. Once you understand the user interface, work in the visual aesthetics and usability of the product considering effects of color, shapes, typography and other visual elements. From this point, you can now move to design how the user will interact with the product and how the product response to user’s input. During the interactive design, you can use prototypes to simulate the user interaction to the product..<br><br>
+      Learn more about <a href="../../practices/prototyping">prototyping</a>.
   - title: Test your solution
-    text: Evaluate your solutions with the users of the product and measure the impact of your design. Through usability testing, you can learn how well users can achieve their goals successfully. Another method to test your solution is heuristic evaluation which compares your design against a list of established guidelines. Incorporate feedback from the user testing into changes to the product design. Learn more about <a href="../../practices/usability_testing">usability testing</a>.
+    text: >
+      Evaluate your solutions with the users of the product and measure the impact of your design. Through usability testing, you can learn how well users can achieve their goals successfully. Another method to test your solution is heuristic evaluation which compares your design against a list of established guidelines. Incorporate feedback from the user testing into changes to the product design..<br><br>
+      Learn more about <a href="../../practices/usability_testing">usability testing</a>.
 related:
   - Contextual Inquiry
   - Group Sketching
