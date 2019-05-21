@@ -17,7 +17,7 @@ steps:
   - title: Execute tasks
     text: Once a single ordered list is agreed upon, the product team add the items to the backlog for discovery or implementation.
 related:
-  - Strategic Objectives
+  - Business Goals
   - Risks and Mitigations
   - Problem Workshop
   - Inception
