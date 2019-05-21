@@ -41,7 +41,7 @@ title: Welcome to the DID(it) Playbook
         <div class="col-md-6 order-md-3">
           <h2 class="mt-5">Playlist</h2>
           <p class="lead">Drive consistency and reduce risk by following standard procedures.</p>
-          <a href="{{ site.baseurl }}/v2/playlist" class="btn btn-primary muted-text" role="button">
+          <a href="{{ site.baseurl }}/v2/plays" class="btn btn-primary muted-text" role="button">
             Read more
             <span class="sr-only">about Playlist</span>
           </a>
