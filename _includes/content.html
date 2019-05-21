@@ -1,0 +1,37 @@
+<div class="container mt-5">
+  <div class="row">
+    {% if include.topic == 'Plays' %}
+      {% include plays_sidenav.html %}
+    {% else %}
+      {% include sidenav.html %}
+    {% endif %}
+    <main role="main" class="col-md-9">
+      {% include content/hero.html hero=include.content.hero %}
+      <!-- .steps -->
+      <section class="mb-5">
+        {% include content/description.html description=include.content.description %}
+
+        {% if include.content.responsibilities %}
+          {% assign items = include.content.responsibilities %}
+        {% elsif include.content.steps %}
+          {% assign items = include.content.steps %}
+        {% endif %}
+
+        {% if items %}
+            {% include content/steps.html title=include.steps_title items=items %}
+        {% endif %}
+      </section>
+      <!-- /.steps -->
+      {% if include.content.resources %}
+        {% assign resources = include.content.resources %}
+        {% include content/resources.html resources=resources %}
+      {% endif %}
+      {% if include.content.related %}
+        {% assign related = include.content.related %}
+        {% include content/related.html related=related %}
+      {% endif %}
+    </main>
+    <!-- /.main -->
+  </div>
+  <!-- /.row -->
+</div>

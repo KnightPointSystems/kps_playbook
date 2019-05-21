@@ -1,10 +1,28 @@
-  <header class="masthead clearfix">
-<!--          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a> -->
+<header class="sticky-top custom-bkg-white" id="scroll-top">
+  <div class="container">
+    <a class="navbar-brand ml-2" href="{{ site.baseurl }}/{{ site.data.header.brand.url }}">{{ site.data.header.brand.title }}</a>
+  </div>
 
-          <!-- <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p> 
-          </div> -->
-
-          {% include nav.html %}
-        </header>
+  <nav class="navbar navbar-expand-sm navbar-light">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          {% for item in site.data.header.left_nav %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/{% include to_url.html title=item.title %}">{{ item.title }}</a>
+            </li>
+         {% endfor %}
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          {% for item in site.data.header.right_nav %}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a>
+            </li>
+         {% endfor %}
+      </div>
+    </div>
+  </nav>
+</header>

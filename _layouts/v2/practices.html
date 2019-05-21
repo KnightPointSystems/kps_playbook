@@ -1,6 +1,0 @@
----
-layout: v2/default
----
-{% assign practice = page.url | split: '/' | last | split: '.' | first %}
-{% assign content = site.data.practices[practice] %}
-{% include v2/content.html content=content steps_title='Steps' %}
