@@ -68,5 +68,3 @@ title: About DID(it)
     </div>
   </section>
   <!-- /.collage -->
-
-<img class="align-self-center mr-5 custom-md-img" src="../../assets/img/v2/assets/pb-playbook@2x.png" alt="...">
