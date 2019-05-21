@@ -7,16 +7,22 @@ hero:
 description: The product management role is critical to coordinate the process of product development and making sure the product is deliver as planned. It is key for the product manager to collaborate with multiple stakeholder groups to identify and prioritize product features based on business needs.
 responsibilities:
   - title: Product strategy and planning
-    text: As the leader of the product team, you are responsible for building consensus on the strategic objectives and business goals of the product; identifying and mitigating risk; translating business needs into solutions; and managing product roadmaps, feature backlogs, and user stories.
+    text: As the leader of the product team, you are responsible for building consensus on the strategic objectives and business goals of the product; identifying and mitigating risk; translating business needs into solutions; and managing product roadmaps, feature backlogs, and user stories. Learn more about <a href="../../plays/">playbook plays</a>.
   - title: Collaborate with product team
     text: As a cross-functional team, leverage the experience of each team member. For instance, focus on delivering user-centered products with the support of the product designers, and promoting continual integration with the support of the product engineers. Always, be available to the product team throughout the implementation process to remove any impediments slowing down the team.
   - title: Schedule and lead product meetings
-    text: These meetings include Daily Stand-Up, Sizing, and Retrospective. As well as, any ad-hoc meetings required by the product team and any meeting involving external stakeholders with an interest in the product you are managing.
+    text: These meetings include daily stand-up, sizing, and retrospective. As well as, any ad-hoc meetings required by the product team and any meeting involving external stakeholders with an interest in the product you are managing. Learn more about <a href="../../practices/daily_standup">daily stand-up</a>, <a href="../../practices/sizing">sizing</a> and <a href="../../practices/retrospective">retrospective</a>.
   - title: Conduct user interviews
-    text: In collaboration with the product designer, schedule and conduct user interviews to gather product information. After concluding the interviews, proceed to interview synthesis to build consensus on insights.
+    text: In collaboration with the product designer, schedule and conduct user interviews to gather product information. After concluding the interviews, proceed to interview synthesis to build consensus on insights. Learn more about <a href="../../practices/user_interviews">user interviews</a> and <a href="../../practices/synthesis">user interview synthesis</a>.
   - title: Product team point of contact
     text: As the primary point of contact for the product team, you are responsible for receiving and requesting feedback from internal and external stakeholders. As well as, communicate the roadmap to the product owner and track development and deployment benchmarks.
   - title: Product testing
     text: You are responsible for the delivering high quality results throughout the product development cycle. Test mockups for new features to define what is valuable. Test stories to ensure quality prior to delivery. Test features with users to ensure value.
   - title: Document and improve process standards
     text: You are responsible for advocating for industry best practices. Identify the processes that the team follow, work with the product team and senior management to document those processes and find areas of improvement.
+related:
+  - Daily Standup
+  - Retrospective
+  - Sizing
+  - Synthesis
+  - User Interviews
