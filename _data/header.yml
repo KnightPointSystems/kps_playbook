@@ -6,7 +6,5 @@ left_nav:
   - title: Plays
   - title: Practices
 right_nav:
-  - title: About KPS
-    url: about
   - title: Resources
     url: resources

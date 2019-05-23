@@ -16,14 +16,5 @@ steps:
     text: During user interviews, have at least 2 to 3 other team members taking notes during each interview and writing down direct quotes from the users, whenever possible. The more detailed the notes, the better.
   - title: Team compiles notes and schedules user interview synthesis
     text: The designer or product manager will compile the team's notes and then schedule a time for the team to have a <a href="../synthesis">user interview synthesis</a> meeting which will help determine the problems and summarize the needs of the users.
-banner:
-  title: User Interview infographic
-  filename: pb-userinterview-infographic@2x.pdf
-  image:
-    filename: pb-userinterview-infographic02@2x.png
-    alt: ...
-resources:
-  - description: User interview infographic
-    filename: pb-userinterview-infographic@2x.pdf
 related:
   - Discovery
