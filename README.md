@@ -1,6 +1,6 @@
 # KPS Playbook
 
-#### [Visit](https://pages.git.uscis.dhs.gov/USCIS/didit_playbook/)
+#### [Visit](https://knightpointsystems.github.io/kps_playbook/)
 
 ### Understanding Jekyll
 
