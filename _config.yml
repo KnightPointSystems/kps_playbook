@@ -9,7 +9,7 @@ name: DID(it) Playbook
 description: If you build it, they will come.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/USCIS/didit_playbook/images/didit_logo_nocircle.svg"
+avatar: "/USCIS/kps_playbook/images/kps_logo_nocircle.svg"
 #
 # Flags below are optional
 #
@@ -46,7 +46,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/USCIS/didit_playbook"
+baseurl: "/USCIS/kps_playbook"
 
 #
 # !! You don't need to change any of the configuration flags below !!

@@ -16,33 +16,12 @@ want to understand:
     - [Creating Pages](https://jekyllrb.com/docs/pages/)
     - [Data Files](https://jekyllrb.com/docs/datafiles/)
     - [Assets](https://jekyllrb.com/docs/assets/)
-    
-### Getting the Site Up & Running Locally
-
-To get the Jekyll site up and running locally, you will simply need a simple ruby environment installed, then the
-github_pages rubygem.
-
-For setting up your ruby environment, you can follows DID(it)'s guide on this:
-
-- Mac ([Instructions](https://git.uscis.dhs.gov/USCIS/didit_development_ruby/wiki/Ruby-Development-Environment-Setup-Guide-(macOS)))
-- PC ([Instructions](https://git.uscis.dhs.gov/USCIS/didit_development_ruby/wiki/Ruby-Dev-Environment-Setup-Guide-for-Windows-7-(Ubuntu,-Vagrant-&-Virtualbox)))
-
-After your ruby set up is complete, you can simply run `gem install github-pages` from your command line.
-
-**If you feel that an environment set up this technical is too confusing for you, contact Thomas Baird (@tmobaird on slack).**
 
 ### Contributing
 
 Contributing to this guide follows the common DID(it) pull request model. To contribute, simply make any changes you
 would like on a separate branch, create a pull request with those changes, another member of DID(it) will then
 review and approve or add comments to those changes, then the changes will get merged into the project!
-
-### Contributing Online via GHE
-
-View contributing instructions [here](https://git.uscis.dhs.gov/USCIS/didit_playbook/wiki/Contributing-Online-via-GHE)
-
-Or paste this link into your browser: https://git.uscis.dhs.gov/USCIS/didit_playbook/wiki/Contributing-Online-via-GHE
-
 
 #### Understanding Front matter
 
