@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to the DID(it) Playbook
+title: Welcome to the KPS Playbook
 ---
 <main role="main">
   <!-- .hero -->
@@ -10,8 +10,8 @@ title: Welcome to the DID(it) Playbook
         <div class="media m-5">
           <img class="align-self-center mr-5 custom-md-img" src="{{ site.baseurl }}/assets/img/icons/pb-playbook@2x.png" alt="...">
             <div class="media-body">
-              <h1>DID(it) Playbook</h1>
-              <p class="lead"> The excellence of the DID(it) team is centered around our “best practices” highlighted in our DID(it) Playbook.</p>
+              <h1>KPS Playbook</h1>
+              <p class="lead"> The excellence of the Knight Point Systems team is centered around our “best practices” highlighted in our KPS Playbook.</p>
             </div>
         </div>
       </div>

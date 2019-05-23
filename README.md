@@ -1,6 +1,6 @@
-# DID(it) Playbook
+# KPS Playbook
 
-#### [Visit](https://pages.git.uscis.dhs.gov/USCIS/didit_playbook/)
+#### [Visit](https://knightpointsystems.github.io/kps_playbook/)
 
 ### Understanding Jekyll
 
@@ -19,8 +19,8 @@ want to understand:
 
 ### Contributing
 
-Contributing to this guide follows the common DID(it) pull request model. To contribute, simply make any changes you
-would like on a separate branch, create a pull request with those changes, another member of DID(it) will then
+Contributing to this guide follows the common KPS pull request model. To contribute, simply make any changes you
+would like on a separate branch, create a pull request with those changes, another member of KPS will then
 review and approve or add comments to those changes, then the changes will get merged into the project!
 
 #### Understanding Front matter
@@ -30,7 +30,7 @@ to utilize a lot of the power that Jekyll gives you. For reference, front matter
 of our files that starts and ends with: `---`.
 
 Everything between sets of `---` is called front matter, and this is where an infinite number of properties
-can be defined that can be used programatically within our templates.
+can be defined that can be used programmatically within our templates.
 
 For example, if you would like to set the title and route of a markdown page you are writing, it could
 look something like:

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DID(it) Playbook - Playlist
+title: KPS Playbook - Playlist
 ---
 <div class="container mt-5">
   <!-- .row -->

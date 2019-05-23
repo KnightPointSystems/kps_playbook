@@ -9,7 +9,7 @@ steps:
   - title: Determine subject areas
     text: "Define 3-5 subject areas (stations) to focus on. Include at least one area of each: product management, design, and engineering. Additional stations could explore practices like user interviewing, pair programming, or test-driven development."
   - title: Invite participants
-    text: Invite members of the product owner team, product stakeholders, and OIT stakeholders. In addition, invite the DID(it) team and anyone else that may benefit from this knowledge sharing.
+    text: Invite members of the product owner team, product stakeholders, and OIT stakeholders. In addition, invite the KPS team and anyone else that may benefit from this knowledge sharing.
   - title: Confirm expectations
     text: Confirm expectations ahead of time with product owner team. Send list of subject areas and ensure attendees understand intentions and proposed flow of the fair.
   - title: Plan the station material
