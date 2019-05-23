@@ -1,12 +1,12 @@
 brand:
-  title: DID(it) Playbook
+  title: KPS Playbook
   url: index
 left_nav:
   - title: Players
   - title: Plays
   - title: Practices
 right_nav:
-  - title: About DID(it)
+  - title: About KPS
     url: about
   - title: Resources
     url: resources

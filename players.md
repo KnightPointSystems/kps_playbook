@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DID(it) Playbook - Players
+title: KPS Playbook - Players
 ---
 <div class="container mt-5">
   <!-- .row -->
