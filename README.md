@@ -1,4 +1,4 @@
-# KPS Playbook
+# KPS Agile Playbook
 
 #### [Visit](https://knightpointsystems.github.io/kps_playbook/)
 
