@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to the KPS Playbook
+title: Welcome to the KPS Agile Playbook
 ---
 <main role="main">
   <!-- .hero -->
@@ -10,8 +10,8 @@ title: Welcome to the KPS Playbook
         <div class="media m-5">
           <img class="align-self-center mr-5 custom-md-img" src="{{ site.baseurl }}/assets/img/icons/pb-playbook@2x.png" alt="...">
             <div class="media-body">
-              <h1>KPS Playbook</h1>
-              <p class="lead"> The excellence of the Knight Point Systems team is centered around our “best practices” highlighted in our KPS Playbook.</p>
+              <h1>KPS Agile Playbook</h1>
+              <p class="lead"> The excellence of the Knight Point Systems team is centered around our “best practices” highlighted in our KPS Agile Playbook.</p>
             </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KPS Playbook - Practices
+title: KPS Agile Playbook - Practices
 ---
 <div class="container mt-5">
   <!-- .row -->
